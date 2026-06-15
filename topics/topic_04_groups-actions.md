@@ -3,13 +3,13 @@
 > **Objective (part of MM "O3"): answer open questions in C\*-algebras, study group theory and group actions.**
 > Research linked to group theory and group actions, approached using tools from
 > functional analysis, probability theory, and combinatorics, with a specific
-> emphasis on Cartan subalgebras in simple nuclear C\*-algebras.
+> emphasis on Cartan subalgebras in simple nuclear [C\*-algebras](../GLOSSARY.md#c-algebra).
 
 Source: [T4: Groups and actions](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_groups-actions.shtml)
 
 Symmetry, expressed through **groups and their actions**, cuts across the whole
 cluster. Three research units:
-1. **Groups, dynamics and C\*-algebras** (amenability, freeness, property (T)).
+1. **Groups, dynamics and [C\*-algebras](../GLOSSARY.md#c-algebra)** ([amenability](../GLOSSARY.md#amenable-group), freeness, property (T)).
 2. **Entropy, probability and geometry of groups** (orbit equivalence, invariant percolation).
 3. **Algebraic groups and Lie groups** (representations of $p$-adic groups, Bruhat–Tits buildings).
 
@@ -38,10 +38,10 @@ graph.
 ### Level 2 — Master
 MM treats infinite discrete groups as geometric/combinatorial objects and studies
 their actions on compact spaces and measure spaces. Key dividing lines:
-**amenability** (existence of an invariant mean), **property (T)** (rigidity:
-trivial representation isolated in the unitary dual), the **Haagerup property**
+**[amenability](../GLOSSARY.md#amenable-group)** (existence of an invariant mean), **property (T)** (rigidity:
+trivial representation isolated in the [unitary dual](../GLOSSARY.md#unitary-representation)), the **[Haagerup property](../GLOSSARY.md#haagerup-property)**
 (a-T-menability), and **hyperbolicity** (Gromov). These properties control the
-dynamics and the associated operator algebras. References:
+dynamics and the associated [operator algebras](../GLOSSARY.md#operator-algebra). References:
 [Group action](https://en.wikipedia.org/wiki/Group_action),
 [Geometric group theory](https://en.wikipedia.org/wiki/Geometric_group_theory).
 
@@ -67,9 +67,9 @@ analogue of a coordinate system / maximal torus.
 By **Renault's theorem**, a Cartan pair $(A,B)$ corresponds to a twisted étale
 groupoid: $A = C^*_r(\mathcal{G},\Sigma)$, $B=C_0(\mathcal{G}^{(0)})$. MM's
 emphasis is proving **existence and uniqueness of Cartan subalgebras** in simple
-separable nuclear C\*-algebras (the classifiable ones), connecting the abstract
+separable nuclear [C\*-algebras](../GLOSSARY.md#c-algebra) (the classifiable ones), connecting the abstract
 classification (Topic 1) to topological dynamics. Recent MM work (Gardella–Geffen–
-Kranz–Naryshkin–Vaccaro) proves **$\mathcal{Z}$-stability** and classifiability of
+Kranz–Naryshkin–Vaccaro) proves **[$\mathcal{Z}$-stability](../GLOSSARY.md#z-stability)** and classifiability of
 crossed products under dynamical conditions (almost finiteness, dynamical
 comparison, tracial amenability) even for nonamenable acting groups. References:
 [Crossed product C*-algebra](https://en.wikipedia.org/wiki/Crossed_product),
@@ -96,10 +96,10 @@ $G$ has "no almost-invariant vectors". $SL_3(\mathbb{Z})$ has (T); $SL_2(\mathbb
 does not.
 
 ### Level 2 — Master
-These properties are detected and refined through **operator algebras**: nuclearity
-of $C^*_r(G)$ characterises amenability (Lance); property (T) and the **Haagerup
-property** have spectral-gap and a-T-menability formulations. MM studies them via
-**invariant percolation** and **Roe algebras** (coarse geometry), and via finite
+These properties are detected and refined through **[operator algebras](../GLOSSARY.md#operator-algebra)**: nuclearity
+of $C^*_r(G)$ characterises [amenability](../GLOSSARY.md#amenable-group) (Lance); property (T) and the **[Haagerup
+property](../GLOSSARY.md#haagerup-property)** have spectral-gap and a-T-menability formulations. MM studies them via
+**invariant percolation** and **Roe algebras** ([coarse geometry](../GLOSSARY.md#coarse-geometry)), and via finite
 approximation (soficity, quasidiagonality). Reference:
 [Amenable group](https://en.wikipedia.org/wiki/Amenable_group),
 [Kazhdan's property (T)](https://en.wikipedia.org/wiki/Kazhdan%27s_property_(T)).
@@ -146,7 +146,7 @@ A **Lie group** is a group that is also a smooth manifold with smooth operations
 (e.g. $SO(3)$, $GL_n(\mathbb{R})$); its tangent space at the identity is a **Lie
 algebra** $\mathfrak{g}$, capturing the group infinitesimally via the exponential
 map. An **algebraic group** is a group defined by polynomial equations (e.g.
-$SL_n$ as a variety). Over the $p$-adic numbers $\mathbb{Q}_p$ one gets $p$-adic
+$SL_n$ as a variety). Over the [$p$-adic numbers](../GLOSSARY.md#p-adic-numbers) $\mathbb{Q}_p$ one gets $p$-adic
 Lie groups like $GL_n(\mathbb{Q}_p)$.
 
 ### Level 2 — Master

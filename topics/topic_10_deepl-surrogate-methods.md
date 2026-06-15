@@ -104,7 +104,7 @@ reformulations that let networks learn the solution from simulated paths
 ### Level 2 — Master
 MM (Jentzen, Ohlberger, Weber, Rave, Engwer) designs and *analyses* deep
 approximation schemes with **error estimates and certification**, including
-low-regularity **stochastic PDEs** via **rough paths / regularity structures**
+low-regularity **[stochastic PDEs](../GLOSSARY.md#stochastic-pde)** via **[rough paths](../GLOSSARY.md#rough-paths) / regularity structures**
 combined with ML (higher-order schemes), and **deep operator learning** (learning
 solution operators $\mathcal{G}:\mu\mapsto u_\mu$ between function spaces). Emphasis:
 provable accuracy, not just empirical performance. References:

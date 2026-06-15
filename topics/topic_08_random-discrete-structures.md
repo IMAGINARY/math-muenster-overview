@@ -68,9 +68,9 @@ exhibiting a genuine phase transition with critical phenomena.
 ### Level 2 — Master
 MM (Mukherjee, Recke, Kerr) studies **percolation on groups** and
 **group-invariant percolation**, where the geometry/representation theory of the
-group (amenability, **property (T)**, **Haagerup property**) interacts with the
+group ([amenability](../GLOSSARY.md#amenable-group), **property (T)**, **[Haagerup property](../GLOSSARY.md#haagerup-property)**) interacts with the
 existence and uniqueness of infinite clusters, analysed through **Schur multipliers**
-and **Roe / group C\*-algebras** — a bridge to Topic 4. References:
+and **Roe / group [C\*-algebras](../GLOSSARY.md#c-algebra)** — a bridge to Topic 4. References:
 [Percolation theory](https://en.wikipedia.org/wiki/Percolation_theory),
 [Haagerup property and group-invariant percolation, arXiv:2303.17429](https://arxiv.org/abs/2303.17429).
 
@@ -120,7 +120,7 @@ but never share a site. A **scaling limit** rescales space and time so the rando
 particle density converges to a deterministic/stochastic PDE.
 
 ### Level 2 — Master
-MM (Weber, Huesmann, Mukherjee) proves convergence of **WASEP to the KPZ equation**
+MM (Weber, Huesmann, Mukherjee) proves convergence of **WASEP to the [KPZ equation](../GLOSSARY.md#stochastic-pde)**
 and of static **Ising–Kac models to $\Phi^4_3$** using **regularity structures**
 (cf. Topics 6–7), and uses **large deviation principles** for random walks in random
 environments to study **stochastic homogenisation** of the Hamilton–Jacobi–Bellman

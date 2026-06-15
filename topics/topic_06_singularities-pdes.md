@@ -9,9 +9,9 @@
 Source: [T6: Singularities and partial differential equations](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_singularities-pdes.shtml)
 
 Three research units:
-1. **Geometric analysis** (Einstein manifolds, gravitational instantons, minimal hypersurfaces).
+1. **Geometric analysis** (Einstein manifolds, gravitational instantons, [minimal hypersurfaces](../GLOSSARY.md#minimal-surface)).
 2. **Dynamics of evolutionary PDEs** (black hole stability, Euler equations, cross-diffusion).
-3. **Regularity** (stochastic PDEs, regularity structures, Monge–Ampère, thin-film).
+3. **[Regularity theory](../GLOSSARY.md#regularity-theory)** ([stochastic PDEs](../GLOSSARY.md#stochastic-pde), regularity structures, Monge–Ampère, thin-film).
 
 ---
 
@@ -39,7 +39,7 @@ describe propagation at finite speed.
 ### Level 2 — Master
 MM works with **nonlinear** PDEs of geometric and physical origin. The character
 (elliptic/parabolic/hyperbolic) dictates the analytic toolkit: a priori estimates,
-energy methods, Sobolev/Hölder spaces, weak solutions, and the calculus of
+energy methods, [Sobolev](../GLOSSARY.md#sobolev-space)/Hölder spaces, weak solutions, and the calculus of
 variations. A recurring question is **well-posedness** versus **singularity
 formation**. References: [Partial differential equation](https://en.wikipedia.org/wiki/Partial_differential_equation).
 
@@ -147,11 +147,11 @@ classically ill-defined, requiring **renormalisation** (subtracting infinities).
 
 ### Level 2 — Master
 The breakthroughs of **regularity structures** (Hairer) and **paracontrolled
-calculus** (Gubinelli–Imkeller–Perkowski) give a solution theory for singular SPDEs
+calculus** (Gubinelli–Imkeller–Perkowski) give a solution theory for [singular SPDEs](../GLOSSARY.md#stochastic-pde)
 in the **subcritical** regime. MM (Weber, Tempelmayr, Chandra) proves **a priori
 bounds** for $\Phi^4$ and the parabolic Anderson model in the full subcritical
 regime and pushes toward **quasilinear** equations (stochastic porous medium). The
-deterministic side includes regularity for the complex **Monge–Ampère** and
+deterministic side includes [regularity theory](../GLOSSARY.md#regularity-theory) for the complex **Monge–Ampère** and
 **thin-film** equations. References:
 [Regularity structures](https://en.wikipedia.org/wiki/Regularity_structure),
 [A priori bounds for $\Phi^4$ in the full subcritical regime, ARMA 2023](https://doi.org/10.1007/s00205-023-01876-7).

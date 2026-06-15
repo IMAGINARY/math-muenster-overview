@@ -12,7 +12,7 @@ Source: [T9: Multiscale processes and effective behaviour](https://www.uni-muens
 
 Three research units:
 1. **Determination and optimisation of structures** (optimal design, HJB without curse of dimensionality).
-2. **Homogenisation and multiscale methods** (nonlinear homogenisation, model order reduction).
+2. **[Homogenisation](../GLOSSARY.md#homogenisation) and multiscale methods** (nonlinear homogenisation, model order reduction).
 3. **Mixing and equilibration** (fluid mixing, kinetic equations, transport).
 
 ---
@@ -70,7 +70,7 @@ homogenisation: convergence rates for systems of nonlinear elliptic PDEs in
 **randomly perforated domains** (overlapping perforations), and homogenisation of
 viscous **Hamilton–Jacobi–Bellman equations on continuum percolation clusters**
 (challenges: non-stationarity, non-ellipticity, no global Lipschitz bound),
-linking to large deviations (Topic 8). Framework: $\Gamma$-convergence, two-scale
+linking to large deviations (Topic 8). Framework: [Γ-convergence](../GLOSSARY.md#gamma-convergence), two-scale
 convergence, correctors. References:
 [Homogenization (mathematics)](https://en.wikipedia.org/wiki/Homogenization_(mathematics)),
 [Γ-convergence](https://en.wikipedia.org/wiki/%CE%93-convergence).

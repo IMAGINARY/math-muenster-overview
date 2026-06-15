@@ -2,17 +2,17 @@
 
 > **Objective (MM "O1"): Push frontiers in K-theory and attack open questions in topology.**
 > We explore various cohomology theories and their utility across algebra, geometric
-> topology and operator algebras. Central among them is **K-theory**, studied from
+> topology and operator algebras. Central among them is **[K-theory](../GLOSSARY.md#k-theory)**, studied from
 > several perspectives: new computations of K-groups, new cases of the
-> **Farrell–Jones conjecture**, the **Borel conjecture** on topological rigidity,
-> curvature bounds on manifolds, and the classification of C\*-algebras.
+> **[Farrell–Jones conjecture](../GLOSSARY.md#farrell-jones-conjecture)**, the **[Borel conjecture](../GLOSSARY.md#borel-conjecture)** on topological rigidity,
+> curvature bounds on manifolds, and the classification of [C\*-algebras](../GLOSSARY.md#c-algebra).
 
 Source: [T1: K-groups and cohomology](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_kgroups-cohomology.shtml)
 
 The topic is organised into three research units:
 1. **Cohomology theories in arithmetic geometry** (coherent, étale, prismatic, topological periodic homology).
-2. **Algebraic K-theory and stable $\infty$-categories**.
-3. **Topological K-theory and group cohomology**.
+2. **[Algebraic K-theory](../GLOSSARY.md#algebraic-k-theory) and [stable $\infty$-categories](../GLOSSARY.md#stable-infinity-category)**.
+3. **[Topological K-theory](../GLOSSARY.md#topological-k-theory) and group cohomology**.
 
 The guiding idea: *attach computable algebraic invariants to geometric or
 algebraic objects* (schemes, stacks, C\*-algebras, stable $\infty$-categories,
@@ -86,14 +86,14 @@ striking simplification with no analogue in ordinary cohomology.
 
 ### Level 2 — Master
 Algebraic K-theory is, in the modern view (Waldhausen, Blumberg–Gepner–Tabuada),
-an invariant of **stable $\infty$-categories**: $K\colon \mathrm{Cat}^{\mathrm{ex}}_\infty
+an invariant of **[stable $\infty$-categories](../GLOSSARY.md#stable-infinity-category)**: $K\colon \mathrm{Cat}^{\mathrm{ex}}_\infty
 \to \mathrm{Sp}$, the universal additive (or, after Calmès–Dotto–Harpaz–…–Nikolaus,
 "Poincaré"/Hermitian) invariant, defined via the $S_\bullet$-construction with
-homotopy groups $K_n$. Trace methods (Dennis trace to $THH$, cyclotomic structure,
+homotopy groups $K_n$. [Trace maps](../GLOSSARY.md#trace-map) (Dennis trace to $THH$, cyclotomic structure,
 $TC$ via Nikolaus–Scholze) compute $K$ in terms of topological cyclic homology;
 this drives recent computations such as $K(\mathbb{Z}/p^n)$. The MM unit links
 these structural advances to the categorical $p$-adic Langlands programme and to
-the classification of $C^*$-algebras via topological K-theory (the K-theoretic
+the classification of $C^*$-algebras via [topological K-theory](../GLOSSARY.md#topological-k-theory) (the K-theoretic
 invariant in the Elliott programme). References:
 [algebraic K-theory](https://en.wikipedia.org/wiki/Algebraic_K-theory),
 [K(Z/pⁿ), Antieau–Krause–Nikolaus, arXiv:2405.04329](https://arxiv.org/abs/2405.04329).
@@ -120,13 +120,13 @@ by an equivariant homology theory evaluated on a classifying space for the famil
 of virtually cyclic subgroups.
 
 ### Level 2 — Master
-The conjecture is an isomorphism statement for the assembly map relative to the
-family $\mathcal{VCyc}$, with deep consequences: it implies the **Borel
-conjecture** (topological rigidity of aspherical manifolds of dimension $\ge 5$),
-the **Novikov conjecture** (homotopy invariance of higher signatures), and the
+The conjecture is an isomorphism statement for the [assembly map](../GLOSSARY.md#assembly-map) relative to the
+family $\mathcal{VCyc}$, with deep consequences: it implies the **[Borel
+conjecture](../GLOSSARY.md#borel-conjecture)** (topological rigidity of aspherical manifolds of dimension $\ge 5$),
+the **[Novikov conjecture](../GLOSSARY.md#novikov-conjecture)** (homotopy invariance of higher signatures), and the
 **Kaplansky idempotent conjecture** for torsion-free $G$. Bartels–Lück and
-collaborators established it for large classes (hyperbolic groups, CAT(0)
-groups, lattices, mapping class groups) using controlled topology and flow-space
+collaborators established it for large classes ([hyperbolic groups](../GLOSSARY.md#hyperbolic-group), CAT(0)
+groups, lattices, mapping class groups) using [controlled topology](../GLOSSARY.md#controlled-topology) and flow-space
 methods; recent MM work extends inheritance properties and the case of
 **Hecke algebras of reductive $p$-adic groups**. References:
 [Farrell–Jones conjecture](https://en.wikipedia.org/wiki/Farrell%E2%80%93Jones_conjecture),
@@ -151,14 +151,14 @@ geometric).
 
 ### Level 2 — Master
 Borel rigidity is measured by the **structure set** $\mathcal{S}^{\mathrm{TOP}}(M)$
-of the surgery exact sequence
+of the [surgery theory](../GLOSSARY.md#surgery-theory) exact sequence
 $$
 \cdots \to L_{n+1}(\mathbb{Z}\pi_1) \to \mathcal{S}^{\mathrm{TOP}}(M) \to
 \mathcal{N}(M) \to L_n(\mathbb{Z}\pi_1).
 $$
 Triviality of $\mathcal{S}^{\mathrm{TOP}}(M)$ (so rigidity) follows from the
-$L$-theoretic Farrell–Jones isomorphism plus vanishing of relevant
-$\widetilde{K}_0$ and Whitehead groups. Thus K- and L-theory computations feed
+$L$-theoretic [Farrell–Jones](../GLOSSARY.md#farrell-jones-conjecture) isomorphism plus vanishing of relevant
+$\widetilde{K}_0$ and [Whitehead groups](../GLOSSARY.md#whitehead-group). Thus K- and [L-theory](../GLOSSARY.md#l-theory) computations feed
 directly into the manifold classification. See
 [Borel conjecture](https://en.wikipedia.org/wiki/Borel_conjecture).
 
@@ -183,14 +183,14 @@ unital C\*-algebra is $C(X)$). Topological K-theory $K_0(A), K_1(A)$ are computa
 invariants and form the core of classification.
 
 ### Level 2 — Master
-The **Elliott classification programme** seeks to classify separable, simple,
-nuclear C\*-algebras by an invariant (the *Elliott invariant*: ordered K-theory,
+The **[Elliott classification programme](../GLOSSARY.md#c-algebra)** seeks to classify separable, simple,
+nuclear [C\*-algebras](../GLOSSARY.md#c-algebra) by an invariant (the *Elliott invariant*: ordered K-theory,
 trace simplex, pairing). The landmark result classifies those that are
-$\mathcal{Z}$-stable and satisfy the UCT via $K$-theory and traces; **nuclear
+[$\mathcal{Z}$-stable](../GLOSSARY.md#z-stability) and satisfy the UCT via $K$-theory and traces; **nuclear
 dimension** (Winter et al.) is the key regularity property. MM's unit studies
 existence/classification of **Cartan subalgebras** in simple nuclear
-C\*-algebras (linking to groupoid models and topological dynamics) and uses
-topological K-theory as an invariant of operator algebras, tied back to group
+[C\*-algebras](../GLOSSARY.md#c-algebra) (linking to groupoid models and topological dynamics) and uses
+[topological K-theory](../GLOSSARY.md#topological-k-theory) as an invariant of [operator algebras](../GLOSSARY.md#operator-algebra), tied back to group
 cohomology of arithmetic groups. References:
 [C*-algebra](https://en.wikipedia.org/wiki/C*-algebra),
 [Nuclear dimension of simple C*-algebras (Castillejos et al., 2021)](https://doi.org/10.1007/s00222-020-01013-1).

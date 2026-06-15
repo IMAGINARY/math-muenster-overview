@@ -1,17 +1,17 @@
 # Topic 5 — Curvature, Shape and Global Analysis
 
 > **Objective (part of MM "O4"): approach fundamental open questions in differential geometry through method transfer.**
-> We study the interplay between the (local) geometry of Riemannian manifolds (like
-> curvature) and (global) topological and analytic properties. A goal is to complete
-> the **Grove programme**, generalising structure results for positively curved and
+> We study the interplay between the (local) geometry of [Riemannian manifolds](../GLOSSARY.md#riemannian-geometry) (like
+> [curvature](../GLOSSARY.md#curvature)) and (global) topological and analytic properties. A goal is to complete
+> the **[Grove programme](../GLOSSARY.md#grove-programme)**, generalising structure results for positively curved and
 > Einstein manifolds toward arbitrary symmetry, and ultimately none.
 
 Source: [T5: Curvature, shape and global analysis](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_curvature-shape-analysis.shtml)
 
 Central theme: **local geometry $\leftrightarrow$ global topology/analysis**. Three units:
-1. **Curvature and geometric flows** (positive curvature, Ricci flow, metric measure spaces).
+1. **[Curvature](../GLOSSARY.md#curvature) and geometric flows** (positive curvature, Ricci flow, metric measure spaces).
 2. **Geodesics** (existence/regularity in infinite-dimensional shape spaces).
-3. **Index theory** (scalar curvature bounds via Dirac operators).
+3. **[Index theory](../GLOSSARY.md#index-theory)** ([scalar curvature](../GLOSSARY.md#scalar-curvature) bounds via Dirac operators).
 
 ---
 
@@ -34,9 +34,9 @@ unique torsion-free metric connection, defining parallel transport and covariant
 differentiation.
 
 ### Level 2 — Master
-Curvature is encoded in the **Riemann curvature tensor**
+[Curvature](../GLOSSARY.md#curvature) is encoded in the **Riemann curvature tensor**
 $R(X,Y)Z = \nabla_X\nabla_Y Z - \nabla_Y\nabla_X Z - \nabla_{[X,Y]}Z$, with
-contractions giving **Ricci** $\mathrm{Ric}$ and **scalar** $\mathrm{scal}$
+contractions giving **Ricci** $\mathrm{Ric}$ and **[scalar](../GLOSSARY.md#scalar-curvature)** $\mathrm{scal}$
 curvature. MM also studies **infinite-dimensional** Riemannian and geodesic metric
 spaces, where the finite-dimensional ODE theory of geodesics is replaced by PDEs,
 and the Lie group / Lie algebra correspondence breaks down. References:
@@ -64,7 +64,7 @@ Curvature comes in flavours: **sectional** $K(\sigma)$ (of a 2-plane $\sigma$),
 
 ### Level 2 — Master
 Positive **sectional** curvature is rare and rigid; known examples are scarce, and
-classification is open. The **Grove programme** studies positively curved manifolds
+classification is open. The **[Grove programme](../GLOSSARY.md#grove-programme)** studies positively curved manifolds
 *with symmetry* (isometric torus actions), proving structure/classification under a
 symmetry assumption and then trying to lower it. MM (Wilking, Wiemeler, Kennard)
 proves results linking positive curvature, torus symmetry and matroids, e.g.
@@ -141,17 +141,17 @@ secretly counts holes — and this forbids certain shapes from being curved a
 certain way.
 
 ### Level 1 — Bachelor
-The **Atiyah–Singer index theorem** equates an analytic quantity, the **index**
-$\mathrm{ind}(D)=\dim\ker D - \dim\mathrm{coker}\,D$ of an elliptic operator $D$,
-with a topological integral of characteristic classes. For the **Dirac operator**
+The **[Atiyah–Singer index theorem](../GLOSSARY.md#atiyah-singer-index-theorem)** equates an analytic quantity, the **index**
+$\mathrm{ind}(D)=\dim\ker D - \dim\mathrm{coker}\,D$ of an [elliptic operator](../GLOSSARY.md#elliptic-operator) $D$,
+with a topological integral of [characteristic classes](../GLOSSARY.md#characteristic-class). For the **Dirac operator**
 on a spin manifold, $\mathrm{ind}(D) = \hat{A}(M)$. The **Lichnerowicz formula**
 $D^2 = \nabla^*\nabla + \tfrac14\mathrm{scal}$ then shows: if $\mathrm{scal}>0$,
 $D$ has no harmonic spinors, so $\hat{A}(M)=0$ — a topological obstruction to
-positive scalar curvature.
+positive [scalar curvature](../GLOSSARY.md#scalar-curvature).
 
 ### Level 2 — Master
-MM (Zeidler, Ebert, Deninger) develops **higher index theory** in $C^*$-algebraic
-$K$-theory (the **Rosenberg index** in $KO_*(C^*_r\pi_1)$, higher $\rho$-invariants)
+MM (Zeidler, Ebert, Deninger) develops **higher [index theory](../GLOSSARY.md#index-theory)** in [C\*-algebraic
+K-theory](../GLOSSARY.md#k-theory) (the **Rosenberg index** in $KO_*(C^*_r\pi_1)$, higher $\rho$-invariants)
 and **comparison/rigidity** results: band-width estimates, scalar-and-mean-curvature
 comparison via Dirac operators, positive mass theorems in the spin setting. This
 ties Topic 5 directly to Topic 1 (K-theory) and Topic 2 (spaces of PSC metrics).

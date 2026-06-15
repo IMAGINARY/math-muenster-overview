@@ -74,7 +74,7 @@ rationals $(\mathbb{Q},<)$ are the Fraïssé limit of finite linear orders.
 The **automorphism group** $\mathrm{Aut}(\mathcal{M})$ of a Fraïssé limit is a
 non-archimedean Polish group; its dynamics (extreme amenability,
 Ramsey theory via Kechris–Pestov–Todorcevic correspondence) link model theory to
-**descriptive set theory**, **ergodic theory**, and **C\*-algebras**. MM
+**descriptive set theory**, **[ergodic theory](../GLOSSARY.md#ergodic-theory)**, and **[C\*-algebras](../GLOSSARY.md#c-algebra)**. MM
 (Kwiatkowska et al.) studies **projective Fraïssé limits** (e.g. Ważewski
 dendrites, the random poset) and stationary weak independence relations.
 Reference: [Fraïssé limit](https://en.wikipedia.org/wiki/Fra%C3%AFss%C3%A9_limit).

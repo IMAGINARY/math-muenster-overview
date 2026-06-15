@@ -2,10 +2,10 @@
 
 > **Objective (MM "O5"): exploit stochastic analysis tools in the context of non-commutative field theories.**
 > By combining stochastic analysis, free probability, and topological recursion, we
-> aim to construct field theories on non-commutative spaces in the **critical
+> aim to construct field theories on [non-commutative spaces](../GLOSSARY.md#non-commutative-geometry) in the **critical
 > dimension**, developing stochastic quantisation for scalar non-commutative QFTs
-> and, ultimately, the first rigorous construction of a critical bosonic quantum
-> field theory.
+> and, ultimately, the first rigorous construction of a critical bosonic [quantum
+> field theory](../GLOSSARY.md#quantum-field-theory).
 
 Source: [T7: Field theory and randomness](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_field-theory-randomness.shtml)
 
@@ -73,8 +73,8 @@ SPDE, and you construct the field theory.
 This route requires the **regularity-structures / paracontrolled** machinery
 (cf. Topic 6) because $\phi^3$ is ill-defined for the rough invariant field;
 renormalisation is essential. MM (Weber, Wulkenhaar, Song) pursues **stochastic
-quantisation of $\lambda\phi^4$ on Moyal (non-commutative) space**, combining exact
-solvability with SPDE analysis, and connects discrete approximations (dynamical
+quantisation of $\lambda\phi^4$ on Moyal ([non-commutative](../GLOSSARY.md#non-commutative-geometry)) space**, combining exact
+solvability with [SPDE](../GLOSSARY.md#stochastic-pde) analysis, and connects discrete approximations (dynamical
 Ising–Kac $\to \Phi^4_3$). Reference:
 [Stochastic quantization](https://en.wikipedia.org/wiki/Stochastic_quantization),
 [Stochastic quantization of $\lambda\phi^4_2$ in 2-d Moyal space, arXiv:2502.02355](https://arxiv.org/abs/2502.02355).
@@ -148,7 +148,7 @@ probability.
 
 ### Level 1 — Bachelor
 A **scaling limit** rescales space/time so that a microscopic random model converges
-to a continuum object (e.g. random walk $\to$ Brownian motion). The **polaron** is
+to a continuum object (e.g. random walk $\to$ [Brownian motion](../GLOSSARY.md#brownian-motion)). The **polaron** is
 modelled by the Fröhlich Hamiltonian; its large-coupling behaviour is governed by a
 self-interacting (Pekar) variational problem and an **effective mass**.
 
