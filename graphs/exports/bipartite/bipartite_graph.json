@@ -1,0 +1,1573 @@
+{
+  "elements": [
+    {
+      "id": "topic:topic-01",
+      "label": "Topic 1: K-groups and Cohomology",
+      "type": "topic",
+      "description": "K-groups and Cohomology",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-02",
+      "label": "Topic 2: Moduli Spaces in Arithmetic and Geometry",
+      "type": "topic",
+      "description": "Moduli Spaces in Arithmetic and Geometry",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-03",
+      "label": "Topic 3: Models and Universes",
+      "type": "topic",
+      "description": "Models and Universes",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-04",
+      "label": "Topic 4: Groups and Actions",
+      "type": "topic",
+      "description": "Groups and Actions",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-05",
+      "label": "Topic 5: Curvature, Shape and Global Analysis",
+      "type": "topic",
+      "description": "Curvature, Shape and Global Analysis",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-06",
+      "label": "Topic 6: Singularities and Partial Differential Equations",
+      "type": "topic",
+      "description": "Singularities and Partial Differential Equations",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-07",
+      "label": "Topic 7: Field Theory and Randomness",
+      "type": "topic",
+      "description": "Field Theory and Randomness",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-08",
+      "label": "Topic 8: Random Discrete Structures and Their Limits",
+      "type": "topic",
+      "description": "Random Discrete Structures and Their Limits",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-09",
+      "label": "Topic 9: Multiscale Processes and Effective Behaviour",
+      "type": "topic",
+      "description": "Multiscale Processes and Effective Behaviour",
+      "side": "left"
+    },
+    {
+      "id": "topic:topic-10",
+      "label": "Topic 10: Deep Learning and Surrogate Methods",
+      "type": "topic",
+      "description": "Deep Learning and Surrogate Methods",
+      "side": "left"
+    },
+    {
+      "id": "term:adeles",
+      "label": "Adeles",
+      "type": "term",
+      "description": "The adele ring $\\mathbb{A}_K$ of a number field $K$ is the restricted product of all completions $K_v$ (archimedean and non-archimedean), encoding local-global arithmetic simultaneously. It is a locally compact topological ring central to modern numb…",
+      "side": "right"
+    },
+    {
+      "id": "term:algebraic-k-theory",
+      "label": "Algebraic K-theory",
+      "type": "term",
+      "description": "Algebraic K-theory assigns a sequence of abelian groups $K_n(R)$ to a ring $R$, generalising classical invariants such as the Grothendieck group $K_0$ and the Whitehead group $K_1$. It connects algebraic topology, number theory, and geometric topolog…",
+      "side": "right"
+    },
+    {
+      "id": "term:amenable-group",
+      "label": "Amenable group",
+      "type": "term",
+      "description": "A locally compact group $G$ is amenable if it admits a left-invariant mean on $L^\\infty(G)$, equivalently if it satisfies the Følner condition. Amenability governs fixed-point properties, operator-algebraic approximation, and the Baum–Connes conjectu…",
+      "side": "right"
+    },
+    {
+      "id": "term:assembly-map",
+      "label": "Assembly map",
+      "type": "term",
+      "description": "The assembly map $\\mu\\colon K_*^G(\\underline{E}G) \\to K_*(C^*_r G)$ relates the equivariant K-homology of the classifying space for proper actions to the K-theory of the reduced group C*-algebra. It is the central object in the Baum–Connes and Farrel…",
+      "side": "right"
+    },
+    {
+      "id": "term:atiyah-singer-index-theorem",
+      "label": "Atiyah–Singer index theorem",
+      "type": "term",
+      "description": "The Atiyah–Singer index theorem equates the analytical index of an elliptic differential operator $D$ on a compact manifold with a topological index computed from characteristic classes. It unifies the Gauss–Bonnet theorem, Hirzebruch signature theor…",
+      "side": "right"
+    },
+    {
+      "id": "term:borel-conjecture",
+      "label": "Borel conjecture",
+      "type": "term",
+      "description": "The Borel conjecture states that two closed aspherical manifolds with isomorphic fundamental groups are homeomorphic. It follows from the Farrell–Jones conjecture and is an analogue of Mostow rigidity for non-positively curved manifolds.",
+      "side": "right"
+    },
+    {
+      "id": "term:brownian-motion",
+      "label": "Brownian motion",
+      "type": "term",
+      "description": "Brownian motion $\\{B_t\\}_{t\\ge 0}$ is the canonical continuous-path Gaussian process with independent stationary increments $B_t - B_s \\sim \\mathcal{N}(0,t-s)$. It underpins stochastic calculus, parabolic PDEs via the Feynman–Kac formula, and the con…",
+      "side": "right"
+    },
+    {
+      "id": "term:characteristic-class",
+      "label": "Characteristic class",
+      "type": "term",
+      "description": "Characteristic classes are cohomological invariants of vector bundles: Chern classes $c_i(E)\\in H^{2i}(X;\\mathbb{Z})$, Pontryagin classes $p_i(E)\\in H^{4i}(X;\\mathbb{Z})$, and the Euler class. They appear in the Atiyah–Singer index theorem and in the…",
+      "side": "right"
+    },
+    {
+      "id": "term:classifying-space",
+      "label": "Classifying space",
+      "type": "term",
+      "description": "The classifying space $BG$ of a topological group $G$ is the base of the universal principal $G$-bundle $EG \\to BG$; homotopy classes of maps $X \\to BG$ classify principal $G$-bundles over $X$. For discrete groups, $BG = K(G,1)$ is an Eilenberg–Mac L…",
+      "side": "right"
+    },
+    {
+      "id": "term:cobordism",
+      "label": "Cobordism",
+      "type": "term",
+      "description": "Two closed $n$-manifolds $M$, $N$ are cobordant if there exists a compact $(n+1)$-manifold $W$ with $\\partial W = M \\sqcup N$. Cobordism rings, both oriented and unoriented, are computed by Thom's theorem and play a role in surgery theory and topolog…",
+      "side": "right"
+    },
+    {
+      "id": "term:coarse-geometry",
+      "label": "Coarse geometry",
+      "type": "term",
+      "description": "Coarse geometry studies metric spaces up to quasi-isometry and large-scale equivalence, ignoring local structure. The coarse Baum–Connes conjecture, formulated in this setting, implies injectivity of the assembly map for groups with finite asymptotic…",
+      "side": "right"
+    },
+    {
+      "id": "term:controlled-topology",
+      "label": "Controlled topology",
+      "type": "term",
+      "description": "Controlled topology studies maps and homotopies that are \"small\" with respect to a given control map to a metric space, providing a technical framework for surgery and h-cobordism theorems in the non-simply-connected setting. It underpins the proof o…",
+      "side": "right"
+    },
+    {
+      "id": "term:curvature",
+      "label": "Curvature",
+      "type": "term",
+      "description": "Curvature measures the deviation of a geometric object from being flat: sectional curvature $K(\\sigma)$ for Riemannian manifolds, Ricci curvature $\\mathrm{Ric}$, and scalar curvature $R = \\mathrm{tr}(\\mathrm{Ric})$. Sign conditions on curvature contr…",
+      "side": "right"
+    },
+    {
+      "id": "term:deligne-mumford-stack",
+      "label": "Deligne–Mumford stack",
+      "type": "term",
+      "description": "A Deligne–Mumford stack is an algebraic stack whose diagonal is representable and unramified, generalising schemes to allow finite automorphism groups at each point. The moduli stack $\\overline{\\mathcal{M}}_{g,n}$ of stable $n$-pointed genus-$g$ curv…",
+      "side": "right"
+    },
+    {
+      "id": "term:derived-category",
+      "label": "Derived category",
+      "type": "term",
+      "description": "The derived category $D(\\mathcal{A})$ of an abelian category $\\mathcal{A}$ is obtained by formally inverting quasi-isomorphisms in the category of chain complexes. It provides the natural setting for derived functors, sheaf cohomology, and Fourier–Mu…",
+      "side": "right"
+    },
+    {
+      "id": "term:elliptic-operator",
+      "label": "Elliptic operator",
+      "type": "term",
+      "description": "A linear partial differential operator $P$ of order $m$ is elliptic if its principal symbol $\\sigma_m(P)(x,\\xi)$ is invertible for all $\\xi \\neq 0$. Elliptic operators on compact manifolds have finite-dimensional kernels and cokernels, making the ind…",
+      "side": "right"
+    },
+    {
+      "id": "term:ergodic-theory",
+      "label": "Ergodic theory",
+      "type": "term",
+      "description": "Ergodic theory studies measure-preserving dynamical systems and the statistical behaviour of orbits. The ergodic theorem of Birkhoff asserts that time averages equal space averages for ergodic systems; connections to operator algebras arise via the v…",
+      "side": "right"
+    },
+    {
+      "id": "term:farrell-jones-conjecture",
+      "label": "Farrell–Jones conjecture",
+      "type": "term",
+      "description": "The Farrell–Jones conjecture asserts that the assembly map $H_*^G(\\mathcal{E}_{\\mathcal{VC}}G; \\mathbf{K}_R) \\to K_*(RG)$ (and its L-theory analogue) is an isomorphism for every group $G$ and every ring $R$. It implies the Borel and Novikov conjectur…",
+      "side": "right"
+    },
+    {
+      "id": "term:gamma-convergence",
+      "label": "Γ-convergence",
+      "type": "term",
+      "description": "$\\Gamma$-convergence is a notion of variational convergence for functionals $F_\\varepsilon \\colon X \\to \\overline{\\mathbb{R}}$ such that minimisers of $F_\\varepsilon$ converge to minimisers of the $\\Gamma$-limit $F$. It is the standard tool for deriv…",
+      "side": "right"
+    },
+    {
+      "id": "term:geometric-group-theory",
+      "label": "Geometric group theory",
+      "type": "term",
+      "description": "Geometric group theory studies groups via their actions on metric spaces, treating a finitely generated group $G$ as a metric space via the word metric on a Cayley graph. Key themes include quasi-isometry invariants, hyperbolic groups, and CAT(0) cub…",
+      "side": "right"
+    },
+    {
+      "id": "term:grove-programme",
+      "label": "Grove programme",
+      "type": "term",
+      "description": "The Grove programme seeks to classify Riemannian manifolds satisfying geometric bounds (lower curvature, upper diameter) up to diffeomorphism or homeomorphism. It uses comparison geometry, Alexandrov spaces, and equivariant techniques.",
+      "side": "right"
+    },
+    {
+      "id": "term:haagerup-property",
+      "label": "Haagerup property",
+      "type": "term",
+      "description": "A locally compact group $G$ has the Haagerup property (a-T-menability) if it admits a metrically proper continuous action by affine isometries on a Hilbert space. Groups with this property satisfy the Baum–Connes conjecture with coefficients; example…",
+      "side": "right"
+    },
+    {
+      "id": "term:homogenisation",
+      "label": "Homogenisation",
+      "type": "term",
+      "description": "Homogenisation is the process of deriving effective macroscopic equations from rapidly oscillating heterogeneous media, replacing $-\\nabla\\cdot(A(x/\\varepsilon)\\nabla u_\\varepsilon)=f$ with an effective equation $-\\nabla\\cdot(A^*\\nabla u)=f$ as $\\var…",
+      "side": "right"
+    },
+    {
+      "id": "term:hyperbolic-group",
+      "label": "Hyperbolic group",
+      "type": "term",
+      "description": "A finitely generated group $G$ is hyperbolic in the sense of Gromov if its Cayley graph is a $\\delta$-hyperbolic metric space: every geodesic triangle is $\\delta$-slim. Hyperbolic groups have solvable word and conjugacy problems and satisfy the Baum–…",
+      "side": "right"
+    },
+    {
+      "id": "term:index-theory",
+      "label": "Index theory",
+      "type": "term",
+      "description": "Index theory computes the Fredholm index $\\mathrm{ind}(D) = \\dim\\ker D - \\dim\\ker D^*$ of an elliptic operator $D$ in terms of topological data. The Atiyah–Singer index theorem, its equivariant and families versions, and the coarse index are central …",
+      "side": "right"
+    },
+    {
+      "id": "term:k-theory",
+      "label": "K-theory",
+      "type": "term",
+      "description": "K-theory assigns abelian groups to rings, spaces, or C*-algebras measuring vector bundles or projective modules. Topological K-theory $K^*(X)$ and algebraic K-theory $K_*(R)$ are connected by the Atiyah–Hirzebruch spectral sequence and are central to…",
+      "side": "right"
+    },
+    {
+      "id": "term:l-theory",
+      "label": "L-theory",
+      "type": "term",
+      "description": "Algebraic L-theory $L_*(R)$ is the quadratic form analogue of algebraic K-theory, built from quadratic modules over a ring with involution $R$. It classifies surgery obstructions for manifolds and appears in the L-theory assembly map of the Farrell–J…",
+      "side": "right"
+    },
+    {
+      "id": "term:langlands-programme",
+      "label": "Langlands programme",
+      "type": "term",
+      "description": "The Langlands programme is a web of far-reaching conjectures relating automorphic representations of reductive groups over number fields or function fields to Galois representations (and more generally to motives). The geometric Langlands programme r…",
+      "side": "right"
+    },
+    {
+      "id": "term:mapping-class-group",
+      "label": "Mapping class group",
+      "type": "term",
+      "description": "The mapping class group $\\mathrm{Mod}(S)$ of a surface $S$ is the group of isotopy classes of orientation-preserving homeomorphisms $S \\to S$. It acts properly discontinuously on Teichmüller space, with quotient the moduli space $\\mathcal{M}_g$; it h…",
+      "side": "right"
+    },
+    {
+      "id": "term:minimal-surface",
+      "label": "Minimal surface",
+      "type": "term",
+      "description": "A minimal surface is a surface of vanishing mean curvature, equivalently a critical point of the area functional. Classical examples include the catenoid and helicoid; existence and regularity are studied via the Plateau problem, geometric measure th…",
+      "side": "right"
+    },
+    {
+      "id": "term:moduli-space",
+      "label": "Moduli space",
+      "type": "term",
+      "description": "A moduli space parameterises a class of geometric objects up to isomorphism; for example, $\\mathcal{M}_g$ parameterises compact Riemann surfaces of genus $g$ and $\\mathcal{M}_{g,n}$ adds $n$ marked points. Moduli spaces are studied via deformation th…",
+      "side": "right"
+    },
+    {
+      "id": "term:multiscale-phenomena",
+      "label": "Multiscale phenomena",
+      "type": "term",
+      "description": "Multiscale phenomena involve coupled dynamics or geometry across widely separated length or time scales, requiring methods that bridge micro and macro descriptions. Mathematical tools include homogenisation, renormalisation group analysis, and hetero…",
+      "side": "right"
+    },
+    {
+      "id": "term:non-commutative-geometry",
+      "label": "Non-commutative geometry",
+      "type": "term",
+      "description": "Connes's non-commutative geometry replaces a classical space by the spectral data of a Dirac-type operator on a Hilbert space module over a (possibly non-commutative) C*-algebra, recovering geometric invariants via cyclic cohomology and the local ind…",
+      "side": "right"
+    },
+    {
+      "id": "term:novikov-conjecture",
+      "label": "Novikov conjecture",
+      "type": "term",
+      "description": "The Novikov conjecture asserts that higher signatures $\\langle \\mathcal{L}(M)\\cup f^*\\alpha,[M]\\rangle$ are homotopy invariants of closed oriented manifolds, for any cohomology class $\\alpha \\in H^*(B\\pi_1(M);\\mathbb{Q})$. It follows from the rationa…",
+      "side": "right"
+    },
+    {
+      "id": "term:operator-algebra",
+      "label": "Operator algebra",
+      "type": "term",
+      "description": "An operator algebra is an algebra of bounded (or unbounded) linear operators on a Hilbert space, closed in some operator topology. The two main classes are C*-algebras (norm-closed) and von Neumann algebras (weakly closed); they are central to quantu…",
+      "side": "right"
+    },
+    {
+      "id": "term:p-adic-numbers",
+      "label": "$p$-adic numbers",
+      "type": "term",
+      "description": "The field $\\mathbb{Q}_p$ of $p$-adic numbers is the completion of $\\mathbb{Q}$ with respect to the $p$-adic absolute value $|x|_p = p^{-v_p(x)}$, where $v_p$ is the $p$-adic valuation. The $p$-adic integers $\\mathbb{Z}_p$ form a compact open subgroup…",
+      "side": "right"
+    },
+    {
+      "id": "term:quantum-field-theory",
+      "label": "Quantum field theory",
+      "type": "term",
+      "description": "A quantum field theory (QFT) assigns operator-valued distributions (fields) to spacetime, with dynamics governed by a Lagrangian; correlation functions are the primary observables. Rigorous mathematical formulations include Wightman axioms, Haag–Kast…",
+      "side": "right"
+    },
+    {
+      "id": "term:regularity-theory",
+      "label": "Regularity theory",
+      "type": "term",
+      "description": "Regularity theory in PDEs studies how much smoothness solutions inherit from the data and the operator. Schauder estimates give $C^{k,\\alpha}$ regularity for elliptic equations with Hölder coefficients; De Giorgi–Nash–Moser theory gives $C^{0,\\alpha}…",
+      "side": "right"
+    },
+    {
+      "id": "term:riemannian-geometry",
+      "label": "Riemannian geometry",
+      "type": "term",
+      "description": "Riemannian geometry studies smooth manifolds equipped with a positive-definite inner product $g_p$ on each tangent space, varying smoothly in $p$. It provides the notions of length, angle, geodesic, curvature, and volume that underpin general relativ…",
+      "side": "right"
+    },
+    {
+      "id": "term:rough-paths",
+      "label": "Rough paths",
+      "type": "term",
+      "description": "Rough path theory, due to Lyons, provides a deterministic framework for integrating and solving differential equations driven by irregular signals (paths of Hölder regularity $\\alpha < 1/2$) by enhancing the path with its iterated integrals (the sign…",
+      "side": "right"
+    },
+    {
+      "id": "term:scalar-curvature",
+      "label": "Scalar curvature",
+      "type": "term",
+      "description": "The scalar curvature $R = g^{ij}R_{ij}$ is the trace of the Ricci tensor, the simplest local curvature invariant of a Riemannian manifold. Positive scalar curvature obstructs certain topologies (Gromov–Lawson–Rosenberg conjecture) and is studied via …",
+      "side": "right"
+    },
+    {
+      "id": "term:shimura-variety",
+      "label": "Shimura variety",
+      "type": "term",
+      "description": "A Shimura variety is a complex algebraic variety $\\mathrm{Sh}(G,X) = G(\\mathbb{Q})\\backslash X \\times G(\\mathbb{A}_f)/K$ defined by a reductive group $G$ over $\\mathbb{Q}$ and a Hermitian symmetric domain $X$. Shimura varieties serve as moduli spaces…",
+      "side": "right"
+    },
+    {
+      "id": "term:sobolev-space",
+      "label": "Sobolev space",
+      "type": "term",
+      "description": "The Sobolev space $W^{k,p}(\\Omega)$ consists of $L^p(\\Omega)$ functions whose distributional derivatives up to order $k$ also lie in $L^p(\\Omega)$, with norm $\\|u\\|_{W^{k,p}} = \\sum_{|\\alpha|\\le k}\\|D^\\alpha u\\|_p$. Sobolev embedding theorems control…",
+      "side": "right"
+    },
+    {
+      "id": "term:stable-infinity-category",
+      "label": "Stable ∞-category",
+      "type": "term",
+      "description": "A stable $\\infty$-category is an $\\infty$-category with a zero object in which a square is a pushout if and only if it is a pullback, making the suspension functor $\\Sigma$ an equivalence. The $\\infty$-derived category and the $\\infty$-category of sp…",
+      "side": "right"
+    },
+    {
+      "id": "term:stochastic-pde",
+      "label": "Stochastic PDE",
+      "type": "term",
+      "description": "A stochastic PDE (SPDE) is a partial differential equation driven by a random noise term, typically space-time white noise. Hairer's theory of regularity structures and Gubinelli–Imkeller–Perkowski's paracontrolled distributions provide rigorous solu…",
+      "side": "right"
+    },
+    {
+      "id": "term:surgery-theory",
+      "label": "Surgery theory",
+      "type": "term",
+      "description": "Surgery theory classifies manifolds by cutting out embedded spheres and re-gluing to change topology, guided by the surgery obstruction in Wall's L-groups. Combined with the s-cobordism theorem, it gives a complete classification of simply-connected …",
+      "side": "right"
+    },
+    {
+      "id": "term:teichmuller-space",
+      "label": "Teichmüller space",
+      "type": "term",
+      "description": "The Teichmüller space $\\mathcal{T}_g$ parameterises marked hyperbolic metrics (equivalently, complex structures) on a genus-$g$ surface up to isotopy. It carries the Teichmüller metric (Finsler) and the Weil–Petersson metric (Kähler), and the mapping…",
+      "side": "right"
+    },
+    {
+      "id": "term:topological-k-theory",
+      "label": "Topological K-theory",
+      "type": "term",
+      "description": "Topological K-theory $K^0(X)$ is the Grothendieck group of (virtual) complex vector bundles on a compact Hausdorff space $X$; together with $K^1(X)$ it forms a generalised cohomology theory by Bott periodicity $K^n(X)\\cong K^{n+2}(X)$. It is connecte…",
+      "side": "right"
+    },
+    {
+      "id": "term:torsion",
+      "label": "Torsion",
+      "type": "term",
+      "description": "Algebraic torsion refers to elements $x$ in an abelian group with $nx=0$ for some $n>0$; Whitehead torsion $\\tau(f)\\in Wh(\\pi_1)$ is an obstruction to a homotopy equivalence of CW complexes being a simple homotopy equivalence. Reidemeister torsion is…",
+      "side": "right"
+    },
+    {
+      "id": "term:trace-map",
+      "label": "Trace map",
+      "type": "term",
+      "description": "Trace maps — including the Dennis trace $K_*(R)\\to HH_*(R)$, the cyclotomic trace $K_*(R)\\to TC_*(R)$, and the Chern character — relate algebraic K-theory to more computable invariants (Hochschild homology, topological cyclic homology). They are key …",
+      "side": "right"
+    },
+    {
+      "id": "term:unitary-representation",
+      "label": "Unitary representation",
+      "type": "term",
+      "description": "A unitary representation of a group $G$ is a continuous group homomorphism $\\pi\\colon G \\to U(\\mathcal{H})$ for some Hilbert space $\\mathcal{H}$. The unitary dual $\\hat G$ classifies irreducible unitary representations; its structure governs harmonic…",
+      "side": "right"
+    },
+    {
+      "id": "term:waldhausen-k-theory",
+      "label": "Waldhausen K-theory",
+      "type": "term",
+      "description": "Waldhausen's algebraic K-theory $A(X)$ of a space $X$ is defined via the K-theory of the Waldhausen category of finite retractive spaces over $X$, with $A(*) \\simeq K(\\mathbb{Z})$ at a point. It appears in the stable parametrised h-cobordism theorem …",
+      "side": "right"
+    },
+    {
+      "id": "term:white-noise",
+      "label": "White noise",
+      "type": "term",
+      "description": "White noise is a generalised stochastic process $\\xi$ formally satisfying $\\mathbb{E}[\\xi(x)\\xi(y)] = \\delta(x-y)$; rigorously it is a random tempered distribution. Space-time white noise drives SPDEs such as the stochastic heat equation; its regular…",
+      "side": "right"
+    },
+    {
+      "id": "term:whitehead-group",
+      "label": "Whitehead group",
+      "type": "term",
+      "description": "The Whitehead group $Wh(G) = K_1(\\mathbb{Z}[G])/\\{\\pm g : g\\in G\\}$ measures the obstruction to a homotopy equivalence of finite CW complexes being a simple homotopy equivalence (Whitehead torsion). The Farrell–Jones conjecture implies $Wh(G) = 0$ fo…",
+      "side": "right"
+    },
+    {
+      "id": "term:z-stability",
+      "label": "$\\mathcal{Z}$-stability",
+      "type": "term",
+      "description": "A separable unital C*-algebra $A$ is $\\mathcal{Z}$-stable if $A \\cong A \\otimes \\mathcal{Z}$, where $\\mathcal{Z}$ is the Jiang–Su algebra. $\\mathcal{Z}$-stability is a regularity condition that, combined with finite nuclear dimension, implies classif…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-01-concept-1",
+      "label": "Cohomology",
+      "type": "concept",
+      "description": "Imagine you want to tell shapes apart without touching them: a ball, a doughnut,\na pretzel. A doughnut has **one hole**, a pretzel has **two**. Cohomology is a\ncareful way of *counting holes of different kinds* (gaps you can loop a string\naround, hol…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-01-concept-2",
+      "label": "K-theory (algebraic and topological)",
+      "type": "concept",
+      "description": "Think of all the ways you can lay down arrows (little vectors) smoothly over a\nshape — for example combing the hair on a ball. Some arrangements can be undone\nto nothing, others are \"stuck\". K-theory bundles up all these arrangements and\nturns them i…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-01-concept-3",
+      "label": "The Farrell–Jones conjecture",
+      "type": "concept",
+      "description": "Some mathematical objects attached to a group are very hard to compute directly.\nThis conjecture says: you can always build the hard global answer out of easy\nlocal pieces — namely the small, simple subgroups. Like reconstructing a whole\nmosaic if yo…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-01-concept-4",
+      "label": "The Borel conjecture and topological rigidity",
+      "type": "concept",
+      "description": "If two rubbery shapes have the *same kind of fundamental loops*, are they really\nthe same shape? For a special well-behaved family the answer is conjectured to be\nyes — they cannot be secretly different.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-01-concept-5",
+      "label": "C\\*-algebras and their classification",
+      "type": "concept",
+      "description": "Quantum physics needs a number system where multiplication order matters\n($`a\\times b \\ne b\\times a`$). C\\*-algebras are such systems of \"operators\".\nK-theory gives each one a fingerprint; mathematicians want to prove that the\nfingerprint alone tells…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-02-concept-1",
+      "label": "Moduli space",
+      "type": "concept",
+      "description": "Instead of studying one triangle, imagine a \"map of all triangles\", where each\npoint of the map stands for one possible triangle shape. Walking across the map\ncontinuously morphs one triangle into another. A **moduli space** is exactly such\na \"map of…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-02-concept-2",
+      "label": "The Langlands programme",
+      "type": "concept",
+      "description": "There are two very different worlds in mathematics: one about whole numbers and\nequations, another about waves and symmetry. The Langlands programme is a giant\ndictionary claiming these two worlds secretly say the same things — a \"Rosetta\nStone\" of m…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-02-concept-3",
+      "label": "Compactification and stratification",
+      "type": "concept",
+      "description": "A map of all shapes often has \"edges\" where shapes degenerate (a circle pinching\nto a figure-eight). To study the map fully you add those boundary cases, like\nadding the horizon to a landscape so nothing runs off the edge.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-02-concept-4",
+      "label": "Cohomological invariants and intersection theory",
+      "type": "concept",
+      "description": "Once you have your map of shapes, you can ask geometric questions about the map\nitself: how many curves pass through given points? Counting such things cleverly\nreveals hidden patterns and even connects to physics.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-02-concept-5",
+      "label": "Diffeomorphism groups and spaces of metrics",
+      "type": "concept",
+      "description": "Take a rubber shape; all the ways of smoothly stretching it without tearing form\ntheir own \"space of stretches\". And all the ways of measuring distances on it\n(its possible geometries) form yet another space. Studying these spaces tells us\nwhich shap…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-03-concept-1",
+      "label": "Model theory and first-order structures",
+      "type": "concept",
+      "description": "A \"rule book\" (axioms) can be obeyed by different \"worlds\". For example \"every\nelement has an opposite\" is obeyed by the integers and by many other systems.\nModel theory studies all the worlds that obey a given rule book, and what they\nmust have in c…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-03-concept-2",
+      "label": "Homogeneous structures and Fraïssé limits",
+      "type": "concept",
+      "description": "Some objects look \"the same from everywhere\" — like an infinite perfectly regular\nnetwork where every point has an identical view. You can build such an object by\ngluing together all its small finite pieces in the most generic way.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-03-concept-3",
+      "label": "Universes of set theory and forcing",
+      "type": "concept",
+      "description": "All of mathematics can be built from \"sets\". But there is not just one possible\nuniverse of sets — there are many, and some questions (like exactly how many real\nnumbers there are) get *different answers* in different universes. Set theorists\nbuild a…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-03-concept-4",
+      "label": "Large cardinals",
+      "type": "concept",
+      "description": "Infinity comes in many sizes. \"Large cardinals\" are sizes of infinity so vast\nthat their mere existence cannot be proved from the usual rules — yet assuming\nthem settles many otherwise-undecidable questions far below.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-03-concept-5",
+      "label": "The Axiom of Determinacy",
+      "type": "concept",
+      "description": "Imagine an infinite game where two players alternately pick numbers forever. One\nof them is declared the winner by some rule. Determinacy says: in such games one\nside always has a guaranteed winning strategy. Surprisingly, whether this holds\ndepends …",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-04-concept-1",
+      "label": "Groups and group actions",
+      "type": "concept",
+      "description": "A **group** is the mathematics of symmetry: the collection of all moves that leave\nsomething looking the same (rotating a square by 90°, flipping it). A group\n**acts** on an object when each of its moves rearranges that object. Studying the\nmoves tel…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-04-concept-2",
+      "label": "C\\*-algebras, crossed products and Cartan subalgebras",
+      "type": "concept",
+      "description": "When a symmetry group acts on a space, you can package the whole \"space + symmetry\"\ninto a single algebraic object (a crossed product). Inside it sometimes hides a\nsimpler, well-organised \"coordinate grid\" called a Cartan subalgebra, which makes\nthe …",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-04-concept-3",
+      "label": "Amenability and property (T)",
+      "type": "concept",
+      "description": "Some groups are \"easygoing\" (you can average over them in a consistent way) and\nsome are \"rigid\" (they resist small deformations and approximations). These two\nextremes behave very differently and lead to very different geometry.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-04-concept-4",
+      "label": "Entropy and orbit equivalence",
+      "type": "concept",
+      "description": "Take a system that evolves by repeating a symmetry over and over. \"Entropy\"\nmeasures how unpredictable or complex this evolution is. Two systems can look\ndifferent but secretly be re-labellings of each other — that is orbit equivalence.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-04-concept-5",
+      "label": "Algebraic groups, Lie groups and Bruhat–Tits buildings",
+      "type": "concept",
+      "description": "Beyond finite symmetry there are *continuous* symmetries — like all rotations of a\nsphere, which form a smooth, flowing family. These richer symmetry objects come\nwith their own geometric \"skeletons\" that help us understand them.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-05-concept-1",
+      "label": "Riemannian manifolds",
+      "type": "concept",
+      "description": "The surface of the Earth is curved: triangles drawn on it have angles adding to\n*more* than 180°. A **Riemannian manifold** is any smooth curved space — of any\ndimension — where we can still measure lengths and angles, hence distances and\n\"straightes…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-05-concept-2",
+      "label": "Curvature and topological obstructions",
+      "type": "concept",
+      "description": "The amount and sign of curvature limits what shapes are possible. You cannot comb a\nhairy ball flat, and you cannot wrap a sphere onto a doughnut without distortion —\ncurvature \"knows\" the global shape.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-05-concept-3",
+      "label": "Ricci flow and geometric flows",
+      "type": "concept",
+      "description": "Imagine a lumpy ball of dough that automatically smooths itself out, the bumps\nflowing away until it becomes a perfect sphere. **Ricci flow** is an equation that\nmakes a curved space evolve and smooth its curvature over time — the tool Perelman\nused …",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-05-concept-4",
+      "label": "Geodesics and infinite-dimensional shape spaces",
+      "type": "concept",
+      "description": "The shortest flight path between two cities curves across the globe — that is a\ngeodesic. Now imagine a \"space\" whose points are entire *shapes* (say, all possible\noutlines of a hand). A geodesic there is the most efficient way to morph one shape\nint…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-05-concept-5",
+      "label": "Index theory and scalar curvature",
+      "type": "concept",
+      "description": "There is a deep bridge between *analysis* (solving equations on a shape) and\n*topology* (the shape's holes). Counting the solutions of a special equation\nsecretly counts holes — and this forbids certain shapes from being curved a\ncertain way.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-06-concept-1",
+      "label": "Partial differential equations (PDEs)",
+      "type": "concept",
+      "description": "Most laws of nature say how things *change*: how heat spreads, how waves travel,\nhow planets pull. A PDE is an equation that relates these rates of change across\nspace and time. Solving it predicts the future from the present.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-06-concept-2",
+      "label": "Singularities",
+      "type": "concept",
+      "description": "Sometimes a smooth process suddenly breaks down: a wave crests and shatters, a\ndroplet pinches off, gravity collapses matter into a black hole. These breakdown\npoints are **singularities** — and they are usually the most interesting and\nhardest part …",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-06-concept-3",
+      "label": "Einstein manifolds and general relativity",
+      "type": "concept",
+      "description": "Einstein discovered that gravity *is* the curving of spacetime by mass. The\nequation governing this is one of the most important PDEs in physics, and the\nshapes (geometries) it allows include black holes.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-06-concept-4",
+      "label": "Black hole stability (the Kerr problem)",
+      "type": "concept",
+      "description": "If you \"poke\" a spinning black hole, does it wobble and settle back down, or fall\napart? Physically we expect it to settle — but proving this from the equations is\none of the great open challenges of mathematical physics.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-06-concept-5",
+      "label": "Regularity theory and singular stochastic PDEs",
+      "type": "concept",
+      "description": "\"Regularity\" asks how smooth a solution is. When you add random noise everywhere\n(like static), solutions become so jagged that the equation barely makes sense.\nNew mathematics was invented to give these noisy equations a precise meaning.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-07-concept-1",
+      "label": "Quantum field theory (QFT)",
+      "type": "concept",
+      "description": "At the smallest scales, particles are ripples in invisible \"fields\" filling all of\nspace. Quantum field theory is the rulebook for these ripples — it powers the\nStandard Model of particle physics. But making its mathematics fully rigorous is a\nmillio…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-07-concept-2",
+      "label": "Stochastic quantisation",
+      "type": "concept",
+      "description": "Instead of building a field \"all at once\", let it wiggle randomly over time like a\njittering elastic sheet until it settles into a stable random pattern. That\nequilibrium pattern *is* the quantum field. Randomness becomes a construction tool.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-07-concept-3",
+      "label": "Non-commutative geometry and the Moyal space",
+      "type": "concept",
+      "description": "Normally $3\\times 5 = 5\\times 3$. But in quantum mechanics, measuring position then\nmomentum differs from the reverse order. \"Non-commutative spaces\" build geometry\nout of such order-sensitive coordinates — a geometry where $xy \\ne yx$.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-07-concept-4",
+      "label": "Free probability and topological recursion",
+      "type": "concept",
+      "description": "Ordinary probability adds independent random numbers (giving the bell curve). When\nthe \"random numbers\" are huge matrices that don't commute, a new kind of\nprobability is needed — and counting the shapes (surfaces) that appear organises\nthe answers i…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-07-concept-5",
+      "label": "Disorder, scaling limits and the polaron",
+      "type": "concept",
+      "description": "A single electron dragging a cloud of distortion through a crystal behaves like a\nheavier \"dressed\" particle — a polaron. Zoom out from many small random effects and\nclean, universal behaviour emerges. Studying these limits links physics and\nprobabil…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-08-concept-1",
+      "label": "Random graphs",
+      "type": "concept",
+      "description": "Draw some dots and connect each pair by flipping a coin. The result is a random\nnetwork — a toy model of a friendship network or the web. Surprisingly, as you add\ndots, a giant connected cluster appears almost suddenly once links are frequent\nenough.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-08-concept-2",
+      "label": "Percolation and phase transitions",
+      "type": "concept",
+      "description": "Imagine randomly opening or blocking the tiny channels in a porous rock. Below a\ncritical fraction of open channels, water cannot cross; above it, it suddenly can.\nThat sharp switch is a phase transition — the same idea as water freezing.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-08-concept-3",
+      "label": "Random tessellations and polytopes (stochastic geometry)",
+      "type": "concept",
+      "description": "Scatter points at random, then give each point the territory closest to it — you get\na random patchwork of cells, like cracked mud or a giraffe's coat. Mathematicians\nmeasure the typical shapes, areas and number of sides of these random tiles.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-08-concept-4",
+      "label": "Interacting particle systems and scaling limits",
+      "type": "concept",
+      "description": "Many simple agents following local random rules — cars on a road, particles hopping\non a line — together produce complex large-scale patterns. Zooming out turns the\njiggling crowd into a smooth flowing equation.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-08-concept-5",
+      "label": "Fluctuations, disorder and universality",
+      "type": "concept",
+      "description": "Add many independent random things and you almost always get the same bell-shaped\ncurve — no matter the details. This \"universality\" is why averages are predictable.\nResearchers hunt for which random systems share such universal large-scale laws.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-09-concept-1",
+      "label": "Multiple scales and effective models",
+      "type": "concept",
+      "description": "A sponge looks solid from far away but is full of tiny holes up close. To predict\nhow it soaks up water you don't track every pore — you find an \"effective\" rule for\nthe whole sponge. Multiscale maths is the art of jumping from tiny details to\nbig-pi…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-09-concept-2",
+      "label": "Homogenisation",
+      "type": "concept",
+      "description": "A finely striped material (alternating metal and plastic) behaves, overall, like a\nsingle new material with averaged properties. Homogenisation computes those average\nproperties from the fine pattern.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-09-concept-3",
+      "label": "Optimal control and the curse of dimensionality",
+      "type": "concept",
+      "description": "A pilot steering a rocket wants the *best* path — least fuel, fastest arrival. Find\nthe best control among infinitely many options. But when there are many knobs to\nturn at once, the number of possibilities explodes — the \"curse of dimensionality\".",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-09-concept-4",
+      "label": "Model order reduction",
+      "type": "concept",
+      "description": "If you must re-run a slow, expensive simulation thousands of times (for different\nsettings), you first build a cheap \"mini-model\" that captures the essentials, then\nrun that instead. You trade a little accuracy for enormous speed.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-09-concept-5",
+      "label": "Mixing, equilibration and kinetic equations",
+      "type": "concept",
+      "description": "Stir milk into coffee: streaks stretch and fold until the colour is uniform. How\nfast can stirring mix things, and how fast does a gas settle to equilibrium? These\nrates are what this unit pins down.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-10-concept-1",
+      "label": "Artificial neural networks",
+      "type": "concept",
+      "description": "A neural network is a flexible mathematical \"function machine\": you feed it inputs,\nit produces outputs, and by adjusting many internal dials you can make it imitate\nalmost any pattern from examples. It is the engine behind modern AI.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-10-concept-2",
+      "label": "Stochastic gradient descent (and its analysis)",
+      "type": "concept",
+      "description": "To train the network you tweak its dials to reduce its mistakes, step by step,\nalways heading \"downhill\" on an error landscape. To go fast you estimate the\ndownhill direction from a small random handful of examples each step. That is\nstochastic gradi…",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-10-concept-3",
+      "label": "Deep learning methods for (S)PDEs",
+      "type": "concept",
+      "description": "Classical methods solve a physics equation by chopping space into a fine grid —\nimpossible when there are too many dimensions. Instead, train a neural network to\n*be* the solution. The equation itself becomes the teacher.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-10-concept-4",
+      "label": "Surrogate models and multi-fidelity / certification",
+      "type": "concept",
+      "description": "Use a fast rough estimator most of the time and an expensive accurate one only\noccasionally, then blend them so the final answer is both cheap *and* trustworthy.\nA \"certified\" surrogate even tells you how wrong it might be.",
+      "side": "right"
+    },
+    {
+      "id": "concept:topic-10-concept-5",
+      "label": "Inverse problems",
+      "type": "concept",
+      "description": "A CT scanner never sees inside you directly — it measures shadows and reconstructs\nthe interior. Working backwards from effects to hidden causes is an inverse problem,\nand small measurement errors can blow up, so it must be done carefully.",
+      "side": "right"
+    }
+  ],
+  "connections": [
+    {
+      "from": "topic:topic-01",
+      "to": "term:k-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:farrell-jones-conjecture",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:borel-conjecture",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:algebraic-k-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:stable-infinity-category",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:topological-k-theory",
+      "type": "uses",
+      "weight": 3
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:trace-map",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:assembly-map",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:novikov-conjecture",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:hyperbolic-group",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:controlled-topology",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:surgery-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:whitehead-group",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:l-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:z-stability",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:operator-algebra",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:langlands-programme",
+      "type": "mentions",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:classifying-space",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:curvature",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "term:torsion",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "concept:topic-01-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "concept:topic-01-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "concept:topic-01-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "concept:topic-01-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-01",
+      "to": "concept:topic-01-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:langlands-programme",
+      "type": "uses",
+      "weight": 3
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:moduli-space",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:scalar-curvature",
+      "type": "uses",
+      "weight": 3
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:shimura-variety",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:derived-category",
+      "type": "uses",
+      "weight": 3
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:deligne-mumford-stack",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:teichmuller-space",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:mapping-class-group",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:classifying-space",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:surgery-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:waldhausen-k-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:cobordism",
+      "type": "mentions",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:curvature",
+      "type": "mentions",
+      "weight": 5
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:k-theory",
+      "type": "mentions",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "term:adeles",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "concept:topic-02-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "concept:topic-02-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "concept:topic-02-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "concept:topic-02-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-02",
+      "to": "concept:topic-02-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-03",
+      "to": "term:ergodic-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-03",
+      "to": "concept:topic-03-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-03",
+      "to": "concept:topic-03-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-03",
+      "to": "concept:topic-03-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-03",
+      "to": "concept:topic-03-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-03",
+      "to": "concept:topic-03-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:amenable-group",
+      "type": "uses",
+      "weight": 3
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:unitary-representation",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:haagerup-property",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:operator-algebra",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:z-stability",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:coarse-geometry",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:p-adic-numbers",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:geometric-group-theory",
+      "type": "mentions",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:langlands-programme",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "term:ergodic-theory",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "concept:topic-04-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "concept:topic-04-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "concept:topic-04-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "concept:topic-04-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-04",
+      "to": "concept:topic-04-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:riemannian-geometry",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:curvature",
+      "type": "uses",
+      "weight": 3
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:grove-programme",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:index-theory",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:scalar-curvature",
+      "type": "uses",
+      "weight": 3
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:atiyah-singer-index-theorem",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:elliptic-operator",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:characteristic-class",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:k-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "term:torsion",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "concept:topic-05-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "concept:topic-05-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "concept:topic-05-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "concept:topic-05-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-05",
+      "to": "concept:topic-05-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "term:minimal-surface",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "term:regularity-theory",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "term:stochastic-pde",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "term:sobolev-space",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "term:white-noise",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "term:curvature",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "concept:topic-06-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "concept:topic-06-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "concept:topic-06-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "concept:topic-06-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-06",
+      "to": "concept:topic-06-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "term:non-commutative-geometry",
+      "type": "uses",
+      "weight": 2
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "term:quantum-field-theory",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "term:stochastic-pde",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "term:brownian-motion",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "term:riemannian-geometry",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "term:white-noise",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "concept:topic-07-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "concept:topic-07-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "concept:topic-07-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "concept:topic-07-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-07",
+      "to": "concept:topic-07-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "term:amenable-group",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "term:haagerup-property",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "term:stochastic-pde",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "term:homogenisation",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "concept:topic-08-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "concept:topic-08-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "concept:topic-08-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "concept:topic-08-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-08",
+      "to": "concept:topic-08-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "term:homogenisation",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "term:gamma-convergence",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "term:multiscale-phenomena",
+      "type": "mentions",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "concept:topic-09-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "concept:topic-09-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "concept:topic-09-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "concept:topic-09-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-09",
+      "to": "concept:topic-09-concept-5",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-10",
+      "to": "term:stochastic-pde",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-10",
+      "to": "term:rough-paths",
+      "type": "uses",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-10",
+      "to": "concept:topic-10-concept-1",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-10",
+      "to": "concept:topic-10-concept-2",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-10",
+      "to": "concept:topic-10-concept-3",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-10",
+      "to": "concept:topic-10-concept-4",
+      "type": "contains",
+      "weight": 1
+    },
+    {
+      "from": "topic:topic-10",
+      "to": "concept:topic-10-concept-5",
+      "type": "contains",
+      "weight": 1
+    }
+  ]
+}

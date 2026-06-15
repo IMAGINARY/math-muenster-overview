@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "term:adeles",
+    "label": "Adeles",
+    "type": "term",
+    "body": "The adele ring $\\mathbb{A}_K$ of a number field $K$ is the restricted product of all completions $K_v$ (archimedean and non-archimedean), encoding local-global arithmetic simultaneously. It is a locally compact topological ring central to modern number theory and automorphic forms.\n[Wikipedia](https://en.wikipedia.org/wiki/Adele_ring) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Adele)"
+  },
+  {
+    "id": "term:algebraic-k-theory",
+    "label": "Algebraic K-theory",
+    "type": "term",
+    "body": "Algebraic K-theory assigns a sequence of abelian groups $K_n(R)$ to a ring $R$, generalising classical invariants such as the Grothendieck group $K_0$ and the Whitehead group $K_1$. It connects algebraic topology, number theory, and geometric topology via trace maps and assembly maps.\n[Wikipedia](https://en.wikipedia.org/wiki/Algebraic_K-theory) · [nLab](https://ncatlab.org/nlab/show/algebraic+K-theory)"
+  },
+  {
+    "id": "term:algebraic-topology",
+    "label": "Algebraic topology",
+    "type": "term",
+    "body": "Algebraic topology studies topological spaces by associating algebraic invariants — groups, rings, modules — that are preserved under homeomorphism or homotopy equivalence. Core tools include homology, cohomology, homotopy groups, and spectral sequences.\n[Wikipedia](https://en.wikipedia.org/wiki/Algebraic_topology) · [nLab](https://ncatlab.org/nlab/show/algebraic+topology)"
+  },
+  {
+    "id": "term:amenable-group",
+    "label": "Amenable group",
+    "type": "term",
+    "body": "A locally compact group $G$ is amenable if it admits a left-invariant mean on $L^\\infty(G)$, equivalently if it satisfies the Følner condition. Amenability governs fixed-point properties, operator-algebraic approximation, and the Baum–Connes conjecture.\n[Wikipedia](https://en.wikipedia.org/wiki/Amenable_group) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Amenable_group)"
+  },
+  {
+    "id": "term:assembly-map",
+    "label": "Assembly map",
+    "type": "term",
+    "body": "The assembly map $\\mu\\colon K_*^G(\\underline{E}G) \\to K_*(C^*_r G)$ relates the equivariant K-homology of the classifying space for proper actions to the K-theory of the reduced group C*-algebra. It is the central object in the Baum–Connes and Farrell–Jones conjectures.\n[Wikipedia](https://en.wikipedia.org/wiki/Baum%E2%80%93Connes_conjecture) · [nLab](https://ncatlab.org/nlab/show/assembly+map)"
+  },
+  {
+    "id": "term:atiyah-singer-index-theorem",
+    "label": "Atiyah–Singer index theorem",
+    "type": "term",
+    "body": "The Atiyah–Singer index theorem equates the analytical index of an elliptic differential operator $D$ on a compact manifold with a topological index computed from characteristic classes. It unifies the Gauss–Bonnet theorem, Hirzebruch signature theorem, and Riemann–Roch theorem as special cases.\n[Wikipedia](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem) · [nLab](https://ncatlab.org/nlab/show/Atiyah-Singer+index+theorem)"
+  },
+  {
+    "id": "term:automorphic-form",
+    "label": "Automorphic form",
+    "type": "term",
+    "body": "An automorphic form is a smooth function on $G(\\mathbb{A})$ (for a reductive group $G$ over a number field) that is left $G(K)$-invariant and satisfies growth and Hecke-equivariance conditions. Classical modular forms are the $GL_2$ case; the Langlands programme organises automorphic forms for general $G$.\n[Wikipedia](https://en.wikipedia.org/wiki/Automorphic_form) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Automorphic_form)"
+  },
+  {
+    "id": "term:baum-connes-conjecture",
+    "label": "Baum–Connes conjecture",
+    "type": "term",
+    "body": "The Baum–Connes conjecture asserts that the assembly map $\\mu\\colon K_*^G(\\underline{E}G) \\to K_*(C^*_r G)$ is an isomorphism for every locally compact group $G$. It implies the Novikov conjecture and the Kadison–Kaplansky idempotent conjecture as consequences.\n[Wikipedia](https://en.wikipedia.org/wiki/Baum%E2%80%93Connes_conjecture) · [nLab](https://ncatlab.org/nlab/show/Baum-Connes+conjecture)"
+  },
+  {
+    "id": "term:bers-embedding",
+    "label": "Bers embedding",
+    "type": "term",
+    "body": "The Bers embedding realises the Teichmüller space $\\mathcal{T}(S)$ as a bounded domain in the space of holomorphic quadratic differentials on the Riemann surface $\\bar S$, providing a complex-analytic structure on $\\mathcal{T}(S)$. It is a key tool in the complex geometry of moduli spaces of Riemann surfaces.\n[Wikipedia](https://en.wikipedia.org/wiki/Bers_slice) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Bers_embedding)"
+  },
+  {
+    "id": "term:bmo",
+    "label": "BMO (Bounded Mean Oscillation)",
+    "type": "term",
+    "body": "A function $f \\in BMO(\\mathbb{R}^n)$ if $\\sup_Q \\frac{1}{|Q|}\\int_Q |f - f_Q|\\,dx < \\infty$ over all cubes $Q$. BMO is the natural endpoint space for Calderón–Zygmund operators and is dual to the Hardy space $H^1$.\n[Wikipedia](https://en.wikipedia.org/wiki/Bounded_mean_oscillation) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/BMO-space)"
+  },
+  {
+    "id": "term:borel-conjecture",
+    "label": "Borel conjecture",
+    "type": "term",
+    "body": "The Borel conjecture states that two closed aspherical manifolds with isomorphic fundamental groups are homeomorphic. It follows from the Farrell–Jones conjecture and is an analogue of Mostow rigidity for non-positively curved manifolds.\n[Wikipedia](https://en.wikipedia.org/wiki/Borel_conjecture) · [nLab](https://ncatlab.org/nlab/show/Borel+conjecture)"
+  },
+  {
+    "id": "term:bps-state",
+    "label": "BPS state",
+    "type": "term",
+    "body": "BPS states are field-theory or string-theory states that saturate the Bogomolny–Prasad–Sommerfield bound, preserving a fraction of supersymmetry. Their counts are related to Donaldson–Thomas invariants and motivic generating series in enumerative geometry.\n[Wikipedia](https://en.wikipedia.org/wiki/BPS_state) · [nLab](https://ncatlab.org/nlab/show/BPS+state)"
+  },
+  {
+    "id": "term:brownian-motion",
+    "label": "Brownian motion",
+    "type": "term",
+    "body": "Brownian motion $\\{B_t\\}_{t\\ge 0}$ is the canonical continuous-path Gaussian process with independent stationary increments $B_t - B_s \\sim \\mathcal{N}(0,t-s)$. It underpins stochastic calculus, parabolic PDEs via the Feynman–Kac formula, and the continuum limits of random discrete structures.\n[Wikipedia](https://en.wikipedia.org/wiki/Brownian_motion) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Brownian_motion)"
+  },
+  {
+    "id": "term:calderon-zygmund-theory",
+    "label": "Calderón–Zygmund theory",
+    "type": "term",
+    "body": "Calderón–Zygmund theory provides $L^p$ boundedness ($`1 < p < \\infty`$) and weak-type $(1,1)$ estimates for singular integral operators of the form $Tf(x) = \\int K(x,y)f(y)\\,dy$ with kernel satisfying size and smoothness conditions. It is the backbone of modern harmonic analysis and elliptic PDE regularity.\n[Wikipedia](https://en.wikipedia.org/wiki/Calder%C3%B3n%E2%80%93Zygmund_lemma) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Calder%C3%B3n-Zygmund_theorem)"
+  },
+  {
+    "id": "term:cap-product",
+    "label": "Cap product",
+    "type": "term",
+    "body": "The cap product $\\frown\\colon H^p(X;R)\\otimes H_n(X;R)\\to H_{n-p}(X;R)$ pairs a cohomology class with a homology class to yield a lower-dimensional homology class. It is used to formulate Poincaré duality and appears naturally in assembly-map constructions.\n[Wikipedia](https://en.wikipedia.org/wiki/Cap_product) · [nLab](https://ncatlab.org/nlab/show/cap+product)"
+  },
+  {
+    "id": "term:characteristic-class",
+    "label": "Characteristic class",
+    "type": "term",
+    "body": "Characteristic classes are cohomological invariants of vector bundles: Chern classes $c_i(E)\\in H^{2i}(X;\\mathbb{Z})$, Pontryagin classes $p_i(E)\\in H^{4i}(X;\\mathbb{Z})$, and the Euler class. They appear in the Atiyah–Singer index theorem and in the study of manifold topology.\n[Wikipedia](https://en.wikipedia.org/wiki/Characteristic_class) · [nLab](https://ncatlab.org/nlab/show/characteristic+class)"
+  },
+  {
+    "id": "term:classifying-space",
+    "label": "Classifying space",
+    "type": "term",
+    "body": "The classifying space $BG$ of a topological group $G$ is the base of the universal principal $G$-bundle $EG \\to BG$; homotopy classes of maps $X \\to BG$ classify principal $G$-bundles over $X$. For discrete groups, $BG = K(G,1)$ is an Eilenberg–Mac Lane space with $\\pi_1 = G$.\n[Wikipedia](https://en.wikipedia.org/wiki/Classifying_space) · [nLab](https://ncatlab.org/nlab/show/classifying+space)"
+  },
+  {
+    "id": "term:cobordism",
+    "label": "Cobordism",
+    "type": "term",
+    "body": "Two closed $n$-manifolds $M$, $N$ are cobordant if there exists a compact $(n+1)$-manifold $W$ with $\\partial W = M \\sqcup N$. Cobordism rings, both oriented and unoriented, are computed by Thom's theorem and play a role in surgery theory and topological field theories.\n[Wikipedia](https://en.wikipedia.org/wiki/Cobordism) · [nLab](https://ncatlab.org/nlab/show/cobordism)"
+  },
+  {
+    "id": "term:cohomological-dimension",
+    "label": "Cohomological dimension",
+    "type": "term",
+    "body": "The cohomological dimension $\\mathrm{cd}(G)$ of a group $G$ is the smallest $n$ such that $H^k(G;M)=0$ for all $k>n$ and all $G$-modules $M$. It bounds the geometric dimension of the classifying space $BG$ and features in finiteness conditions for groups.\n[Wikipedia](https://en.wikipedia.org/wiki/Cohomological_dimension) · [nLab](https://ncatlab.org/nlab/show/cohomological+dimension)"
+  },
+  {
+    "id": "term:coarse-geometry",
+    "label": "Coarse geometry",
+    "type": "term",
+    "body": "Coarse geometry studies metric spaces up to quasi-isometry and large-scale equivalence, ignoring local structure. The coarse Baum–Connes conjecture, formulated in this setting, implies injectivity of the assembly map for groups with finite asymptotic dimension.\n[Wikipedia](https://en.wikipedia.org/wiki/Coarse_structure) · [nLab](https://ncatlab.org/nlab/show/coarse+geometry)"
+  },
+  {
+    "id": "term:conformal-field-theory",
+    "label": "Conformal field theory",
+    "type": "term",
+    "body": "A conformal field theory (CFT) is a quantum field theory invariant under conformal transformations (angle-preserving maps). In two dimensions, the infinite-dimensional Virasoro algebra governs the structure; CFTs arise in string theory, statistical mechanics at criticality, and via the AdS/CFT correspondence.\n[Wikipedia](https://en.wikipedia.org/wiki/Conformal_field_theory) · [nLab](https://ncatlab.org/nlab/show/conformal+field+theory)"
+  },
+  {
+    "id": "term:continuum-limit",
+    "label": "Continuum limit",
+    "type": "term",
+    "body": "A continuum limit is the process of taking a sequence of discrete models (lattice, graph, combinatorial structure) whose mesh size tends to zero and extracting a limiting continuous object. In probability, Brownian motion and SLE curves arise as continuum limits of random walks and interfaces.\n[Wikipedia](https://en.wikipedia.org/wiki/Continuum_limit) · [nLab](https://ncatlab.org/nlab/show/continuum+limit)"
+  },
+  {
+    "id": "term:controlled-topology",
+    "label": "Controlled topology",
+    "type": "term",
+    "body": "Controlled topology studies maps and homotopies that are \"small\" with respect to a given control map to a metric space, providing a technical framework for surgery and h-cobordism theorems in the non-simply-connected setting. It underpins the proof of the Farrell–Jones conjecture via transfer maps.\n[Wikipedia](https://en.wikipedia.org/wiki/Controlled_topology) · [nLab](https://ncatlab.org/nlab/show/controlled+topology)"
+  },
+  {
+    "id": "term:curvature",
+    "label": "Curvature",
+    "type": "term",
+    "body": "Curvature measures the deviation of a geometric object from being flat: sectional curvature $K(\\sigma)$ for Riemannian manifolds, Ricci curvature $\\mathrm{Ric}$, and scalar curvature $R = \\mathrm{tr}(\\mathrm{Ric})$. Sign conditions on curvature control topology (sphere theorem, Cheeger–Gromoll splitting) and analysis (Sobolev inequalities).\n[Wikipedia](https://en.wikipedia.org/wiki/Curvature) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Curvature)"
+  },
+  {
+    "id": "term:deligne-mumford-stack",
+    "label": "Deligne–Mumford stack",
+    "type": "term",
+    "body": "A Deligne–Mumford stack is an algebraic stack whose diagonal is representable and unramified, generalising schemes to allow finite automorphism groups at each point. The moduli stack $\\overline{\\mathcal{M}}_{g,n}$ of stable $n$-pointed genus-$g$ curves is the prototypical example.\n[Wikipedia](https://en.wikipedia.org/wiki/Deligne%E2%80%93Mumford_stack) · [nLab](https://ncatlab.org/nlab/show/Deligne-Mumford+stack)"
+  },
+  {
+    "id": "term:derived-category",
+    "label": "Derived category",
+    "type": "term",
+    "body": "The derived category $D(\\mathcal{A})$ of an abelian category $\\mathcal{A}$ is obtained by formally inverting quasi-isomorphisms in the category of chain complexes. It provides the natural setting for derived functors, sheaf cohomology, and Fourier–Mukai transforms in algebraic geometry.\n[Wikipedia](https://en.wikipedia.org/wiki/Derived_category) · [nLab](https://ncatlab.org/nlab/show/derived+category)"
+  },
+  {
+    "id": "term:donaldson-thomas-invariant",
+    "label": "Donaldson–Thomas invariant",
+    "type": "term",
+    "body": "Donaldson–Thomas (DT) invariants count (in a virtual sense) sheaves or ideal sheaves on a Calabi–Yau threefold, encoding curve-counting data. They are related to Gromov–Witten invariants by the MNOP conjecture and to BPS state counts in string theory.\n[Wikipedia](https://en.wikipedia.org/wiki/Donaldson%E2%80%93Thomas_theory) · [nLab](https://ncatlab.org/nlab/show/Donaldson-Thomas+invariant)"
+  },
+  {
+    "id": "term:derived-algebraic-geometry",
+    "label": "Derived algebraic geometry",
+    "type": "term",
+    "body": "Derived algebraic geometry replaces commutative rings with simplicial commutative rings or $E_\\infty$-ring spectra, allowing deformation theory and intersection theory to work without excess dimension hypotheses. It provides the correct framework for shifted symplectic structures and virtual fundamental classes.\n[Wikipedia](https://en.wikipedia.org/wiki/Derived_algebraic_geometry) · [nLab](https://ncatlab.org/nlab/show/derived+algebraic+geometry)"
+  },
+  {
+    "id": "term:dirichlet-form",
+    "label": "Dirichlet form",
+    "type": "term",
+    "body": "A Dirichlet form is a densely defined, closed, non-negative symmetric bilinear form $\\mathcal{E}$ on $L^2(\\mu)$ satisfying the Markov property (the unit contraction operates). It provides an analytic counterpart to symmetric Markov processes and extends diffusion theory to fractals and metric measure spaces.\n[Wikipedia](https://en.wikipedia.org/wiki/Dirichlet_form) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Dirichlet_form)"
+  },
+  {
+    "id": "term:donaldson-invariant",
+    "label": "Donaldson invariant",
+    "type": "term",
+    "body": "Donaldson invariants are smooth 4-manifold invariants defined by counting anti-self-dual Yang–Mills connections (instantons) on principal $SU(2)$-bundles. They distinguished homeomorphic but non-diffeomorphic smooth 4-manifolds before Seiberg–Witten theory.\n[Wikipedia](https://en.wikipedia.org/wiki/Donaldson_theory) · [nLab](https://ncatlab.org/nlab/show/Donaldson+invariant)"
+  },
+  {
+    "id": "term:eilenberg-mac-lane-space",
+    "label": "Eilenberg–Mac Lane space",
+    "type": "term",
+    "body": "An Eilenberg–Mac Lane space $K(G,n)$ is a CW-complex with $\\pi_n = G$ and all other homotopy groups trivial. These spaces represent ordinary cohomology: $[X, K(G,n)] \\cong H^n(X;G)$, and they are the building blocks of the Postnikov tower.\n[Wikipedia](https://en.wikipedia.org/wiki/Eilenberg%E2%80%93MacLane_space) · [nLab](https://ncatlab.org/nlab/show/Eilenberg-MacLane+space)"
+  },
+  {
+    "id": "term:elliptic-operator",
+    "label": "Elliptic operator",
+    "type": "term",
+    "body": "A linear partial differential operator $P$ of order $m$ is elliptic if its principal symbol $\\sigma_m(P)(x,\\xi)$ is invertible for all $\\xi \\neq 0$. Elliptic operators on compact manifolds have finite-dimensional kernels and cokernels, making the index well-defined.\n[Wikipedia](https://en.wikipedia.org/wiki/Elliptic_operator) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Elliptic_operator)"
+  },
+  {
+    "id": "term:enumerative-geometry",
+    "label": "Enumerative geometry",
+    "type": "term",
+    "body": "Enumerative geometry counts geometric objects (curves, surfaces, sheaves) satisfying prescribed conditions, typically producing integers or rational numbers. Modern techniques — Gromov–Witten theory, Donaldson–Thomas theory, motivic integration — place these counts in cohomological or categorical frameworks.\n[Wikipedia](https://en.wikipedia.org/wiki/Enumerative_geometry) · [nLab](https://ncatlab.org/nlab/show/enumerative+geometry)"
+  },
+  {
+    "id": "term:ergodic-theory",
+    "label": "Ergodic theory",
+    "type": "term",
+    "body": "Ergodic theory studies measure-preserving dynamical systems and the statistical behaviour of orbits. The ergodic theorem of Birkhoff asserts that time averages equal space averages for ergodic systems; connections to operator algebras arise via the von Neumann mean ergodic theorem.\n[Wikipedia](https://en.wikipedia.org/wiki/Ergodic_theory) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Ergodic_theory)"
+  },
+  {
+    "id": "term:exotic-sphere",
+    "label": "Exotic sphere",
+    "type": "term",
+    "body": "An exotic sphere is a smooth manifold homeomorphic but not diffeomorphic to the standard $S^n$. Milnor constructed the first examples on $S^7$ in 1956; their classification uses surgery theory and is related to the image of the J-homomorphism in stable homotopy theory.\n[Wikipedia](https://en.wikipedia.org/wiki/Exotic_sphere) · [nLab](https://ncatlab.org/nlab/show/exotic+sphere)"
+  },
+  {
+    "id": "term:farrell-jones-conjecture",
+    "label": "Farrell–Jones conjecture",
+    "type": "term",
+    "body": "The Farrell–Jones conjecture asserts that the assembly map $H_*^G(\\mathcal{E}_{\\mathcal{VC}}G; \\mathbf{K}_R) \\to K_*(RG)$ (and its L-theory analogue) is an isomorphism for every group $G$ and every ring $R$. It implies the Borel and Novikov conjectures for torsion-free groups.\n[Wikipedia](https://en.wikipedia.org/wiki/Farrell%E2%80%93Jones_conjecture) · [nLab](https://ncatlab.org/nlab/show/Farrell-Jones+conjecture)"
+  },
+  {
+    "id": "term:floer-homology",
+    "label": "Floer homology",
+    "type": "term",
+    "body": "Floer homology is a family of infinite-dimensional Morse theories: instanton Floer homology counts anti-self-dual connections on 4-manifolds with boundary; Heegaard Floer and monopole Floer homologies are 3-manifold invariants. They categorify classical invariants and appear in mirror symmetry.\n[Wikipedia](https://en.wikipedia.org/wiki/Floer_homology) · [nLab](https://ncatlab.org/nlab/show/Floer+homology)"
+  },
+  {
+    "id": "term:functor-of-points",
+    "label": "Functor of points",
+    "type": "term",
+    "body": "In algebraic geometry, a scheme $X$ is understood via its functor of points $h_X\\colon \\mathbf{Sch}^\\mathrm{op}\\to \\mathbf{Set}$, $S\\mapsto X(S) = \\mathrm{Hom}(S,X)$. This perspective generalises to algebraic stacks and derived geometry by replacing $\\mathbf{Set}$ with groupoids or $\\infty$-groupoids.\n[Wikipedia](https://en.wikipedia.org/wiki/Functor_of_points) · [nLab](https://ncatlab.org/nlab/show/functor+of+points)"
+  },
+  {
+    "id": "term:fundamental-group",
+    "label": "Fundamental group",
+    "type": "term",
+    "body": "The fundamental group $\\pi_1(X,x_0)$ classifies loops in $X$ based at $x_0$ up to homotopy, with composition given by concatenation. It is the first in the sequence of homotopy groups and governs covering space theory and the van Kampen theorem.\n[Wikipedia](https://en.wikipedia.org/wiki/Fundamental_group) · [nLab](https://ncatlab.org/nlab/show/fundamental+group)"
+  },
+  {
+    "id": "term:gamma-convergence",
+    "label": "Γ-convergence",
+    "type": "term",
+    "body": "$\\Gamma$-convergence is a notion of variational convergence for functionals $F_\\varepsilon \\colon X \\to \\overline{\\mathbb{R}}$ such that minimisers of $F_\\varepsilon$ converge to minimisers of the $\\Gamma$-limit $F$. It is the standard tool for deriving effective energies in homogenisation and phase-field models.\n[Wikipedia](https://en.wikipedia.org/wiki/Gamma-convergence) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Gamma-convergence)"
+  },
+  {
+    "id": "term:geometric-group-theory",
+    "label": "Geometric group theory",
+    "type": "term",
+    "body": "Geometric group theory studies groups via their actions on metric spaces, treating a finitely generated group $G$ as a metric space via the word metric on a Cayley graph. Key themes include quasi-isometry invariants, hyperbolic groups, and CAT(0) cube complexes.\n[Wikipedia](https://en.wikipedia.org/wiki/Geometric_group_theory) · [nLab](https://ncatlab.org/nlab/show/geometric+group+theory)"
+  },
+  {
+    "id": "term:geometric-measure-theory",
+    "label": "Geometric measure theory",
+    "type": "term",
+    "body": "Geometric measure theory (GMT) extends classical differential geometry to non-smooth objects — rectifiable sets, currents, varifolds — using measure-theoretic tools. It provides existence and regularity theory for area-minimising surfaces and is applied in minimal surface theory and shape analysis.\n[Wikipedia](https://en.wikipedia.org/wiki/Geometric_measure_theory) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Geometric_measure_theory)"
+  },
+  {
+    "id": "term:gromov-hausdorff-convergence",
+    "label": "Gromov–Hausdorff convergence",
+    "type": "term",
+    "body": "A sequence of metric spaces $(X_n, d_n)$ converges in the Gromov–Hausdorff sense to $(X,d)$ if they can be isometrically embedded into a common metric space such that $X_n$ converges to $X$ in the Hausdorff metric. This is the natural topology for studying limits of Riemannian manifolds with curvature bounds.\n[Wikipedia](https://en.wikipedia.org/wiki/Gromov%E2%80%93Hausdorff_convergence) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Gromov-Hausdorff_metric)"
+  },
+  {
+    "id": "term:gromov-witten-invariant",
+    "label": "Gromov–Witten invariant",
+    "type": "term",
+    "body": "Gromov–Witten invariants count (in a virtual sense) pseudo-holomorphic curves of genus $g$ and degree $\\beta$ in a symplectic manifold $X$, defined via integration over the moduli space $\\overline{\\mathcal{M}}_{g,n}(X,\\beta)$. They encode quantum corrections to the cohomology ring, yielding the quantum cohomology ring.\n[Wikipedia](https://en.wikipedia.org/wiki/Gromov%E2%80%93Witten_invariant) · [nLab](https://ncatlab.org/nlab/show/Gromov-Witten+invariant)"
+  },
+  {
+    "id": "term:grove-programme",
+    "label": "Grove programme",
+    "type": "term",
+    "body": "The Grove programme seeks to classify Riemannian manifolds satisfying geometric bounds (lower curvature, upper diameter) up to diffeomorphism or homeomorphism. It uses comparison geometry, Alexandrov spaces, and equivariant techniques.\n[Wikipedia](https://en.wikipedia.org/wiki/Riemannian_geometry) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Riemannian_manifold)"
+  },
+  {
+    "id": "term:haagerup-property",
+    "label": "Haagerup property",
+    "type": "term",
+    "body": "A locally compact group $G$ has the Haagerup property (a-T-menability) if it admits a metrically proper continuous action by affine isometries on a Hilbert space. Groups with this property satisfy the Baum–Connes conjecture with coefficients; examples include amenable groups and $\\mathrm{SL}(2,\\mathbb{Z})$.\n[Wikipedia](https://en.wikipedia.org/wiki/Haagerup_property) · [nLab](https://ncatlab.org/nlab/show/Haagerup+property)"
+  },
+  {
+    "id": "term:hardy-space",
+    "label": "Hardy space",
+    "type": "term",
+    "body": "The Hardy space $H^p$ ($`0 < p < \\infty`$) on the upper half-plane or disk consists of holomorphic functions whose $L^p$ means over horizontal lines (or circles) are uniformly bounded. Real Hardy spaces $H^p(\\mathbb{R}^n)$ for $p \\le 1$ replace $L^p$ as the natural domain for singular integrals when $p=1$.\n[Wikipedia](https://en.wikipedia.org/wiki/Hardy_space) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Hardy_spaces)"
+  },
+  {
+    "id": "term:harmonic-analysis",
+    "label": "Harmonic analysis",
+    "type": "term",
+    "body": "Harmonic analysis studies the representation of functions and signals via superposition of basic waves, from classical Fourier series on the circle to abstract harmonic analysis on locally compact groups. Modern harmonic analysis encompasses Calderón–Zygmund theory, time-frequency analysis, and wavelet theory.\n[Wikipedia](https://en.wikipedia.org/wiki/Harmonic_analysis) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Harmonic_analysis)"
+  },
+  {
+    "id": "term:harmonic-map",
+    "label": "Harmonic map",
+    "type": "term",
+    "body": "A smooth map $f\\colon (M,g)\\to (N,h)$ between Riemannian manifolds is harmonic if it is a critical point of the Dirichlet energy $E(f)=\\int_M |df|^2\\,\\mathrm{vol}_g$, equivalently if its tension field $\\tau(f)=\\mathrm{tr}\\nabla df$ vanishes. Harmonic maps include geodesics, minimal immersions, and holomorphic maps between Kähler manifolds.\n[Wikipedia](https://en.wikipedia.org/wiki/Harmonic_map) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Harmonic_mapping)"
+  },
+  {
+    "id": "term:higher-category-theory",
+    "label": "Higher category theory",
+    "type": "term",
+    "body": "Higher category theory extends ordinary category theory to $n$-categories and $\\infty$-categories, where morphisms exist between morphisms at every level. The $(\\infty,1)$-categorical framework (quasi-categories, complete Segal spaces) underlies derived algebraic geometry and modern homotopy theory.\n[Wikipedia](https://en.wikipedia.org/wiki/Higher_category_theory) · [nLab](https://ncatlab.org/nlab/show/higher+category+theory)"
+  },
+  {
+    "id": "term:homogenisation",
+    "label": "Homogenisation",
+    "type": "term",
+    "body": "Homogenisation is the process of deriving effective macroscopic equations from rapidly oscillating heterogeneous media, replacing $-\\nabla\\cdot(A(x/\\varepsilon)\\nabla u_\\varepsilon)=f$ with an effective equation $-\\nabla\\cdot(A^*\\nabla u)=f$ as $\\varepsilon\\to 0$. It relies on $\\Gamma$-convergence and two-scale convergence.\n[Wikipedia](https://en.wikipedia.org/wiki/Homogenization_theory) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Homogenization)"
+  },
+  {
+    "id": "term:homotopy-coherent-diagram",
+    "label": "Homotopy-coherent diagram",
+    "type": "term",
+    "body": "A homotopy-coherent diagram is a functor from an indexing category into an $\\infty$-category (or, classically, a diagram in a model category satisfying coherence conditions up to homotopy). It replaces strict commutativity with higher homotopies, essential in derived and spectral settings.\n[Wikipedia](https://en.wikipedia.org/wiki/Homotopy_coherent_diagram) · [nLab](https://ncatlab.org/nlab/show/homotopy+coherent+diagram)"
+  },
+  {
+    "id": "term:homotopy-group",
+    "label": "Homotopy group",
+    "type": "term",
+    "body": "The $n$-th homotopy group $\\pi_n(X,x_0) = [(S^n, *),(X,x_0)]$ classifies continuous maps from $S^n$ to $X$ up to based homotopy, with group structure from the co-group structure on $S^n$. Stable homotopy groups $\\pi_n^s = \\varinjlim_k \\pi_{n+k}(S^k)$ are the coefficients of the sphere spectrum.\n[Wikipedia](https://en.wikipedia.org/wiki/Homotopy_group) · [nLab](https://ncatlab.org/nlab/show/homotopy+group)"
+  },
+  {
+    "id": "term:homotopy-type-theory",
+    "label": "Homotopy type theory",
+    "type": "term",
+    "body": "Homotopy type theory (HoTT) interprets types as spaces and equalities as paths, making Martin-Löf type theory into a language for $\\infty$-groupoids. The univalence axiom asserts that equivalent types are equal, providing a foundation for mathematics in which isomorphic structures are identified.\n[Wikipedia](https://en.wikipedia.org/wiki/Homotopy_type_theory) · [nLab](https://ncatlab.org/nlab/show/homotopy+type+theory)"
+  },
+  {
+    "id": "term:hyperbolic-group",
+    "label": "Hyperbolic group",
+    "type": "term",
+    "body": "A finitely generated group $G$ is hyperbolic in the sense of Gromov if its Cayley graph is a $\\delta$-hyperbolic metric space: every geodesic triangle is $\\delta$-slim. Hyperbolic groups have solvable word and conjugacy problems and satisfy the Baum–Connes and Farrell–Jones conjectures.\n[Wikipedia](https://en.wikipedia.org/wiki/Hyperbolic_group) · [nLab](https://ncatlab.org/nlab/show/hyperbolic+group)"
+  },
+  {
+    "id": "term:infinity-category",
+    "label": "∞-category",
+    "type": "term",
+    "body": "An $\\infty$-category (quasi-category) is a simplicial set satisfying the inner horn-filling condition, generalising both categories ($n \\le 1$ truncated) and Kan complexes (groupoids). Lurie's theory of $(\\infty,1)$-categories provides a foundation for derived algebraic geometry and higher topos theory.\n[Wikipedia](https://en.wikipedia.org/wiki/%E2%88%9E-groupoid) · [nLab](https://ncatlab.org/nlab/show/infinity-category)"
+  },
+  {
+    "id": "term:index-theory",
+    "label": "Index theory",
+    "type": "term",
+    "body": "Index theory computes the Fredholm index $\\mathrm{ind}(D) = \\dim\\ker D - \\dim\\ker D^*$ of an elliptic operator $D$ in terms of topological data. The Atiyah–Singer index theorem, its equivariant and families versions, and the coarse index are central results.\n[Wikipedia](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem) · [nLab](https://ncatlab.org/nlab/show/index+theory)"
+  },
+  {
+    "id": "term:intersection-homology",
+    "label": "Intersection homology",
+    "type": "term",
+    "body": "Intersection homology $IH^*_{\\bar p}(X)$ is a homology theory for singular spaces (stratified pseudomanifolds) that satisfies Poincaré duality by imposing perversity conditions $\\bar p$ on how chains may intersect the singular locus. It agrees with ordinary homology on manifolds and underlies the decomposition theorem for perverse sheaves.\n[Wikipedia](https://en.wikipedia.org/wiki/Intersection_homology) · [nLab](https://ncatlab.org/nlab/show/intersection+homology)"
+  },
+  {
+    "id": "term:j-homomorphism",
+    "label": "J-homomorphism",
+    "type": "term",
+    "body": "The J-homomorphism $J\\colon \\pi_n(SO) \\to \\pi_n^s$ maps the homotopy groups of the stable orthogonal group to the stable homotopy groups of spheres, detecting elements arising from the action of $SO(n)$ on $S^{n-1}$. Its image is related to Bernoulli numbers and exotic spheres.\n[Wikipedia](https://en.wikipedia.org/wiki/J-homomorphism) · [nLab](https://ncatlab.org/nlab/show/J-homomorphism)"
+  },
+  {
+    "id": "term:k-theory",
+    "label": "K-theory",
+    "type": "term",
+    "body": "K-theory assigns abelian groups to rings, spaces, or C*-algebras measuring vector bundles or projective modules. Topological K-theory $K^*(X)$ and algebraic K-theory $K_*(R)$ are connected by the Atiyah–Hirzebruch spectral sequence and are central to index theory and the classification of C*-algebras.\n[Wikipedia](https://en.wikipedia.org/wiki/K-theory) · [nLab](https://ncatlab.org/nlab/show/K-theory)"
+  },
+  {
+    "id": "term:kahler-manifold",
+    "label": "Kähler manifold",
+    "type": "term",
+    "body": "A Kähler manifold is a complex manifold $(M, J)$ equipped with a Riemannian metric $g$ compatible with $J$ such that the associated $(1,1)$-form $\\omega = g(J\\cdot,\\cdot)$ is closed. Kähler geometry combines complex, Riemannian, and symplectic structures; examples include $\\mathbb{CP}^n$ and smooth projective varieties.\n[Wikipedia](https://en.wikipedia.org/wiki/K%C3%A4hler_manifold) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/K%C3%A4hler_manifold)"
+  },
+  {
+    "id": "term:kasparov-kk-theory",
+    "label": "Kasparov KK-theory",
+    "type": "term",
+    "body": "Kasparov's bivariant KK-theory $KK(A,B)$ is a bifunctor on C*-algebras equipped with a Kasparov product, unifying K-theory, K-homology, and index theory in a single framework. It is the algebraic engine behind the Baum–Connes conjecture and Poincaré duality for C*-algebras.\n[Wikipedia](https://en.wikipedia.org/wiki/KK-theory) · [nLab](https://ncatlab.org/nlab/show/KK-theory)"
+  },
+  {
+    "id": "term:l-theory",
+    "label": "L-theory",
+    "type": "term",
+    "body": "Algebraic L-theory $L_*(R)$ is the quadratic form analogue of algebraic K-theory, built from quadratic modules over a ring with involution $R$. It classifies surgery obstructions for manifolds and appears in the L-theory assembly map of the Farrell–Jones conjecture.\n[Wikipedia](https://en.wikipedia.org/wiki/L-theory) · [nLab](https://ncatlab.org/nlab/show/L-theory)"
+  },
+  {
+    "id": "term:langlands-programme",
+    "label": "Langlands programme",
+    "type": "term",
+    "body": "The Langlands programme is a web of far-reaching conjectures relating automorphic representations of reductive groups over number fields or function fields to Galois representations (and more generally to motives). The geometric Langlands programme reformulates these conjectures in terms of D-modules and perverse sheaves on moduli stacks.\n[Wikipedia](https://en.wikipedia.org/wiki/Langlands_program) · [nLab](https://ncatlab.org/nlab/show/Langlands+program)"
+  },
+  {
+    "id": "term:locally-compact-group",
+    "label": "Locally compact group",
+    "type": "term",
+    "body": "A locally compact group is a topological group whose underlying space is locally compact and Hausdorff, admitting a (essentially unique) Haar measure. Key examples are Lie groups, $p$-adic groups, and adelic groups; their unitary representation theory is governed by the Plancherel theorem.\n[Wikipedia](https://en.wikipedia.org/wiki/Locally_compact_group) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Locally_compact_group)"
+  },
+  {
+    "id": "term:mapping-class-group",
+    "label": "Mapping class group",
+    "type": "term",
+    "body": "The mapping class group $\\mathrm{Mod}(S)$ of a surface $S$ is the group of isotopy classes of orientation-preserving homeomorphisms $S \\to S$. It acts properly discontinuously on Teichmüller space, with quotient the moduli space $\\mathcal{M}_g$; it has connections to braid groups and quantum topology.\n[Wikipedia](https://en.wikipedia.org/wiki/Mapping_class_group) · [nLab](https://ncatlab.org/nlab/show/mapping+class+group)"
+  },
+  {
+    "id": "term:mean-curvature-flow",
+    "label": "Mean curvature flow",
+    "type": "term",
+    "body": "Mean curvature flow evolves a hypersurface $\\Sigma_t \\subset \\mathbb{R}^{n+1}$ by the equation $\\partial_t x = H\\nu$, where $H$ is the mean curvature and $\\nu$ the unit normal. Singularities form in finite time; the flow is studied using monotonicity formulas, blow-up analysis, and level-set methods.\n[Wikipedia](https://en.wikipedia.org/wiki/Mean_curvature_flow) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Mean_curvature_flow)"
+  },
+  {
+    "id": "term:minimal-surface",
+    "label": "Minimal surface",
+    "type": "term",
+    "body": "A minimal surface is a surface of vanishing mean curvature, equivalently a critical point of the area functional. Classical examples include the catenoid and helicoid; existence and regularity are studied via the Plateau problem, geometric measure theory, and PDE methods.\n[Wikipedia](https://en.wikipedia.org/wiki/Minimal_surface) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Minimal_surface)"
+  },
+  {
+    "id": "term:model-category",
+    "label": "Model category",
+    "type": "term",
+    "body": "A model category is a category equipped with three distinguished classes of morphisms — weak equivalences, fibrations, cofibrations — satisfying Quillen's axioms, providing an abstract framework for homotopy theory. The homotopy category is obtained by formally inverting weak equivalences.\n[Wikipedia](https://en.wikipedia.org/wiki/Model_category) · [nLab](https://ncatlab.org/nlab/show/model+category)"
+  },
+  {
+    "id": "term:moduli-space",
+    "label": "Moduli space",
+    "type": "term",
+    "body": "A moduli space parameterises a class of geometric objects up to isomorphism; for example, $\\mathcal{M}_g$ parameterises compact Riemann surfaces of genus $g$ and $\\mathcal{M}_{g,n}$ adds $n$ marked points. Moduli spaces are studied via deformation theory, GIT quotients, and algebraic stacks.\n[Wikipedia](https://en.wikipedia.org/wiki/Moduli_space) · [nLab](https://ncatlab.org/nlab/show/moduli+space)"
+  },
+  {
+    "id": "term:motivic-cohomology",
+    "label": "Motivic cohomology",
+    "type": "term",
+    "body": "Motivic cohomology $H^{p,q}(X,\\mathbb{Z})$ is a bigraded cohomology theory for algebraic varieties, constructed via algebraic cycles (Bloch's higher Chow groups). It maps to étale cohomology (Beilinson–Lichtenbaum), singular cohomology, and algebraic K-theory via the motivic spectral sequence.\n[Wikipedia](https://en.wikipedia.org/wiki/Motivic_cohomology) · [nLab](https://ncatlab.org/nlab/show/motivic+cohomology)"
+  },
+  {
+    "id": "term:multiscale-phenomena",
+    "label": "Multiscale phenomena",
+    "type": "term",
+    "body": "Multiscale phenomena involve coupled dynamics or geometry across widely separated length or time scales, requiring methods that bridge micro and macro descriptions. Mathematical tools include homogenisation, renormalisation group analysis, and heterogeneous multiscale methods.\n[Wikipedia](https://en.wikipedia.org/wiki/Multiscale_modeling) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Homogenization)"
+  },
+  {
+    "id": "term:non-commutative-geometry",
+    "label": "Non-commutative geometry",
+    "type": "term",
+    "body": "Connes's non-commutative geometry replaces a classical space by the spectral data of a Dirac-type operator on a Hilbert space module over a (possibly non-commutative) C*-algebra, recovering geometric invariants via cyclic cohomology and the local index formula. It provides a geometric framework for the standard model of particle physics.\n[Wikipedia](https://en.wikipedia.org/wiki/Noncommutative_geometry) · [nLab](https://ncatlab.org/nlab/show/noncommutative+geometry)"
+  },
+  {
+    "id": "term:novikov-conjecture",
+    "label": "Novikov conjecture",
+    "type": "term",
+    "body": "The Novikov conjecture asserts that higher signatures $\\langle \\mathcal{L}(M)\\cup f^*\\alpha,[M]\\rangle$ are homotopy invariants of closed oriented manifolds, for any cohomology class $\\alpha \\in H^*(B\\pi_1(M);\\mathbb{Q})$. It follows from the rational injectivity of the assembly map and from the Farrell–Jones conjecture.\n[Wikipedia](https://en.wikipedia.org/wiki/Novikov_conjecture) · [nLab](https://ncatlab.org/nlab/show/Novikov+conjecture)"
+  },
+  {
+    "id": "term:operator-algebra",
+    "label": "Operator algebra",
+    "type": "term",
+    "body": "An operator algebra is an algebra of bounded (or unbounded) linear operators on a Hilbert space, closed in some operator topology. The two main classes are C*-algebras (norm-closed) and von Neumann algebras (weakly closed); they are central to quantum mechanics, ergodic theory, and non-commutative geometry.\n[Wikipedia](https://en.wikipedia.org/wiki/Operator_algebra) · [nLab](https://ncatlab.org/nlab/show/operator+algebra)"
+  },
+  {
+    "id": "term:p-adic-numbers",
+    "label": "$p$-adic numbers",
+    "type": "term",
+    "body": "The field $\\mathbb{Q}_p$ of $p$-adic numbers is the completion of $\\mathbb{Q}$ with respect to the $p$-adic absolute value $|x|_p = p^{-v_p(x)}$, where $v_p$ is the $p$-adic valuation. The $p$-adic integers $\\mathbb{Z}_p$ form a compact open subgroup; $\\mathbb{Q}_p$ is a local field fundamental to number theory.\n[Wikipedia](https://en.wikipedia.org/wiki/P-adic_number) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/P-adic_number)"
+  },
+  {
+    "id": "term:perverse-sheaf",
+    "label": "Perverse sheaf",
+    "type": "term",
+    "body": "A perverse sheaf on a stratified algebraic variety is a complex of constructible sheaves satisfying support and co-support conditions determined by the perversity; the category of perverse sheaves is the heart of the perverse t-structure on the derived category. The decomposition theorem states that direct images of intersection complexes under proper maps decompose as direct sums of perverse sheaves.\n[Wikipedia](https://en.wikipedia.org/wiki/Perverse_sheaf) · [nLab](https://ncatlab.org/nlab/show/perverse+sheaf)"
+  },
+  {
+    "id": "term:poincare-duality",
+    "label": "Poincaré duality",
+    "type": "term",
+    "body": "For a closed oriented $n$-manifold $M$, Poincaré duality gives an isomorphism $H^k(M;R) \\cong H_{n-k}(M;R)$ induced by capping with the fundamental class $[M]$. It generalises to Poincaré duality spaces, intersection homology for singular spaces, and Poincaré duality algebras in the derived setting.\n[Wikipedia](https://en.wikipedia.org/wiki/Poincar%C3%A9_duality) · [nLab](https://ncatlab.org/nlab/show/Poincare+duality)"
+  },
+  {
+    "id": "term:probabilistic-combinatorics",
+    "label": "Probabilistic combinatorics",
+    "type": "term",
+    "body": "Probabilistic combinatorics uses probability theory — random graphs, the probabilistic method — to prove existence results and analyse typical behaviour of combinatorial structures. Erdős and Rényi's random graph $G(n,p)$ and the probabilistic method are foundational.\n[Wikipedia](https://en.wikipedia.org/wiki/Probabilistic_method) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Random_graph)"
+  },
+  {
+    "id": "term:quantum-field-theory",
+    "label": "Quantum field theory",
+    "type": "term",
+    "body": "A quantum field theory (QFT) assigns operator-valued distributions (fields) to spacetime, with dynamics governed by a Lagrangian; correlation functions are the primary observables. Rigorous mathematical formulations include Wightman axioms, Haag–Kastler nets, and functorial QFT via cobordism categories.\n[Wikipedia](https://en.wikipedia.org/wiki/Quantum_field_theory) · [nLab](https://ncatlab.org/nlab/show/quantum+field+theory)"
+  },
+  {
+    "id": "term:quasi-isometry",
+    "label": "Quasi-isometry",
+    "type": "term",
+    "body": "A quasi-isometry between metric spaces is a map $f\\colon X\\to Y$ such that $\\frac{1}{C}d(x,x')-C \\le d(f(x),f(x'))\\le Cd(x,x')+C$ and every point of $Y$ lies within $C$ of the image, for some $C>0$. Quasi-isometry is the equivalence relation of geometric group theory, preserving properties like hyperbolicity and growth type.\n[Wikipedia](https://en.wikipedia.org/wiki/Quasi-isometry) · [nLab](https://ncatlab.org/nlab/show/quasi-isometry)"
+  },
+  {
+    "id": "term:random-matrix-theory",
+    "label": "Random matrix theory",
+    "type": "term",
+    "body": "Random matrix theory studies the spectral statistics of matrices with random entries (GUE, GOE, GUE ensembles). Universality results show that eigenvalue spacing distributions — governed by the Wigner semicircle law and GUE/GOE kernels — appear across diverse systems from nuclear physics to number theory.\n[Wikipedia](https://en.wikipedia.org/wiki/Random_matrix) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Random_matrices)"
+  },
+  {
+    "id": "term:regularity-theory",
+    "label": "Regularity theory",
+    "type": "term",
+    "body": "Regularity theory in PDEs studies how much smoothness solutions inherit from the data and the operator. Schauder estimates give $C^{k,\\alpha}$ regularity for elliptic equations with Hölder coefficients; De Giorgi–Nash–Moser theory gives $C^{0,\\alpha}$ bounds for divergence-form equations with only $L^\\infty$ coefficients.\n[Wikipedia](https://en.wikipedia.org/wiki/Regularity_theory_for_elliptic_PDEs) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Schauder_estimate)"
+  },
+  {
+    "id": "term:riemannian-geometry",
+    "label": "Riemannian geometry",
+    "type": "term",
+    "body": "Riemannian geometry studies smooth manifolds equipped with a positive-definite inner product $g_p$ on each tangent space, varying smoothly in $p$. It provides the notions of length, angle, geodesic, curvature, and volume that underpin general relativity, comparison geometry, and geometric analysis.\n[Wikipedia](https://en.wikipedia.org/wiki/Riemannian_geometry) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Riemannian_geometry)"
+  },
+  {
+    "id": "term:rough-paths",
+    "label": "Rough paths",
+    "type": "term",
+    "body": "Rough path theory, due to Lyons, provides a deterministic framework for integrating and solving differential equations driven by irregular signals (paths of Hölder regularity $\\alpha < 1/2$) by enhancing the path with its iterated integrals (the signature). It underpins the theory of regularity structures and the analysis of SPDEs.\n[Wikipedia](https://en.wikipedia.org/wiki/Rough_path) · [nLab](https://ncatlab.org/nlab/show/rough+path)"
+  },
+  {
+    "id": "term:scalar-curvature",
+    "label": "Scalar curvature",
+    "type": "term",
+    "body": "The scalar curvature $R = g^{ij}R_{ij}$ is the trace of the Ricci tensor, the simplest local curvature invariant of a Riemannian manifold. Positive scalar curvature obstructs certain topologies (Gromov–Lawson–Rosenberg conjecture) and is studied via the Dirac operator and surgery techniques.\n[Wikipedia](https://en.wikipedia.org/wiki/Scalar_curvature) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Scalar_curvature)"
+  },
+  {
+    "id": "term:schur-functor",
+    "label": "Schur functor",
+    "type": "term",
+    "body": "A Schur functor $\\mathbb{S}_\\lambda$ associated to a Young diagram $\\lambda$ is an endofunctor of $\\mathbf{Vect}$ sending a vector space $V$ to the $\\lambda$-isotypic component of $V^{\\otimes |\\lambda|}$ under the symmetric group action. Schur functors produce all polynomial representations of $GL(V)$ and appear in the representation theory of symmetric groups and Lie algebras.\n[Wikipedia](https://en.wikipedia.org/wiki/Schur_functor) · [nLab](https://ncatlab.org/nlab/show/Schur+functor)"
+  },
+  {
+    "id": "term:seiberg-witten-invariant",
+    "label": "Seiberg–Witten invariant",
+    "type": "term",
+    "body": "Seiberg–Witten invariants are smooth 4-manifold invariants defined by counting solutions to the Seiberg–Witten equations (a system coupling a spinor and a $U(1)$ connection). They are easier to compute than Donaldson invariants and equivalent to them for simply-connected 4-manifolds by Witten's conjecture.\n[Wikipedia](https://en.wikipedia.org/wiki/Seiberg%E2%80%93Witten_invariant) · [nLab](https://ncatlab.org/nlab/show/Seiberg-Witten+invariant)"
+  },
+  {
+    "id": "term:shimura-variety",
+    "label": "Shimura variety",
+    "type": "term",
+    "body": "A Shimura variety is a complex algebraic variety $\\mathrm{Sh}(G,X) = G(\\mathbb{Q})\\backslash X \\times G(\\mathbb{A}_f)/K$ defined by a reductive group $G$ over $\\mathbb{Q}$ and a Hermitian symmetric domain $X$. Shimura varieties serve as moduli spaces for abelian varieties with additional structure and play a central role in the Langlands programme.\n[Wikipedia](https://en.wikipedia.org/wiki/Shimura_variety) · [nLab](https://ncatlab.org/nlab/show/Shimura+variety)"
+  },
+  {
+    "id": "term:singular-integral",
+    "label": "Singular integral",
+    "type": "term",
+    "body": "A singular integral is a convolution operator $Tf(x) = \\mathrm{p.v.}\\int K(x-y)f(y)\\,dy$ where the kernel $K$ has a non-integrable singularity at the origin (e.g., the Hilbert transform, Riesz transforms). Calderón–Zygmund theory gives $L^p$ boundedness for $1 < p < \\infty$ and weak $(1,1)$ estimates.\n[Wikipedia](https://en.wikipedia.org/wiki/Singular_integral) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Singular_integral)"
+  },
+  {
+    "id": "term:singular-space",
+    "label": "Singular space",
+    "type": "term",
+    "body": "A singular space is a topological or algebraic-geometric space that fails to be a manifold at some points (the singular locus). Analytic tools — intersection homology, perverse sheaves, resolution of singularities, Alexandrov geometry — extend manifold theory to this setting.\n[Wikipedia](https://en.wikipedia.org/wiki/Singular_point_of_an_algebraic_variety) · [nLab](https://ncatlab.org/nlab/show/singular+space)"
+  },
+  {
+    "id": "term:sle",
+    "label": "SLE (Schramm–Loewner evolution)",
+    "type": "term",
+    "body": "Schramm–Loewner evolution $\\mathrm{SLE}_\\kappa$ is a one-parameter family of random fractal planar curves characterised by conformal invariance and the domain Markov property. It describes the scaling limits of interfaces in critical 2D statistical mechanics models (percolation, Ising, loop-erased random walk).\n[Wikipedia](https://en.wikipedia.org/wiki/Schramm%E2%80%93Loewner_evolution) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/SLE)"
+  },
+  {
+    "id": "term:sobolev-space",
+    "label": "Sobolev space",
+    "type": "term",
+    "body": "The Sobolev space $W^{k,p}(\\Omega)$ consists of $L^p(\\Omega)$ functions whose distributional derivatives up to order $k$ also lie in $L^p(\\Omega)$, with norm $\\|u\\|_{W^{k,p}} = \\sum_{|\\alpha|\\le k}\\|D^\\alpha u\\|_p$. Sobolev embedding theorems control pointwise or Hölder regularity of functions in these spaces.\n[Wikipedia](https://en.wikipedia.org/wiki/Sobolev_space) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Sobolev_space)"
+  },
+  {
+    "id": "term:spectral-gap",
+    "label": "Spectral gap",
+    "type": "term",
+    "body": "The spectral gap of a Markov semigroup or Laplacian is the difference $\\lambda_1 - \\lambda_0$ between the smallest two eigenvalues, controlling the rate of convergence to equilibrium. Positive spectral gap implies exponential mixing and is related to Poincaré inequalities and expander graphs.\n[Wikipedia](https://en.wikipedia.org/wiki/Spectral_gap) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Spectral_gap)"
+  },
+  {
+    "id": "term:spectral-sequence",
+    "label": "Spectral sequence",
+    "type": "term",
+    "body": "A spectral sequence $\\{E_r^{p,q}, d_r\\}$ is a sequence of bigraded abelian groups with differentials $d_r\\colon E_r^{p,q}\\to E_r^{p+r,q-r+1}$ such that $E_{r+1} = H(E_r, d_r)$, converging (under suitable conditions) to the graded pieces of a filtered group. Spectral sequences compute cohomology of fibrations, sheaves, and spectra.\n[Wikipedia](https://en.wikipedia.org/wiki/Spectral_sequence) · [nLab](https://ncatlab.org/nlab/show/spectral+sequence)"
+  },
+  {
+    "id": "term:sphere-spectrum",
+    "label": "Sphere spectrum",
+    "type": "term",
+    "body": "The sphere spectrum $\\mathbb{S}$ is the unit object in the symmetric monoidal $\\infty$-category of spectra; its homotopy groups $\\pi_n(\\mathbb{S})$ are the stable homotopy groups of spheres. It plays the role of $\\mathbb{Z}$ in algebra: every ring spectrum is a module over $\\mathbb{S}$.\n[Wikipedia](https://en.wikipedia.org/wiki/Sphere_spectrum) · [nLab](https://ncatlab.org/nlab/show/sphere+spectrum)"
+  },
+  {
+    "id": "term:stable-infinity-category",
+    "label": "Stable ∞-category",
+    "type": "term",
+    "body": "A stable $\\infty$-category is an $\\infty$-category with a zero object in which a square is a pushout if and only if it is a pullback, making the suspension functor $\\Sigma$ an equivalence. The $\\infty$-derived category and the $\\infty$-category of spectra are the primary examples; they provide the setting for derived algebraic geometry.\n[Wikipedia](https://en.wikipedia.org/wiki/Stable_%E2%88%9E-category) · [nLab](https://ncatlab.org/nlab/show/stable+(infinity,1)-category)"
+  },
+  {
+    "id": "term:stochastic-pde",
+    "label": "Stochastic PDE",
+    "type": "term",
+    "body": "A stochastic PDE (SPDE) is a partial differential equation driven by a random noise term, typically space-time white noise. Hairer's theory of regularity structures and Gubinelli–Imkeller–Perkowski's paracontrolled distributions provide rigorous solution theories for subcritical SPDEs like KPZ and $\\Phi^4_3$.\n[Wikipedia](https://en.wikipedia.org/wiki/Stochastic_partial_differential_equation) · [nLab](https://ncatlab.org/nlab/show/stochastic+partial+differential+equation)"
+  },
+  {
+    "id": "term:surgery-theory",
+    "label": "Surgery theory",
+    "type": "term",
+    "body": "Surgery theory classifies manifolds by cutting out embedded spheres and re-gluing to change topology, guided by the surgery obstruction in Wall's L-groups. Combined with the s-cobordism theorem, it gives a complete classification of simply-connected manifolds of dimension $\\ge 5$ via the surgery exact sequence.\n[Wikipedia](https://en.wikipedia.org/wiki/Surgery_theory) · [nLab](https://ncatlab.org/nlab/show/surgery+theory)"
+  },
+  {
+    "id": "term:symmetric-monoidal-category",
+    "label": "Symmetric monoidal category",
+    "type": "term",
+    "body": "A symmetric monoidal category is a category $\\mathcal{C}$ with a tensor product $\\otimes$, unit object $I$, and natural isomorphisms for associativity, unit, and commutativity satisfying coherence axioms. Examples include $(\\mathbf{Ab},\\otimes_{\\mathbb{Z}})$, $(\\mathbf{Vect}_k,\\otimes_k)$, and the $(\\infty,1)$-category of spectra $(\\mathbf{Sp},\\wedge)$.\n[Wikipedia](https://en.wikipedia.org/wiki/Symmetric_monoidal_category) · [nLab](https://ncatlab.org/nlab/show/symmetric+monoidal+category)"
+  },
+  {
+    "id": "term:teichmuller-space",
+    "label": "Teichmüller space",
+    "type": "term",
+    "body": "The Teichmüller space $\\mathcal{T}_g$ parameterises marked hyperbolic metrics (equivalently, complex structures) on a genus-$g$ surface up to isotopy. It carries the Teichmüller metric (Finsler) and the Weil–Petersson metric (Kähler), and the mapping class group acts on it properly discontinuously.\n[Wikipedia](https://en.wikipedia.org/wiki/Teichm%C3%BCller_space) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Teichm%C3%BCller_space)"
+  },
+  {
+    "id": "term:topological-field-theory",
+    "label": "Topological field theory",
+    "type": "term",
+    "body": "A topological field theory (TFT) is a symmetric monoidal functor $Z\\colon \\mathbf{Cob}_n \\to \\mathbf{Vect}$ from the cobordism category to vector spaces, assigning invariants to manifolds that depend only on topology. Atiyah's axioms formalise this; examples include Chern–Simons theory and Reshetikhin–Turaev invariants.\n[Wikipedia](https://en.wikipedia.org/wiki/Topological_quantum_field_theory) · [nLab](https://ncatlab.org/nlab/show/topological+field+theory)"
+  },
+  {
+    "id": "term:topological-k-theory",
+    "label": "Topological K-theory",
+    "type": "term",
+    "body": "Topological K-theory $K^0(X)$ is the Grothendieck group of (virtual) complex vector bundles on a compact Hausdorff space $X$; together with $K^1(X)$ it forms a generalised cohomology theory by Bott periodicity $K^n(X)\\cong K^{n+2}(X)$. It is connected to the index theorem and C*-algebra K-theory via the Atiyah–Jänich theorem.\n[Wikipedia](https://en.wikipedia.org/wiki/Topological_K-theory) · [nLab](https://ncatlab.org/nlab/show/topological+K-theory)"
+  },
+  {
+    "id": "term:topos-theory",
+    "label": "Topos theory",
+    "type": "term",
+    "body": "A Grothendieck topos is a category equivalent to the category of sheaves on a site; elementary toposes are categories satisfying Lawvere–Tierney axioms. Topos theory provides a generalised notion of space that encompasses algebraic geometry (étale topos), logic (Heyting algebra), and higher topos theory ($\\infty$-toposes).\n[Wikipedia](https://en.wikipedia.org/wiki/Topos) · [nLab](https://ncatlab.org/nlab/show/topos)"
+  },
+  {
+    "id": "term:torsion",
+    "label": "Torsion",
+    "type": "term",
+    "body": "Algebraic torsion refers to elements $x$ in an abelian group with $nx=0$ for some $n>0$; Whitehead torsion $\\tau(f)\\in Wh(\\pi_1)$ is an obstruction to a homotopy equivalence of CW complexes being a simple homotopy equivalence. Reidemeister torsion is a finer invariant distinguishing manifolds with the same homology.\n[Wikipedia](https://en.wikipedia.org/wiki/Whitehead_torsion) · [nLab](https://ncatlab.org/nlab/show/torsion)"
+  },
+  {
+    "id": "term:trace-map",
+    "label": "Trace map",
+    "type": "term",
+    "body": "Trace maps — including the Dennis trace $K_*(R)\\to HH_*(R)$, the cyclotomic trace $K_*(R)\\to TC_*(R)$, and the Chern character — relate algebraic K-theory to more computable invariants (Hochschild homology, topological cyclic homology). They are key tools for K-theory computations.\n[Wikipedia](https://en.wikipedia.org/wiki/Dennis_trace) · [nLab](https://ncatlab.org/nlab/show/trace+map)"
+  },
+  {
+    "id": "term:unitary-representation",
+    "label": "Unitary representation",
+    "type": "term",
+    "body": "A unitary representation of a group $G$ is a continuous group homomorphism $\\pi\\colon G \\to U(\\mathcal{H})$ for some Hilbert space $\\mathcal{H}$. The unitary dual $\\hat G$ classifies irreducible unitary representations; its structure governs harmonic analysis on $G$ via the Plancherel theorem.\n[Wikipedia](https://en.wikipedia.org/wiki/Unitary_representation) · [nLab](https://ncatlab.org/nlab/show/unitary+representation)"
+  },
+  {
+    "id": "term:universal-coefficient-theorem",
+    "label": "Universal coefficient theorem",
+    "type": "term",
+    "body": "The universal coefficient theorem relates the homology $H_n(X;G)$ with coefficients in $G$ to $H_n(X;\\mathbb{Z})$ and $H_{n-1}(X;\\mathbb{Z})$ via a short exact sequence involving $\\mathrm{Tor}$ and $\\otimes G$. An analogous sequence computes cohomology from homology using $\\mathrm{Ext}$ and $\\mathrm{Hom}$.\n[Wikipedia](https://en.wikipedia.org/wiki/Universal_coefficient_theorem) · [nLab](https://ncatlab.org/nlab/show/universal+coefficient+theorem)"
+  },
+  {
+    "id": "term:virtual-fundamental-class",
+    "label": "Virtual fundamental class",
+    "type": "term",
+    "body": "The virtual fundamental class $[M]^{\\mathrm{vir}} \\in H_*(M)$ is a homology class associated to a moduli space $M$ of expected dimension $d$, defined using a perfect obstruction theory even when $M$ is not of pure dimension $d$. It is the correct cycle for integration in Gromov–Witten and Donaldson–Thomas theories.\n[Wikipedia](https://en.wikipedia.org/wiki/Virtual_fundamental_class) · [nLab](https://ncatlab.org/nlab/show/virtual+fundamental+class)"
+  },
+  {
+    "id": "term:von-neumann-algebra",
+    "label": "Von Neumann algebra",
+    "type": "term",
+    "body": "A von Neumann algebra is a *-subalgebra of $B(\\mathcal{H})$ that is closed in the weak operator topology, equivalently equal to its double commutant $M = M''$. Factors — von Neumann algebras with trivial centre — are classified into types I, II, III; the type $\\mathrm{II}_1$ case is the setting of free probability and Jones's subfactor theory.\n[Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_algebra) · [nLab](https://ncatlab.org/nlab/show/von+Neumann+algebra)"
+  },
+  {
+    "id": "term:waldhausen-k-theory",
+    "label": "Waldhausen K-theory",
+    "type": "term",
+    "body": "Waldhausen's algebraic K-theory $A(X)$ of a space $X$ is defined via the K-theory of the Waldhausen category of finite retractive spaces over $X$, with $A(*) \\simeq K(\\mathbb{Z})$ at a point. It appears in the stable parametrised h-cobordism theorem and connects to topological Hochschild homology via the cyclotomic trace.\n[Wikipedia](https://en.wikipedia.org/wiki/Algebraic_K-theory_of_spaces) · [nLab](https://ncatlab.org/nlab/show/Waldhausen+K-theory)"
+  },
+  {
+    "id": "term:weil-conjecture",
+    "label": "Weil conjectures",
+    "type": "term",
+    "body": "The Weil conjectures (proved by Deligne in 1974) describe the zeta function $Z(X/\\mathbb{F}_q; t)$ of a variety over a finite field: it is a rational function satisfying a functional equation, and its zeroes and poles lie on circles of prescribed radius (Riemann hypothesis analogue). Their proof uses étale cohomology and the theory of weights.\n[Wikipedia](https://en.wikipedia.org/wiki/Weil_conjectures) · [nLab](https://ncatlab.org/nlab/show/Weil+conjecture)"
+  },
+  {
+    "id": "term:white-noise",
+    "label": "White noise",
+    "type": "term",
+    "body": "White noise is a generalised stochastic process $\\xi$ formally satisfying $\\mathbb{E}[\\xi(x)\\xi(y)] = \\delta(x-y)$; rigorously it is a random tempered distribution. Space-time white noise drives SPDEs such as the stochastic heat equation; its regularity properties necessitate renormalisation in subcritical dimensions.\n[Wikipedia](https://en.wikipedia.org/wiki/White_noise) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/White_noise)"
+  },
+  {
+    "id": "term:whitehead-group",
+    "label": "Whitehead group",
+    "type": "term",
+    "body": "The Whitehead group $Wh(G) = K_1(\\mathbb{Z}[G])/\\{\\pm g : g\\in G\\}$ measures the obstruction to a homotopy equivalence of finite CW complexes being a simple homotopy equivalence (Whitehead torsion). The Farrell–Jones conjecture implies $Wh(G) = 0$ for torsion-free groups.\n[Wikipedia](https://en.wikipedia.org/wiki/Whitehead_group) · [nLab](https://ncatlab.org/nlab/show/Whitehead+group)"
+  },
+  {
+    "id": "term:z-stability",
+    "label": "$\\mathcal{Z}$-stability",
+    "type": "term",
+    "body": "A separable unital C*-algebra $A$ is $\\mathcal{Z}$-stable if $A \\cong A \\otimes \\mathcal{Z}$, where $\\mathcal{Z}$ is the Jiang–Su algebra. $\\mathcal{Z}$-stability is a regularity condition that, combined with finite nuclear dimension, implies classifiability by the Elliott invariant in the classification programme for simple nuclear C*-algebras.\n[Wikipedia](https://en.wikipedia.org/wiki/Jiang%E2%80%93Su_algebra) · [nLab](https://ncatlab.org/nlab/show/Jiang-Su+algebra)"
+  },
+  {
+    "id": "objective:o1",
+    "label": "O1 — Push frontiers in K-theory and attack open questions in topology",
+    "type": "objective",
+    "body": "### Topic 1: K-groups and cohomology\n\n**Key concepts**\n\n- **[Cohomology theory](../GLOSSARY.md#characteristic-class)** — A machine that assigns algebraic objects (groups) to a\n  space, measuring \"holes\" of different dimensions. If two spaces have different\n  cohomology, they cannot be the same shape. Think of it as a refined version of\n  counting connected components, loops, voids, etc.\n- **[K-theory](../GLOSSARY.md#k-theory)** — A special, powerful cohomology theory. Instead of counting\n  holes, it organises information about **vector bundles** (families of vector\n  spaces attached continuously to each point of a space) or about projective\n  modules over a ring. It packages this into groups called **K-groups**.\n- **[Farrell–Jones conjecture](../GLOSSARY.md#farrell-jones-conjecture)** — A deep prediction that the K-theory of a group\n  can be computed from simpler pieces (its finite and virtually-cyclic\n  subgroups). Proving new cases gives leverage on many other problems.\n- **[Borel conjecture](../GLOSSARY.md#borel-conjecture) (topological rigidity)** — Claims that certain \"nice\"\n  manifolds (aspherical ones) are completely determined by their fundamental\n  group: if two such manifolds have the same fundamental group, they are\n  actually the same up to continuous deformation (homeomorphic).\n- **[C\\*-algebra](../GLOSSARY.md#c-algebra) classification** — Using K-theory as a fingerprint to tell\n  infinite-dimensional algebras of operators apart.\n\n**Plain explanation.** This group builds and computes algebraic \"fingerprints\"\nof spaces and algebras. K-theory is the central fingerprint. They use it to\ndecide when two shapes are really the same, to bound the curvature of manifolds,\nand to classify operator algebras.\n\n---"
+  },
+  {
+    "id": "objective:o2",
+    "label": "O2 — Study moduli spaces to advance the Langlands programme and other fields",
+    "type": "objective",
+    "body": "### Topic 2: Moduli spaces in arithmetic and geometry\n\n**Key concepts**\n\n- **[Moduli space](../GLOSSARY.md#moduli-space)** — A space whose *points are themselves mathematical objects*.\n  For example, one point might be \"an elliptic curve\" or \"a Riemann surface\";\n  moving around the moduli space deforms the object. It lets you study a whole\n  family at once and ask geometric questions about the family.\n- **[Langlands programme](../GLOSSARY.md#langlands-programme)** — A vast web of conjectures linking number theory\n  (solutions of equations, symmetries of numbers / Galois groups) with analysis\n  and representation theory ([automorphic forms](../GLOSSARY.md#automorphic-form)). Often called a \"grand unified\n  theory\" of mathematics.\n- **Representation (of a group)** — A way of writing abstract group elements as\n  matrices, turning symmetry into linear algebra you can compute with.\n- **Diffeomorphism groups** — The group of all smooth, smoothly-invertible\n  deformations of a manifold; understanding it reveals how flexible a high-\n  dimensional shape is.\n- **Stable curves / Strebel differentials** — Specific well-behaved objects\n  whose moduli spaces appear in geometry and mathematical physics.\n\n**Plain explanation.** Instead of studying one curve or one geometric object,\nthey study the *space of all of them*. The arithmetic of these spaces feeds the\nLanglands programme; their geometry feeds topology, differential geometry, and\nphysics.\n\n---"
+  },
+  {
+    "id": "objective:o3",
+    "label": "O3 — Open questions in C\\*-algebras, model building, and set theory",
+    "type": "objective",
+    "body": "### Topic 3: Models and universes\n\n**Key concepts**\n\n- **Model (in logic) / universe of sets** — A mathematical world that satisfies\n  the axioms of set theory. There can be many such worlds, and statements true\n  in one may fail in another.\n- **Large cardinal hypotheses** — Assumptions that extremely huge infinite\n  numbers exist. They sit at the top of the strength hierarchy of mathematics\n  and have surprising consequences far below.\n- **Determinacy** — A statement that certain infinite two-player games always\n  have a winning strategy for one side. It interacts deeply with large cardinals\n  and with how \"nice\" sets of real numbers behave.\n\n**Plain explanation.** This group builds different logical universes to test\nwhich mathematical statements are provable, independent, or require strong\ninfinity assumptions — probing the boundaries of what mathematics can decide.\n\n### Topic 4: Groups and actions\n\n**Key concepts**\n\n- **Group action** — A group acting as symmetries of a space (each group element\n  moves the space around in a structure-preserving way). The way a group acts\n  reveals properties of both the group and the space.\n- **[C\\*-algebra](../GLOSSARY.md#c-algebra)** — An algebra of operators on a Hilbert space, closed under a\n  conjugation/adjoint operation and complete in a norm. These are the natural\n  language of quantum mechanics and a meeting point of algebra and analysis.\n- **Cartan subalgebra** — A well-behaved commutative \"coordinate system\" sitting\n  inside a larger non-commutative algebra; finding one makes the big algebra far\n  easier to understand and classify.\n- **Nuclear / simple C\\*-algebras** — Technical \"good behaviour\" conditions\n  (\"nuclear\" = approximable by finite-dimensional pieces; \"simple\" = no nontrivial\n  closed ideals).\n- **Tools: functional analysis, probability, combinatorics** — Different toolkits\n  combined to study groups and their actions.\n\n**Plain explanation.** They study symmetry (groups) acting on operator algebras,\ntrying to prove these algebras contain hidden commutative skeletons (Cartan\nsubalgebras) that allow a full classification.\n\n---"
+  },
+  {
+    "id": "objective:o4",
+    "label": "O4 — PDEs and differential geometry via method transfer",
+    "type": "objective",
+    "body": "### Topic 5: Curvature, shape and global analysis\n\n**Key concepts**\n\n- **[Riemannian manifold](../GLOSSARY.md#riemannian-geometry)** — A smooth curved space equipped with a notion of\n  distance and angle at every point (a generalised surface in any dimension).\n- **[Curvature](../GLOSSARY.md#curvature)** — A local measurement of how a space bends (positive like a\n  sphere, zero like a flat plane, negative like a saddle).\n- **Local vs. global** — How local curvature forces global shape: the central\n  theme of \"global analysis\". E.g. constant positive curvature forces the space\n  to look like a sphere.\n- **Einstein manifolds** — Manifolds whose curvature satisfies the same equation\n  that governs gravity in general relativity.\n- **Isometry group / symmetry** — Transformations preserving distances; assuming\n  symmetry simplifies classification, and the goal is to remove those\n  assumptions step by step (the **[Grove programme](../GLOSSARY.md#grove-programme)**).\n\n**Plain explanation.** They ask: how much does *local* bending control the\n*overall* shape of a space? They aim to classify highly curved or Einstein\nspaces, gradually dropping symmetry assumptions until none remain.\n\n### Topic 6: Singularities and partial differential equations\n\n**Key concepts**\n\n- **Partial differential equation (PDE)** — An equation relating a function to\n  its rates of change in several variables; PDEs model heat, waves, fluids,\n  gravity, and more.\n- **Singularity** — A point where a solution blows up or loses smoothness (e.g.\n  a shock wave or a black hole). Understanding singularities is often the hardest\n  part of a PDE.\n- **Rigidity phenomena** — Situations where a small set of constraints forces a\n  unique or very restricted solution.\n- **Lorentzian / Einstein manifolds & general relativity** — The geometric\n  setting of spacetime; Einstein's equations are the governing PDEs.\n- **Stability of the Kerr black hole** — Whether a rotating black hole, when\n  slightly perturbed, settles back down rather than falling apart — a major open\n  problem in mathematical relativity.\n\n**Plain explanation.** They study equations describing change and the points\nwhere solutions break down, including the geometry of spacetime and whether\nblack holes are stable under disturbance.\n\n---"
+  },
+  {
+    "id": "objective:o5",
+    "label": "O5 — Stochastic analysis for non-commutative field theories",
+    "type": "objective",
+    "body": "### Topic 7: Field theory and randomness\n\n**Key concepts**\n\n- **[Quantum field theory (QFT)](../GLOSSARY.md#quantum-field-theory)** — The framework describing particles and forces\n  as excitations of fields; making it mathematically rigorous is a famous\n  challenge.\n- **Stochastic analysis** — Calculus for random functions, e.g. the random,\n  jagged paths of [Brownian motion](../GLOSSARY.md#brownian-motion).\n- **Stochastic quantisation** — A technique that builds a quantum field theory as\n  the long-time equilibrium of a random (noise-driven) evolution.\n- **Free probability** — A \"non-commutative\" probability theory where random\n  variables are operators that don't commute (order of multiplication matters),\n  ideal for large random matrices.\n- **[Non-commutative space](../GLOSSARY.md#non-commutative-geometry)** — A space described by an algebra where `ab ≠ ba`,\n  generalising ordinary geometry the way quantum mechanics generalises classical\n  mechanics.\n- **Critical vs. sub-critical dimension** — The dimension where a theory is\n  hardest to control (critical) versus easier (sub-critical).\n\n**Plain explanation.** They use randomness and non-commutative probability to\nrigorously *construct* quantum field theories on exotic \"non-commutative\"\nspaces — a goal physicists assume but mathematicians have not fully proven.\n\n---"
+  },
+  {
+    "id": "objective:o6",
+    "label": "O6 — Structures and their limits in stochastic models",
+    "type": "objective",
+    "body": "### Topic 8: Random discrete structures and their limits\n\n**Key concepts**\n\n- **Random graph / network** — A graph whose edges are placed by chance; models\n  social networks, the internet, etc. One studies typical, not worst-case,\n  behaviour.\n- **Random tessellation** — A random tiling of space into cells (e.g. cracks in\n  dried mud), used in stochastic geometry.\n- **Percolation** — A model of random connectivity (open/closed links); famous\n  for a sharp **phase transition** where a giant connected cluster suddenly\n  appears as the link probability crosses a threshold.\n- **Interacting particle systems** — Many simple random agents whose local rules\n  produce complex collective behaviour.\n- **Scaling limit** — The clean, often universal object you get when you zoom out\n  from a huge random discrete structure (analogous to how many random sums\n  approach the bell curve).\n\n**Plain explanation.** They study large random networks, tilings, and particle\nsystems, and the smooth limiting shapes that emerge when these structures grow\nvery large.\n\n---"
+  },
+  {
+    "id": "objective:o7",
+    "label": "O7 — Structures in multiscale processes; effective models",
+    "type": "objective",
+    "body": "### Topic 9: Multiscale processes and effective behaviour\n\n**Key concepts**\n\n- **[Multiscale phenomena](../GLOSSARY.md#multiscale-phenomena)** — Systems where tiny-scale details (molecules, fine\n  material structure) affect large-scale behaviour (bulk properties).\n- **Effective / [homogenised model](../GLOSSARY.md#homogenisation)** — A simplified equation that captures the\n  large-scale behaviour without tracking every small detail; \"averaging out\" the\n  fine scale.\n- **Scaling limit** — The mathematically rigorous passage from the detailed model\n  to the effective one.\n- **Optimal control & PDE-constrained optimisation** — Finding the best way to\n  steer a system governed by differential equations (e.g. minimal-energy\n  control).\n- **Convergence rates** — Quantifying *how fast* an approximation approaches the\n  true answer — essential for trustworthy numerics.\n\n**Plain explanation.** Many systems mix small and large scales. They derive\nsimpler \"effective\" equations valid at the large scale, prove how accurate these\napproximations are, and solve optimisation/control problems on top of them.\n\n---"
+  },
+  {
+    "id": "objective:o8",
+    "label": "O8 — Innovative simulation via model- and data-based approaches",
+    "type": "objective",
+    "body": "### Topic 10: Deep learning and surrogate methods\n\n**Key concepts**\n\n- **Artificial neural network** — A flexible function built from layered\n  weighted sums and simple non-linearities, tuned to fit data; the basis of\n  modern machine learning.\n- **Stochastic gradient descent (SGD)** — The randomised optimisation algorithm\n  that \"trains\" a network by repeatedly nudging its parameters downhill on a\n  loss function using random data samples.\n- **Model order reduction** — Replacing a huge, expensive simulation with a\n  small, fast one that keeps the essential behaviour.\n- **Surrogate model** — A cheap approximation that stands in for a costly\n  computation; \"multi-fidelity\" means combining cheap-but-rough and\n  expensive-but-accurate models.\n- **Parametric (S)PDE** — A PDE (possibly with randomness, \"S\" = stochastic)\n  depending on parameters, which must be solved repeatedly for many parameter\n  values.\n- **Inverse problem** — Inferring hidden causes/parameters from observed data\n  (the reverse of simulating forward).\n- **Certified method** — One that comes with rigorous, provable error bounds, not\n  just empirical accuracy.\n\n**Plain explanation.** They put machine learning on a rigorous mathematical\nfooting — analysing why training works and combining data-driven networks with\nclassical models to build fast, *provably accurate* simulators for physics and\nengineering.\n\n---\n\n## Structural objectives (how the centre operates)\n\n### O9 — Integrated approach and international visibility\n\nTreat mathematics as one connected whole; deliberately build bridges between the\ntopics above; grow into an internationally recognised research centre via\ncooperations, visitor programmes, and the Centre for Mathematics Münster.\n\n### O10 — Early-career researchers, equity and diversity\n\nAttract and support top young mathematicians through the Graduate School and\ncareer programmes, foster early scientific independence, and build an inclusive,\ndiverse research environment.\n\n---\n\n## Big picture for undergraduates\n\nThe recurring threads across these ten topic groups are:\n\n- **Invariants/fingerprints** (K-theory, cohomology) that tell objects apart.\n- **Moduli spaces** that study *all* objects of a type at once.\n- **Local-to-global** principles (curvature controlling shape; PDE singularities).\n- **Randomness** as a tool and an object (random graphs, stochastic\n  quantisation, SGD).\n- **Scaling limits / effective models** that extract simple behaviour from\n  complex systems.\n- **Method transfer** — the deliberate reuse of a technique from one field to\n  crack a problem in another, which is the core philosophy of Mathematics\n  Münster."
+  },
+  {
+    "id": "topic:topic-01",
+    "label": "Topic 1: K-groups and Cohomology",
+    "type": "topic",
+    "body": "# Topic 1 — K-groups and Cohomology\n\n> **Objective (MM \"O1\"): Push frontiers in K-theory and attack open questions in topology.**\n> We explore various cohomology theories and their utility across algebra, geometric\n> topology and operator algebras. Central among them is **[K-theory](../GLOSSARY.md#k-theory)**, studied from\n> several perspectives: new computations of K-groups, new cases of the\n> **[Farrell–Jones conjecture](../GLOSSARY.md#farrell-jones-conjecture)**, the **[Borel conjecture](../GLOSSARY.md#borel-conjecture)** on topological rigidity,\n> curvature bounds on manifolds, and the classification of [C\\*-algebras](../GLOSSARY.md#c-algebra).\n\nSource: [T1: K-groups and cohomology](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_kgroups-cohomology.shtml)\n\nThe topic is organised into three research units:\n1. **Cohomology theories in arithmetic geometry** (coherent, étale, prismatic, topological periodic homology).\n2. **[Algebraic K-theory](../GLOSSARY.md#algebraic-k-theory) and [stable $\\infty$-categories](../GLOSSARY.md#stable-infinity-category)**.\n3. **[Topological K-theory](../GLOSSARY.md#topological-k-theory) and group cohomology**.\n\nThe guiding idea: *attach computable algebraic invariants to geometric or\nalgebraic objects* (schemes, stacks, C\\*-algebras, stable $\\infty$-categories,\ntopological spaces), so that hard geometric questions become algebra.\n\n---"
+  },
+  {
+    "id": "topic:topic-02",
+    "label": "Topic 2: Moduli Spaces in Arithmetic and Geometry",
+    "type": "topic",
+    "body": "# Topic 2 — Moduli Spaces in Arithmetic and Geometry\n\n> **Objective (MM \"O2\"): Study moduli spaces to advance the Langlands programme and other fields.**\n> Our research advances the (local) [Langlands Programme](../GLOSSARY.md#langlands-programme) through the arithmetic\n> properties of associated [moduli spaces](../GLOSSARY.md#moduli-space) and representation categories. More\n> broadly, moduli spaces appear in differential topology (diffeomorphism groups of\n> high-dimensional manifolds), differential geometry (deformations of positive\n> [scalar curvature](../GLOSSARY.md#scalar-curvature) metrics), and mathematical physics (moduli of stable curves and\n> of Strebel differentials).\n\nSource: [T2: Moduli spaces in arithmetic and geometry](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_moduli-spaces.shtml)\n\nThe term *moduli space* was coined by Riemann for the space $\\mathfrak{M}_g$\nparametrising all compact Riemann surfaces (1-dimensional complex manifolds) of\ngenus $g$. MM's three research units are:\n1. **Construction and existence** ([Shimura varieties](../GLOSSARY.md#shimura-variety), $G$-shtukas, Galois deformation spaces).\n2. **Compactification and stratifications**.\n3. **Invariants and cohomology** (intersection theory, [derived categories](../GLOSSARY.md#derived-category), topological recursion).\n\n---"
+  },
+  {
+    "id": "topic:topic-03",
+    "label": "Topic 3: Models and Universes",
+    "type": "topic",
+    "body": "# Topic 3 — Models and Universes\n\n> **Objective (part of MM \"O3\"): build models and study their theories and external properties.**\n> We develop and explore models encompassing various strengths and properties to\n> address questions across algebra, geometry, and set theory, and analyse the\n> interplay of **determinacy hypotheses** with strong **large cardinal hypotheses**.\n\nSource: [T3: Models and universes](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_models-universes.shtml)\n\nTwo research units:\n1. **Model theory** — classification of groups/fields under model-theoretic\n   assumptions; automorphism groups of homogeneous structures.\n2. **Set theory** — inner model theory, forcing axioms, axiom of determinacy,\n   large cardinals, $\\mathbb{P}_{\\max}$-style forcing.\n\nThis topic studies the **foundations**: what mathematical structures can exist,\nwhich statements are provable, and which require new axioms.\n\n---"
+  },
+  {
+    "id": "topic:topic-04",
+    "label": "Topic 4: Groups and Actions",
+    "type": "topic",
+    "body": "# Topic 4 — Groups and Actions\n\n> **Objective (part of MM \"O3\"): answer open questions in C\\*-algebras, study group theory and group actions.**\n> Research linked to group theory and group actions, approached using tools from\n> functional analysis, probability theory, and combinatorics, with a specific\n> emphasis on Cartan subalgebras in simple nuclear [C\\*-algebras](../GLOSSARY.md#c-algebra).\n\nSource: [T4: Groups and actions](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_groups-actions.shtml)\n\nSymmetry, expressed through **groups and their actions**, cuts across the whole\ncluster. Three research units:\n1. **Groups, dynamics and [C\\*-algebras](../GLOSSARY.md#c-algebra)** ([amenability](../GLOSSARY.md#amenable-group), freeness, property (T)).\n2. **Entropy, probability and geometry of groups** (orbit equivalence, invariant percolation).\n3. **Algebraic groups and Lie groups** (representations of $p$-adic groups, Bruhat–Tits buildings).\n\n---"
+  },
+  {
+    "id": "topic:topic-05",
+    "label": "Topic 5: Curvature, Shape and Global Analysis",
+    "type": "topic",
+    "body": "# Topic 5 — Curvature, Shape and Global Analysis\n\n> **Objective (part of MM \"O4\"): approach fundamental open questions in differential geometry through method transfer.**\n> We study the interplay between the (local) geometry of [Riemannian manifolds](../GLOSSARY.md#riemannian-geometry) (like\n> [curvature](../GLOSSARY.md#curvature)) and (global) topological and analytic properties. A goal is to complete\n> the **[Grove programme](../GLOSSARY.md#grove-programme)**, generalising structure results for positively curved and\n> Einstein manifolds toward arbitrary symmetry, and ultimately none.\n\nSource: [T5: Curvature, shape and global analysis](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_curvature-shape-analysis.shtml)\n\nCentral theme: **local geometry $\\leftrightarrow$ global topology/analysis**. Three units:\n1. **[Curvature](../GLOSSARY.md#curvature) and geometric flows** (positive curvature, Ricci flow, metric measure spaces).\n2. **Geodesics** (existence/regularity in infinite-dimensional shape spaces).\n3. **[Index theory](../GLOSSARY.md#index-theory)** ([scalar curvature](../GLOSSARY.md#scalar-curvature) bounds via Dirac operators).\n\n---"
+  },
+  {
+    "id": "topic:topic-06",
+    "label": "Topic 6: Singularities and Partial Differential Equations",
+    "type": "topic",
+    "body": "# Topic 6 — Singularities and Partial Differential Equations\n\n> **Objective (part of MM \"O4\"): approach open questions in the theory of PDEs.**\n> We address singularity and rigidity phenomena for Riemannian and Lorentzian\n> Einstein manifolds and try to prove the **stability of the Kerr family of black\n> holes** in general relativity. The goal is to use and develop nonlinear PDE theory\n> to understand singular phenomena in geometry and physics.\n\nSource: [T6: Singularities and partial differential equations](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_singularities-pdes.shtml)\n\nThree research units:\n1. **Geometric analysis** (Einstein manifolds, gravitational instantons, [minimal hypersurfaces](../GLOSSARY.md#minimal-surface)).\n2. **Dynamics of evolutionary PDEs** (black hole stability, Euler equations, cross-diffusion).\n3. **[Regularity theory](../GLOSSARY.md#regularity-theory)** ([stochastic PDEs](../GLOSSARY.md#stochastic-pde), regularity structures, Monge–Ampère, thin-film).\n\n---"
+  },
+  {
+    "id": "topic:topic-07",
+    "label": "Topic 7: Field Theory and Randomness",
+    "type": "topic",
+    "body": "# Topic 7 — Field Theory and Randomness\n\n> **Objective (MM \"O5\"): exploit stochastic analysis tools in the context of non-commutative field theories.**\n> By combining stochastic analysis, free probability, and topological recursion, we\n> aim to construct field theories on [non-commutative spaces](../GLOSSARY.md#non-commutative-geometry) in the **critical\n> dimension**, developing stochastic quantisation for scalar non-commutative QFTs\n> and, ultimately, the first rigorous construction of a critical bosonic [quantum\n> field theory](../GLOSSARY.md#quantum-field-theory).\n\nSource: [T7: Field theory and randomness](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_field-theory-randomness.shtml)\n\nThree research units:\n1. **Integrability** (quartic Kontsevich model, topological recursion).\n2. **Stochastic analysis of quantum fields** (non-commutative QFT via SPDEs).\n3. **Effective theories and disorder** (polaron, SPDEs as scaling limits).\n\n---"
+  },
+  {
+    "id": "topic:topic-08",
+    "label": "Topic 8: Random Discrete Structures and Their Limits",
+    "type": "topic",
+    "body": "# Topic 8 — Random Discrete Structures and Their Limits\n\n> **Objective (MM \"O6\"): analyse structures and their limits in stochastic models.**\n> We study random geometric structures and their influence on interacting particle\n> systems, investigating fluctuations and the role of disorder in **scaling limits**.\n> Key objects include random tessellations, random graphs and networks, and\n> percolation on groups.\n\nSource: [T8: Random discrete structures and their limits](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_random-discrete-structures-limits.shtml)\n\nDiscrete structures pervade mathematics, CS, statistical physics and optimisation;\ntheir random versions show rich **macroscopic behaviour** and **phase transitions**.\nThree research units:\n1. **Random tessellations and polytopes** (stochastic geometry).\n2. **Random graphs and percolation**.\n3. **Limits of large particle systems** (KPZ, hydrodynamic limits).\n\n---"
+  },
+  {
+    "id": "topic:topic-09",
+    "label": "Topic 9: Multiscale Processes and Effective Behaviour",
+    "type": "topic",
+    "body": "# Topic 9 — Multiscale Processes and Effective Behaviour\n\n> **Objective (MM \"O7\"): analyse structures in multiscale processes and derive effective models.**\n> We analyse multiscale phenomena in physical, engineering, and biological systems\n> and develop models and numerical methods to predict their behaviour: optimisation\n> and design across scales, approximation algorithms for optimal control,\n> convergence rates in **nonlinear homogenisation**, and mixing/equilibration in\n> fluid dynamics and kinetic equations. Identifying the relevant scales to derive\n> **scaling limits** is the unifying theme.\n\nSource: [T9: Multiscale processes and effective behaviour](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_multiscale-processes_effective-behaviour.shtml)\n\nThree research units:\n1. **Determination and optimisation of structures** (optimal design, HJB without curse of dimensionality).\n2. **[Homogenisation](../GLOSSARY.md#homogenisation) and multiscale methods** (nonlinear homogenisation, model order reduction).\n3. **Mixing and equilibration** (fluid mixing, kinetic equations, transport).\n\n---"
+  },
+  {
+    "id": "topic:topic-10",
+    "label": "Topic 10: Deep Learning and Surrogate Methods",
+    "type": "topic",
+    "body": "# Topic 10 — Deep Learning and Surrogate Methods\n\n> **Objective (MM \"O8\"): develop innovative simulation tools by combining model- and data-based approaches.**\n> We advance the fundamental mathematical understanding of artificial neural\n> networks (e.g. designing and rigorously analysing **stochastic gradient descent**\n> for training). Combining data-driven machine learning with **model order\n> reduction**, we develop fully **certified multi-fidelity** frameworks for\n> parametrised PDEs, higher-order deep-learning schemes for parametric SPDEs, and\n> cost-optimal surrogates for PDE-constrained optimisation and inverse problems.\n\nSource: [T10: Deep learning and surrogate methods](https://www.uni-muenster.de/MathematicsMuenster/research/programme/topic_deepl-surrogate-methods.shtml)\n\nThree research units:\n1. **Training of deep neural networks** (convergence of SGD/Adam).\n2. **Learning methods for PDEs** (deep approximations, SPDEs, certification).\n3. **Surrogate methods for optimal control and inverse problems** (multi-fidelity).\n\n---"
+  },
+  {
+    "id": "concept:topic-01-concept-1",
+    "label": "Cohomology",
+    "type": "concept",
+    "body": "![Blackboard](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_d90704dfa96d542ee3684c872eac0e51_topic1a-dsc_2265.jpg)\n\n### Level 0 — High school\nImagine you want to tell shapes apart without touching them: a ball, a doughnut,\na pretzel. A doughnut has **one hole**, a pretzel has **two**. Cohomology is a\ncareful way of *counting holes of different kinds* (gaps you can loop a string\naround, hollow cavities, etc.) and recording the answer as a list of numbers. If\ntwo shapes give different lists, they are genuinely different shapes.\n\n### Level 1 — Bachelor\nCohomology assigns to a space $X$ a sequence of abelian groups $H^0(X), H^1(X),\nH^2(X), \\dots$ . For singular cohomology with coefficients in a field, $\\dim\nH^k(X)$ is the $k$-th **Betti number**, counting independent $k$-dimensional\n\"holes\". For the $n$-sphere,\n$$\nH^k(S^n) \\cong \\begin{cases} \\mathbb{Z} & k = 0 \\text{ or } k = n,\\\\ 0 & \\text{otherwise.}\\end{cases}\n$$\nCohomology is a **functor**: a continuous map $f\\colon X\\to Y$ induces\n$f^*\\colon H^k(Y)\\to H^k(X)$, so it converts topology into algebra. Cup product\nmakes $H^\\bullet(X)$ a ring, a finer invariant than the Betti numbers alone.\n\n### Level 2 — Master\nCohomology is best understood as a **(generalised) cohomology theory**: a\nsequence of contravariant functors satisfying the Eilenberg–Steenrod axioms\n(homotopy invariance, excision, long exact sequence of a pair), with the\ndimension axiom dropped for *generalised* theories. Representable by a\nspectrum $E$ via $E^n(X) = [X, \\Omega^\\infty \\Sigma^n E]$ (Brown\nrepresentability). In arithmetic geometry one replaces topological spaces by\nschemes and uses Grothendieck's site-theoretic theories: **étale**,\n**crystalline**, and the more recent **prismatic** cohomology of\nBhatt–Scholze, which interpolates between $p$-adic étale and crystalline\ncohomology. These are the structural backbone of the Langlands programme and of\nDeninger's conjectural dynamical/cohomological interpretation of zeta functions.\nSee [Wikipedia: Cohomology](https://en.wikipedia.org/wiki/Cohomology),\n[prismatic cohomology](https://en.wikipedia.org/wiki/Prismatic_cohomology).\n\n---"
+  },
+  {
+    "id": "concept:topic-01-concept-2",
+    "label": "K-theory (algebraic and topological)",
+    "type": "concept",
+    "body": "![Blackboard K-theory](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_4233243c48fe30e25408362e9cb3e162_topic1b-dsc_2256.jpg)\n\n### Level 0 — High school\nThink of all the ways you can lay down arrows (little vectors) smoothly over a\nshape — for example combing the hair on a ball. Some arrangements can be undone\nto nothing, others are \"stuck\". K-theory bundles up all these arrangements and\nturns them into a number system you can add and subtract with. It measures how\ntwisted such families can be.\n\n### Level 1 — Bachelor\nTopological K-theory starts from **vector bundles** over a space $X$. Isomorphism\nclasses of bundles form a monoid under $\\oplus$; the **Grothendieck group**\ncompletion (formally adding inverses, like building $\\mathbb{Z}$ from\n$\\mathbb{N}$) gives\n$$\nK^0(X) = \\operatorname{Groth}\\bigl(\\{\\text{vector bundles}/X\\},\\ \\oplus\\bigr).\n$$\nFor rings, the analogue uses finitely generated projective modules: $K_0(R)$. The\nnext group $K_1(R) = GL(R)^{\\mathrm{ab}} = GL(R)/[GL(R),GL(R)]$. **Bott\nperiodicity** for complex topological K-theory says $K^n(X)\\cong K^{n+2}(X)$, a\nstriking simplification with no analogue in ordinary cohomology.\n\n### Level 2 — Master\nAlgebraic K-theory is, in the modern view (Waldhausen, Blumberg–Gepner–Tabuada),\nan invariant of **[stable $\\infty$-categories](../GLOSSARY.md#stable-infinity-category)**: $K\\colon \\mathrm{Cat}^{\\mathrm{ex}}_\\infty\n\\to \\mathrm{Sp}$, the universal additive (or, after Calmès–Dotto–Harpaz–…–Nikolaus,\n\"Poincaré\"/Hermitian) invariant, defined via the $S_\\bullet$-construction with\nhomotopy groups $K_n$. [Trace maps](../GLOSSARY.md#trace-map) (Dennis trace to $THH$, cyclotomic structure,\n$TC$ via Nikolaus–Scholze) compute $K$ in terms of topological cyclic homology;\nthis drives recent computations such as $K(\\mathbb{Z}/p^n)$. The MM unit links\nthese structural advances to the categorical $p$-adic Langlands programme and to\nthe classification of $C^*$-algebras via [topological K-theory](../GLOSSARY.md#topological-k-theory) (the K-theoretic\ninvariant in the Elliott programme). References:\n[algebraic K-theory](https://en.wikipedia.org/wiki/Algebraic_K-theory),\n[K(Z/pⁿ), Antieau–Krause–Nikolaus, arXiv:2405.04329](https://arxiv.org/abs/2405.04329).\n\n---"
+  },
+  {
+    "id": "concept:topic-01-concept-3",
+    "label": "The Farrell–Jones conjecture",
+    "type": "concept",
+    "body": "### Level 0 — High school\nSome mathematical objects attached to a group are very hard to compute directly.\nThis conjecture says: you can always build the hard global answer out of easy\nlocal pieces — namely the small, simple subgroups. Like reconstructing a whole\nmosaic if you know just a few special tiles.\n\n### Level 1 — Bachelor\nFor a group $G$, the conjecture predicts that the algebraic K-theory (and\nL-theory) of the group ring $R[G]$ is **assembled** from the K-theory of its\n*virtually cyclic* subgroups via an assembly map\n$$\nH^G_n\\bigl(\\underline{\\underline{E}}G;\\, \\mathbf{K}_R\\bigr)\\ \\xrightarrow{\\ \\cong\\ }\\ K_n(R[G]),\n$$\nan isomorphism. In plain terms: a hard invariant of an infinite group is computed\nby an equivariant homology theory evaluated on a classifying space for the family\nof virtually cyclic subgroups.\n\n### Level 2 — Master\nThe conjecture is an isomorphism statement for the [assembly map](../GLOSSARY.md#assembly-map) relative to the\nfamily $\\mathcal{VCyc}$, with deep consequences: it implies the **[Borel\nconjecture](../GLOSSARY.md#borel-conjecture)** (topological rigidity of aspherical manifolds of dimension $\\ge 5$),\nthe **[Novikov conjecture](../GLOSSARY.md#novikov-conjecture)** (homotopy invariance of higher signatures), and the\n**Kaplansky idempotent conjecture** for torsion-free $G$. Bartels–Lück and\ncollaborators established it for large classes ([hyperbolic groups](../GLOSSARY.md#hyperbolic-group), CAT(0)\ngroups, lattices, mapping class groups) using [controlled topology](../GLOSSARY.md#controlled-topology) and flow-space\nmethods; recent MM work extends inheritance properties and the case of\n**Hecke algebras of reductive $p$-adic groups**. References:\n[Farrell–Jones conjecture](https://en.wikipedia.org/wiki/Farrell%E2%80%93Jones_conjecture),\n[Bartels–Lück–Reich survey](https://arxiv.org/abs/2306.01510).\n\n---"
+  },
+  {
+    "id": "concept:topic-01-concept-4",
+    "label": "The Borel conjecture and topological rigidity",
+    "type": "concept",
+    "body": "### Level 0 — High school\nIf two rubbery shapes have the *same kind of fundamental loops*, are they really\nthe same shape? For a special well-behaved family the answer is conjectured to be\nyes — they cannot be secretly different.\n\n### Level 1 — Bachelor\nA closed manifold $M$ is **aspherical** if its universal cover is contractible\n(equivalently $\\pi_k(M)=0$ for $k\\ge 2$). The Borel conjecture states: two closed\naspherical manifolds with isomorphic fundamental groups $\\pi_1$ are\n**homeomorphic**, and moreover any homotopy equivalence is homotopic to a\nhomeomorphism. This is a topological analogue of Mostow rigidity (which is\ngeometric).\n\n### Level 2 — Master\nBorel rigidity is measured by the **structure set** $\\mathcal{S}^{\\mathrm{TOP}}(M)$\nof the [surgery theory](../GLOSSARY.md#surgery-theory) exact sequence\n$$\n\\cdots \\to L_{n+1}(\\mathbb{Z}\\pi_1) \\to \\mathcal{S}^{\\mathrm{TOP}}(M) \\to\n\\mathcal{N}(M) \\to L_n(\\mathbb{Z}\\pi_1).\n$$\nTriviality of $\\mathcal{S}^{\\mathrm{TOP}}(M)$ (so rigidity) follows from the\n$L$-theoretic [Farrell–Jones](../GLOSSARY.md#farrell-jones-conjecture) isomorphism plus vanishing of relevant\n$\\widetilde{K}_0$ and [Whitehead groups](../GLOSSARY.md#whitehead-group). Thus K- and [L-theory](../GLOSSARY.md#l-theory) computations feed\ndirectly into the manifold classification. See\n[Borel conjecture](https://en.wikipedia.org/wiki/Borel_conjecture).\n\n---"
+  },
+  {
+    "id": "concept:topic-01-concept-5",
+    "label": "C\\*-algebras and their classification",
+    "type": "concept",
+    "body": "![Blackboard topology](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_67cb5716e96f6af9a50e3cc8c9905ad8_topic1c-dsc_2278-2.jpg)\n\n### Level 0 — High school\nQuantum physics needs a number system where multiplication order matters\n($`a\\times b \\ne b\\times a`$). C\\*-algebras are such systems of \"operators\".\nK-theory gives each one a fingerprint; mathematicians want to prove that the\nfingerprint alone tells them apart.\n\n### Level 1 — Bachelor\nA **C\\*-algebra** is a complex Banach algebra $A$ with an involution $*$\nsatisfying the C\\*-identity $\\lVert a^*a\\rVert = \\lVert a\\rVert^2$. Model example:\n$A = B(H)$, bounded operators on a Hilbert space, or $C(X)$, continuous functions\non a compact space (the commutative case — by Gelfand duality *every* commutative\nunital C\\*-algebra is $C(X)$). Topological K-theory $K_0(A), K_1(A)$ are computable\ninvariants and form the core of classification.\n\n### Level 2 — Master\nThe **[Elliott classification programme](../GLOSSARY.md#c-algebra)** seeks to classify separable, simple,\nnuclear [C\\*-algebras](../GLOSSARY.md#c-algebra) by an invariant (the *Elliott invariant*: ordered K-theory,\ntrace simplex, pairing). The landmark result classifies those that are\n[$\\mathcal{Z}$-stable](../GLOSSARY.md#z-stability) and satisfy the UCT via $K$-theory and traces; **nuclear\ndimension** (Winter et al.) is the key regularity property. MM's unit studies\nexistence/classification of **Cartan subalgebras** in simple nuclear\n[C\\*-algebras](../GLOSSARY.md#c-algebra) (linking to groupoid models and topological dynamics) and uses\n[topological K-theory](../GLOSSARY.md#topological-k-theory) as an invariant of [operator algebras](../GLOSSARY.md#operator-algebra), tied back to group\ncohomology of arithmetic groups. References:\n[C*-algebra](https://en.wikipedia.org/wiki/C*-algebra),\n[Nuclear dimension of simple C*-algebras (Castillejos et al., 2021)](https://doi.org/10.1007/s00222-020-01013-1).\n\n---\n\n## How the pieces fit\n\n```\n        geometric/algebraic object\n        (scheme, space, C*-algebra, ∞-category)\n                     │  attach invariant\n                     ▼\n         cohomology  ◄─────►  K-theory\n          (étale,             (algebraic / topological)\n           prismatic)              │\n                     ┌─────────────┼──────────────┐\n                     ▼             ▼              ▼\n              Langlands      Farrell–Jones    C*-classification\n              programme       ⇒ Borel/Novikov   (Elliott)\n```\n\n**Further reading**\n- Bartels–Lück, *Algebraic K-theory of reductive p-adic groups* — [arXiv:2306.03452](https://arxiv.org/abs/2306.03452)\n- Antieau–Krause–Nikolaus, *On the K-theory of $\\mathbb{Z}/p^n$* — [arXiv:2405.04329](https://arxiv.org/abs/2405.04329)\n- Atiyah, *K-theory* (classic textbook); Weibel, *The K-book* (free online)"
+  },
+  {
+    "id": "concept:topic-02-concept-1",
+    "label": "Moduli space",
+    "type": "concept",
+    "body": "![Moduli blackboard](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_c6cba45a4c554e2061acfe314593468c_topic2a-dsc_2269.jpg)\n\n### Level 0 — High school\nInstead of studying one triangle, imagine a \"map of all triangles\", where each\npoint of the map stands for one possible triangle shape. Walking across the map\ncontinuously morphs one triangle into another. A **moduli space** is exactly such\na \"map of all shapes of a given type\" — its points *are* geometric objects.\n\n### Level 1 — Bachelor\nA moduli space parametrises isomorphism classes of objects. The classic example\n$\\mathfrak{M}_g$ parametrises smooth projective curves of genus $g$; it has\ndimension $3g-3$ for $g\\ge 2$. Building such a space requires forming a quotient\nby an automorphism/equivalence relation, which is delicate (quotients can be\nbadly behaved). For genus $1$ with a marked point, the moduli space is the\n**modular curve** $\\mathrm{SL}_2(\\mathbb{Z})\\backslash \\mathbb{H}$ with the famous\n$j$-invariant as coordinate:\n$$\nj(\\tau),\\qquad \\tau\\in\\mathbb{H}=\\{z\\in\\mathbb{C}: \\operatorname{Im} z>0\\}.\n$$\n\n### Level 2 — Master\nRigorously, a moduli problem is a functor $\\mathcal{M}\\colon\n(\\mathrm{Sch})^{\\mathrm{op}}\\to \\mathrm{Set}$, $S\\mapsto \\{\\text{families over } S\\}$.\nA **fine** moduli space represents this functor; obstructions from automorphisms\nforce one to work with **algebraic stacks** (e.g. the [Deligne–Mumford stack](../GLOSSARY.md#deligne-mumford-stack)\n$\\overline{\\mathcal{M}}_{g,n}$). Construction uses **Geometric Invariant Theory**\n(Mumford): $\\mathcal{M} = X^{\\mathrm{ss}}/\\!\\!/ G$ as a GIT quotient of a Hilbert\nscheme by $\\mathrm{PGL}$. Teichmüller theory presents $\\mathfrak{M}_g =\n\\mathcal{T}_g/\\mathrm{MCG}(\\Sigma_g)$ as a quotient of [Teichmüller space](../GLOSSARY.md#teichmuller-space) by the\n[mapping class group](../GLOSSARY.md#mapping-class-group), linking it to the [classifying space](../GLOSSARY.md#classifying-space) $B\\,\\mathrm{Diff}(\\Sigma_g)$\n— the perspective behind the Madsen–Weiss theorem proving the Mumford conjecture.\nReferences: [Moduli space](https://en.wikipedia.org/wiki/Moduli_space),\n[Deligne–Mumford stack](https://en.wikipedia.org/wiki/Deligne%E2%80%93Mumford_stack).\n\n---"
+  },
+  {
+    "id": "concept:topic-02-concept-2",
+    "label": "The Langlands programme",
+    "type": "concept",
+    "body": "### Level 0 — High school\nThere are two very different worlds in mathematics: one about whole numbers and\nequations, another about waves and symmetry. The Langlands programme is a giant\ndictionary claiming these two worlds secretly say the same things — a \"Rosetta\nStone\" of mathematics.\n\n### Level 1 — Bachelor\nThe programme predicts a correspondence between\n- **Galois representations**: continuous homomorphisms\n  $\\rho\\colon \\mathrm{Gal}(\\overline{\\mathbb{Q}}/\\mathbb{Q})\\to GL_n(\\mathbb{C})$\n  (or $p$-adic), encoding symmetries of number fields, and\n- **automorphic representations**: certain infinite-dimensional representations of\n  groups like $GL_n(\\mathbb{A})$ over the adeles, generalising modular forms.\n\nThe simplest nontrivial case ($`n=1`$) is class field theory; $n=2$ over\n$\\mathbb{Q}$ includes the modularity behind Fermat's Last Theorem (Wiles).\n\n### Level 2 — Master\nMM studies the **local** [Langlands correspondence](../GLOSSARY.md#langlands-programme) and its geometrisation. Moduli\nspaces enter as **[Shimura varieties](../GLOSSARY.md#shimura-variety)** and **moduli of (local/global)\n$G$-shtukas**, whose étale cohomology is conjectured to realise the\ncorrespondence. The modern **categorical / geometric** form (Fargues–Scholze,\nEmerton–Gee–Hellmann) phrases it as an equivalence of [derived categories](../GLOSSARY.md#derived-category) of\nsheaves on the stack $\\mathrm{Bun}_G$ (or on a stack of Galois/Langlands\nparameters), with the **Fargues–Fontaine curve** and $B_{dR}^+$-Grassmannian\n(Viehmann's Newton strata) as central geometric objects. References:\n[Langlands program](https://en.wikipedia.org/wiki/Langlands_program),\n[Emerton–Gee–Hellmann, categorical p-adic Langlands, arXiv:2210.01404](https://arxiv.org/abs/2210.01404).\n\n---"
+  },
+  {
+    "id": "concept:topic-02-concept-3",
+    "label": "Compactification and stratification",
+    "type": "concept",
+    "body": "![Compactification](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_84ad90517c8930bf48edaaaaf5c641a5_topic2b-dsc_3873.jpg)\n\n### Level 0 — High school\nA map of all shapes often has \"edges\" where shapes degenerate (a circle pinching\nto a figure-eight). To study the map fully you add those boundary cases, like\nadding the horizon to a landscape so nothing runs off the edge.\n\n### Level 1 — Bachelor\nMany moduli spaces are non-compact: families can degenerate. A **compactification**\nadds boundary points for the limiting (singular) objects. The Deligne–Mumford\ncompactification $\\overline{\\mathfrak{M}}_g$ adds **stable nodal curves**. A\n**stratification** decomposes a space into locally closed pieces (strata),\n$X = \\bigsqcup_\\alpha X_\\alpha$, each smoother/simpler, organising the geometry by\ntype of degeneration.\n\n### Level 2 — Master\n$\\overline{\\mathcal{M}}_{g,n}$ is a smooth proper DM stack with normal-crossings\nboundary $\\partial\\overline{\\mathcal{M}}_{g,n}$ stratified by dual graphs of\nstable curves. In arithmetic geometry, **Newton** and **Kottwitz–Rapoport**\nstratifications of (the special fibres of) Shimura varieties and of affine\nGrassmannians/$B_{dR}^+$-Grassmannians control reduction behaviour of Galois\nrepresentations; Harder–Narasimhan strata classify degeneration of bundles. MM\nwork (Viehmann, Nguyen, Lourenço) analyses these strata on the\n$B_{dR}^+$-Grassmannian. Reference:\n[Deligne–Mumford compactification](https://en.wikipedia.org/wiki/Moduli_of_algebraic_curves#Deligne%E2%80%93Mumford_compactification).\n\n---"
+  },
+  {
+    "id": "concept:topic-02-concept-4",
+    "label": "Cohomological invariants and intersection theory",
+    "type": "concept",
+    "body": "![Invariants](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_015bdc042257d0f42724b5734b7e6f09_topic2c-dsc_3884.jpg)\n\n### Level 0 — High school\nOnce you have your map of shapes, you can ask geometric questions about the map\nitself: how many curves pass through given points? Counting such things cleverly\nreveals hidden patterns and even connects to physics.\n\n### Level 1 — Bachelor\n**Intersection theory** counts how subvarieties meet: in the Chow ring or\ncohomology ring of a moduli space, classes multiply and their product, integrated\n(\"$\\int_{\\overline{\\mathcal{M}}_{g,n}}$\"), gives **intersection numbers**. On\n$\\overline{\\mathcal{M}}_{g,n}$ the **$\\psi$-classes** (cotangent line classes at\nmarked points) give numbers $\\langle \\tau_{d_1}\\cdots\\tau_{d_n}\\rangle$ studied by\nWitten and Kontsevich.\n\n### Level 2 — Master\nThe **Witten conjecture** (Kontsevich's theorem) states that the generating\nfunction of $\\psi$-intersection numbers on $\\overline{\\mathcal{M}}_{g,n}$ is a\n$\\tau$-function of the KdV hierarchy. Kontsevich's proof uses a cell decomposition\nvia **Strebel differentials** and a matrix-model (\"$\\mathrm{Airy}$\") integral.\nThis is the seed of **topological recursion** (Eynard–Orantin), which MM\n(Wulkenhaar, Schürmann) generalises — including a *quartic* analogue of the\nKontsevich model. On the arithmetic side, the conjectural [Langlands correspondence](../GLOSSARY.md#langlands-programme)\nis refined to an equivalence of **[derived categories](../GLOSSARY.md#derived-category) of (constructible/coherent)\nsheaves** on moduli of parameters. In differential topology the same circle of\nideas controls the cohomology of $B\\,\\mathrm{Diff}(M)$ and the space\n$\\mathcal{R}^+(M)$ of positive [scalar curvature](../GLOSSARY.md#scalar-curvature) metrics. References:\n[Witten conjecture](https://en.wikipedia.org/wiki/Witten_conjecture),\n[Topological recursion](https://en.wikipedia.org/wiki/Topological_recursion).\n\n---"
+  },
+  {
+    "id": "concept:topic-02-concept-5",
+    "label": "Diffeomorphism groups and spaces of metrics",
+    "type": "concept",
+    "body": "### Level 0 — High school\nTake a rubber shape; all the ways of smoothly stretching it without tearing form\ntheir own \"space of stretches\". And all the ways of measuring distances on it\n(its possible geometries) form yet another space. Studying these spaces tells us\nwhich shapes are flexible and which are rigid.\n\n### Level 1 — Bachelor\n$\\mathrm{Diff}(M)$, the group of diffeomorphisms of a manifold $M$, is an\ninfinite-dimensional topological group; its classifying space $B\\,\\mathrm{Diff}(M)$\nis the moduli space of smooth $M$-bundles. Separately, the space\n$\\mathcal{R}^+(M)$ of Riemannian metrics of **positive scalar curvature** is a\nsubspace of all metrics; asking whether it is empty, connected, or has nontrivial\ntopology is a central question.\n\n### Level 2 — Master\nFor high-dimensional manifolds, $B\\,\\mathrm{Diff}(M)$ is studied via **Goodwillie–\nWeiss embedding calculus**, **[surgery theory](../GLOSSARY.md#surgery-theory)**, and **pseudoisotopy/[Waldhausen K-theory](../GLOSSARY.md#waldhausen-k-theory)**;\nMM (Ebert, Reinhold, Wiemeler, Randal-Williams collaboration) computes its\nrational cohomology and the homotopy type of $\\mathcal{R}^+(M)$. The\n**positive [scalar curvature](../GLOSSARY.md#scalar-curvature) cobordism category** and index-theoretic obstructions\n(the Rosenberg index in $KO_*(C^*\\pi_1)$) link this directly back to Topic 1\n(K-theory) and Topic 5 (curvature). Reference:\n[Ebert–Randal-Williams, PSC cobordism category, Duke 2022](https://doi.org/10.1215/00127094-2022-0023).\n\n---\n\n**Further reading**\n- Harris–Morrison, *Moduli of Curves* (Springer GTM 187)\n- Viehmann, *On Newton strata in the $B_{dR}^+$-Grassmannian* — [Duke 2024](https://doi.org/10.1215/00127094-2024-0005)\n- Fargues–Scholze, *Geometrization of the local Langlands correspondence* — [arXiv:2102.13459](https://arxiv.org/abs/2102.13459)"
+  },
+  {
+    "id": "concept:topic-03-concept-1",
+    "label": "Model theory and first-order structures",
+    "type": "concept",
+    "body": "![Model theory](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_f530249a1fbffd5eb96311fb45ff0d95_topic3a-dsc_3792-bearbeitet2.jpg)\n\n### Level 0 — High school\nA \"rule book\" (axioms) can be obeyed by different \"worlds\". For example \"every\nelement has an opposite\" is obeyed by the integers and by many other systems.\nModel theory studies all the worlds that obey a given rule book, and what they\nmust have in common.\n\n### Level 1 — Bachelor\nA **structure** $\\mathcal{M} = (M; \\text{functions}, \\text{relations},\n\\text{constants})$ interprets a first-order **language**. It is a **model** of a\ntheory $T$ (a set of sentences) if every sentence of $T$ is true in $\\mathcal{M}$,\nwritten $\\mathcal{M}\\models T$. Key early theorems:\n- **Compactness**: if every finite subset of $T$ has a model, so does $T$.\n- **Löwenheim–Skolem**: a theory with an infinite model has models of every\n  infinite cardinality.\n\nExample: the theory of algebraically closed fields of characteristic $0$ is\n*complete* — any two such fields satisfy exactly the same first-order sentences.\n\n### Level 2 — Master\nModern model theory classifies theories by **tameness** (the *stability\nhierarchy*: stable $\\subset$ NIP / simple $\\subset$ …). MM's unit attacks\nclassification conjectures:\n- **Algebraicity (Cherlin–Zilber) conjecture**: every simple $\\omega$-stable\n  (more precisely, simple group of finite Morley rank) is an algebraic group over\n  an algebraically closed field.\n- **Stable fields conjecture**: every infinite stable field is separably closed.\n- Work on **NIP henselian fields** (Anscombe–Jahnke) and **Ax–Kochen–Ershov\n  principles**. Tools include independence/forking, Morley rank, and valuation\n  theory. References: [Model theory](https://en.wikipedia.org/wiki/Model_theory),\n  [Group of finite Morley rank](https://en.wikipedia.org/wiki/Group_of_finite_Morley_rank).\n\n---"
+  },
+  {
+    "id": "concept:topic-03-concept-2",
+    "label": "Homogeneous structures and Fraïssé limits",
+    "type": "concept",
+    "body": "### Level 0 — High school\nSome objects look \"the same from everywhere\" — like an infinite perfectly regular\nnetwork where every point has an identical view. You can build such an object by\ngluing together all its small finite pieces in the most generic way.\n\n### Level 1 — Bachelor\nA countable structure is **(ultra)homogeneous** if every isomorphism between\nfinite substructures extends to an automorphism of the whole. **Fraïssé's\ntheorem**: a class $\\mathcal{K}$ of finite structures with the amalgamation\nproperty has a unique countable homogeneous limit, its **Fraïssé limit**. The\n**random graph** (Rado graph) is the Fraïssé limit of all finite graphs; the\nrationals $(\\mathbb{Q},<)$ are the Fraïssé limit of finite linear orders.\n\n### Level 2 — Master\nThe **automorphism group** $\\mathrm{Aut}(\\mathcal{M})$ of a Fraïssé limit is a\nnon-archimedean Polish group; its dynamics (extreme amenability,\nRamsey theory via Kechris–Pestov–Todorcevic correspondence) link model theory to\n**descriptive set theory**, **[ergodic theory](../GLOSSARY.md#ergodic-theory)**, and **[C\\*-algebras](../GLOSSARY.md#c-algebra)**. MM\n(Kwiatkowska et al.) studies **projective Fraïssé limits** (e.g. Ważewski\ndendrites, the random poset) and stationary weak independence relations.\nReference: [Fraïssé limit](https://en.wikipedia.org/wiki/Fra%C3%AFss%C3%A9_limit).\n\n---"
+  },
+  {
+    "id": "concept:topic-03-concept-3",
+    "label": "Universes of set theory and forcing",
+    "type": "concept",
+    "body": "![Set theory](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_45ee08296d9b9d695c766e479fc825c0_interaktion-debondt-schindler-dsc_2581.jpg)\n\n### Level 0 — High school\nAll of mathematics can be built from \"sets\". But there is not just one possible\nuniverse of sets — there are many, and some questions (like exactly how many real\nnumbers there are) get *different answers* in different universes. Set theorists\nbuild and compare these universes.\n\n### Level 1 — Bachelor\nThe standard axioms are **ZFC** (Zermelo–Fraenkel + Choice). Gödel showed some\nstatements are **independent**: neither provable nor refutable. The prime example\nis the **Continuum Hypothesis** (CH): $2^{\\aleph_0} = \\aleph_1$ (no cardinality\nstrictly between $\\mathbb{N}$ and $\\mathbb{R}$). **Forcing** (Cohen) is a method to\nbuild a new model $M[G]$ from a model $M$ by adjoining a \"generic\" object $G$,\ncontrolling which sentences become true — used to make CH true or false at will.\n\n### Level 2 — Master\nMM's set-theory unit (Schindler et al.) works at the interface of:\n- **Inner model theory** — canonical fine-structural models ($L$, and\n  $L[\\vec{E}]$ with extender sequences) approximating $V$ and calibrating\n  large-cardinal strength.\n- **Forcing axioms** — Martin's Maximum $\\mathrm{MM}^{++}$ and its relation to\n  Woodin's axiom $(*)$; the celebrated Asperó–Schindler theorem\n  $\\mathrm{MM}^{++}\\Rightarrow (*)$.\n- $\\mathbb{P}_{\\max}$ forcing over models of determinacy to force fragments of\n  $\\mathrm{MM}$ and analyse the **nonstationary ideal** on $\\omega_1$.\nReferences: [Forcing](https://en.wikipedia.org/wiki/Forcing_(mathematics)),\n[Asperó–Schindler, MM⁺⁺ ⇒ (∗), Annals 2021](https://doi.org/10.4007/annals.2021.193.3.3).\n\n---"
+  },
+  {
+    "id": "concept:topic-03-concept-4",
+    "label": "Large cardinals",
+    "type": "concept",
+    "body": "### Level 0 — High school\nInfinity comes in many sizes. \"Large cardinals\" are sizes of infinity so vast\nthat their mere existence cannot be proved from the usual rules — yet assuming\nthem settles many otherwise-undecidable questions far below.\n\n### Level 1 — Bachelor\nBeyond $\\aleph_0, \\aleph_1, \\dots$ lie cardinals with strong **closure/reflection**\nproperties: **inaccessible**, **measurable** (carrying a nontrivial\n$\\kappa$-complete ultrafilter), **Woodin**, **supercompact**. They form a linearly\nordered hierarchy of **consistency strength**: assuming a larger cardinal proves\nthe consistency of theories with smaller ones, so by Gödel's incompleteness their\nexistence is unprovable in ZFC.\n\n### Level 2 — Master\nA measurable cardinal $\\kappa$ is equivalent to the existence of a nontrivial\nelementary embedding $j\\colon V\\to M$ with critical point $\\kappa$; stronger\nnotions strengthen the closure of $M$. **Woodin cardinals** are the pivot for the\ntheory of determinacy: $n$ Woodins give $\\boldsymbol{\\Pi}^1_{n+1}$-determinacy,\nand infinitely many give $\\mathrm{AD}^{L(\\mathbb{R})}$. Reference:\n[Large cardinal](https://en.wikipedia.org/wiki/Large_cardinal).\n\n---"
+  },
+  {
+    "id": "concept:topic-03-concept-5",
+    "label": "The Axiom of Determinacy",
+    "type": "concept",
+    "body": "### Level 0 — High school\nImagine an infinite game where two players alternately pick numbers forever. One\nof them is declared the winner by some rule. Determinacy says: in such games one\nside always has a guaranteed winning strategy. Surprisingly, whether this holds\ndepends on which mathematical universe you live in.\n\n### Level 1 — Bachelor\nFor $A\\subseteq \\mathbb{N}^{\\mathbb{N}}$, the game $G_A$ has players alternately\nchoosing naturals to build $x\\in\\mathbb{N}^{\\mathbb{N}}$; player I wins iff $x\\in\nA$. $A$ is **determined** if one player has a winning strategy. The **Axiom of\nDeterminacy (AD)** asserts *every* $A$ is determined. AD contradicts the full\naxiom of choice, but **all Borel sets are determined** (Martin, in ZFC).\n\n### Level 2 — Master\nAD holds in $L(\\mathbb{R})$ under sufficiently many Woodin cardinals\n(Martin–Steel–Woodin), making **$\\mathrm{AD}^{L(\\mathbb{R})}$** a benchmark. MM's\nunit studies the interplay of AD with large cardinals and combinatorial\nprinciples, including **Chang-type models** of determinacy and forcing strong\nfragments of Martin's Maximum by $\\mathbb{P}_{\\max}$ over them. Determinacy\nimposes strong **regularity** (Lebesgue measurability, perfect set property, Baire\nproperty) on definable sets of reals. Reference:\n[Axiom of determinacy](https://en.wikipedia.org/wiki/Axiom_of_determinacy).\n\n---\n\n**Further reading**\n- Marker, *Model Theory: An Introduction* (Springer GTM 217)\n- Jech, *Set Theory* (3rd ed.); Kanamori, *The Higher Infinite* (large cardinals)\n- Schindler, *Set Theory: Exploring Independence and Truth* (Springer)"
+  },
+  {
+    "id": "concept:topic-04-concept-1",
+    "label": "Groups and group actions",
+    "type": "concept",
+    "body": "![Groups blackboard](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_5c296905990ed9a822ccff3f54aa9618_topic4a-tafel-dsc_2024.jpg)\n\n### Level 0 — High school\nA **group** is the mathematics of symmetry: the collection of all moves that leave\nsomething looking the same (rotating a square by 90°, flipping it). A group\n**acts** on an object when each of its moves rearranges that object. Studying the\nmoves tells you about the object, and vice versa.\n\n### Level 1 — Bachelor\nA group $(G,\\cdot)$ has an associative product, identity $e$, and inverses. An\n**action** of $G$ on a set/space $X$ is a homomorphism $G\\to \\mathrm{Sym}(X)$\n(or $\\mathrm{Homeo}(X)$, $GL(V)$, …), equivalently a map $G\\times X\\to X$,\n$(g,x)\\mapsto g\\cdot x$ with $e\\cdot x = x$ and $g\\cdot(h\\cdot x) = (gh)\\cdot x$.\n**Orbits** $G\\cdot x$ partition $X$; **stabilisers** $G_x=\\{g: g\\cdot x = x\\}$\nsatisfy the orbit–stabiliser relation $|G\\cdot x| = [G:G_x]$. **Geometric group\ntheory** treats a finitely generated group itself as a metric space via its Cayley\ngraph.\n\n### Level 2 — Master\nMM treats infinite discrete groups as geometric/combinatorial objects and studies\ntheir actions on compact spaces and measure spaces. Key dividing lines:\n**[amenability](../GLOSSARY.md#amenable-group)** (existence of an invariant mean), **property (T)** (rigidity:\ntrivial representation isolated in the [unitary dual](../GLOSSARY.md#unitary-representation)), the **[Haagerup property](../GLOSSARY.md#haagerup-property)**\n(a-T-menability), and **hyperbolicity** (Gromov). These properties control the\ndynamics and the associated [operator algebras](../GLOSSARY.md#operator-algebra). References:\n[Group action](https://en.wikipedia.org/wiki/Group_action),\n[Geometric group theory](https://en.wikipedia.org/wiki/Geometric_group_theory).\n\n---"
+  },
+  {
+    "id": "concept:topic-04-concept-2",
+    "label": "C\\*-algebras, crossed products and Cartan subalgebras",
+    "type": "concept",
+    "body": "### Level 0 — High school\nWhen a symmetry group acts on a space, you can package the whole \"space + symmetry\"\ninto a single algebraic object (a crossed product). Inside it sometimes hides a\nsimpler, well-organised \"coordinate grid\" called a Cartan subalgebra, which makes\nthe whole thing far easier to understand.\n\n### Level 1 — Bachelor\nGiven an action of $G$ on a C\\*-algebra $A$ (e.g. $A=C(X)$), the **crossed\nproduct** $A\\rtimes G$ is a new C\\*-algebra encoding both. For $X$ a point this is\nthe **group C\\*-algebra** $C^*(G)$. A **Cartan subalgebra** $B\\subseteq A$ is a\nmaximal abelian subalgebra that is regular (its normalisers generate $A$) and\ncarries a faithful conditional expectation $A\\to B$ — an operator-algebraic\nanalogue of a coordinate system / maximal torus.\n\n### Level 2 — Master\nBy **Renault's theorem**, a Cartan pair $(A,B)$ corresponds to a twisted étale\ngroupoid: $A = C^*_r(\\mathcal{G},\\Sigma)$, $B=C_0(\\mathcal{G}^{(0)})$. MM's\nemphasis is proving **existence and uniqueness of Cartan subalgebras** in simple\nseparable nuclear [C\\*-algebras](../GLOSSARY.md#c-algebra) (the classifiable ones), connecting the abstract\nclassification (Topic 1) to topological dynamics. Recent MM work (Gardella–Geffen–\nKranz–Naryshkin–Vaccaro) proves **[$\\mathcal{Z}$-stability](../GLOSSARY.md#z-stability)** and classifiability of\ncrossed products under dynamical conditions (almost finiteness, dynamical\ncomparison, tracial amenability) even for nonamenable acting groups. References:\n[Crossed product C*-algebra](https://en.wikipedia.org/wiki/Crossed_product),\n[Dynamical comparison & Z-stability, Adv. Math. 2024](https://doi.org/10.1016/j.aim.2023.109471).\n\n---"
+  },
+  {
+    "id": "concept:topic-04-concept-3",
+    "label": "Amenability and property (T)",
+    "type": "concept",
+    "body": "![Entropy/probability](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_902f2b4e53eae6a15e3ff4ed40214f2f_topic4b-dsc_2097.jpg)\n\n### Level 0 — High school\nSome groups are \"easygoing\" (you can average over them in a consistent way) and\nsome are \"rigid\" (they resist small deformations and approximations). These two\nextremes behave very differently and lead to very different geometry.\n\n### Level 1 — Bachelor\nA group $G$ is **amenable** if it admits a finitely additive, left-invariant\nprobability measure (mean) on all subsets — equivalently Følner sets exist\n(almost-invariant finite sets). Abelian and solvable groups are amenable; the free\ngroup $F_2$ is **not** (Banach–Tarski lives here). **Kazhdan's property (T)** is an\nopposite rigidity: the trivial representation is isolated in the unitary dual, so\n$G$ has \"no almost-invariant vectors\". $SL_3(\\mathbb{Z})$ has (T); $SL_2(\\mathbb{Z})$\ndoes not.\n\n### Level 2 — Master\nThese properties are detected and refined through **[operator algebras](../GLOSSARY.md#operator-algebra)**: nuclearity\nof $C^*_r(G)$ characterises [amenability](../GLOSSARY.md#amenable-group) (Lance); property (T) and the **[Haagerup\nproperty](../GLOSSARY.md#haagerup-property)** have spectral-gap and a-T-menability formulations. MM studies them via\n**invariant percolation** and **Roe algebras** ([coarse geometry](../GLOSSARY.md#coarse-geometry)), and via finite\napproximation (soficity, quasidiagonality). Reference:\n[Amenable group](https://en.wikipedia.org/wiki/Amenable_group),\n[Kazhdan's property (T)](https://en.wikipedia.org/wiki/Kazhdan%27s_property_(T)).\n\n---"
+  },
+  {
+    "id": "concept:topic-04-concept-4",
+    "label": "Entropy and orbit equivalence",
+    "type": "concept",
+    "body": "### Level 0 — High school\nTake a system that evolves by repeating a symmetry over and over. \"Entropy\"\nmeasures how unpredictable or complex this evolution is. Two systems can look\ndifferent but secretly be re-labellings of each other — that is orbit equivalence.\n\n### Level 1 — Bachelor\nA measure-preserving action of $G$ on a probability space $(X,\\mu)$ has a numerical\ninvariant, **(Kolmogorov–Sinai) entropy**, measuring information produced per step.\nTwo actions are **orbit equivalent** if there is a measure isomorphism carrying\norbits to orbits. Ornstein theory: for $\\mathbb{Z}$, entropy is a *complete*\ninvariant for Bernoulli shifts.\n\n### Level 2 — Master\nMM (Kerr, Mukherjee) advances **Shannon orbit equivalence**, **sofic/Rokhlin\nentropy** for actions of general amenable/sofic groups, and rigidity of Bernoulli\nactions. A second strand develops **noncommutative cyclotomy** to decide when an\nalgebraic action of an amenable/sofic group has zero entropy, and uses\n**group-invariant percolation** to probe property (T) / Haagerup through the\noperator-algebraic lens of **Roe algebras**. References:\n[Measure-preserving dynamical system](https://en.wikipedia.org/wiki/Measure-preserving_dynamical_system),\n[Orbit equivalence](https://en.wikipedia.org/wiki/Orbit_equivalence).\n\n---"
+  },
+  {
+    "id": "concept:topic-04-concept-5",
+    "label": "Algebraic groups, Lie groups and Bruhat–Tits buildings",
+    "type": "concept",
+    "body": "![Algebraic/Lie groups](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_b3b53e1d9d46097b7acfc75ad1268af4_topic4c-dsc_2064.jpg)\n\n### Level 0 — High school\nBeyond finite symmetry there are *continuous* symmetries — like all rotations of a\nsphere, which form a smooth, flowing family. These richer symmetry objects come\nwith their own geometric \"skeletons\" that help us understand them.\n\n### Level 1 — Bachelor\nA **Lie group** is a group that is also a smooth manifold with smooth operations\n(e.g. $SO(3)$, $GL_n(\\mathbb{R})$); its tangent space at the identity is a **Lie\nalgebra** $\\mathfrak{g}$, capturing the group infinitesimally via the exponential\nmap. An **algebraic group** is a group defined by polynomial equations (e.g.\n$SL_n$ as a variety). Over the [$p$-adic numbers](../GLOSSARY.md#p-adic-numbers) $\\mathbb{Q}_p$ one gets $p$-adic\nLie groups like $GL_n(\\mathbb{Q}_p)$.\n\n### Level 2 — Master\nFor a reductive group $G$ over a $p$-adic field, the **Bruhat–Tits building** is a\ncontractible CAT(0) simplicial complex on which $G$ acts, encoding its maximal\ncompact subgroups and parahoric structure — the combinatorial geometry behind\nsmooth representation theory and the local Langlands programme (cf. Topic 2). MM's\nunit (Schneider, Hellmann, Hartl, Lourenço, Kramer, Böhm) studies smooth mod-$p$\nand $p$-adic representations, moment-map/GIT flows on real reductive groups, and\npolyhedral compactifications of buildings. References:\n[Lie group](https://en.wikipedia.org/wiki/Lie_group),\n[Bruhat–Tits building](https://en.wikipedia.org/wiki/Building_(mathematics)).\n\n---\n\n**Further reading**\n- Brown, *Cohomology of Groups*; de la Harpe, *Topics in Geometric Group Theory*\n- Brown–Ozawa, *C\\*-algebras and Finite-Dimensional Approximations*\n- Kerr–Li, *Ergodic Theory: Independence and Dichotomies*"
+  },
+  {
+    "id": "concept:topic-05-concept-1",
+    "label": "Riemannian manifolds",
+    "type": "concept",
+    "body": "![Curvature/flows](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_ea344f159ec8033ef547addc227721dd_topic5a-dsc_1993-neu.jpg)\n\n### Level 0 — High school\nThe surface of the Earth is curved: triangles drawn on it have angles adding to\n*more* than 180°. A **Riemannian manifold** is any smooth curved space — of any\ndimension — where we can still measure lengths and angles, hence distances and\n\"straightest possible\" paths.\n\n### Level 1 — Bachelor\nA **Riemannian manifold** $(M,g)$ is a smooth manifold with a smoothly varying\ninner product $g_p$ on each tangent space $T_pM$. It gives lengths of curves\n$L(\\gamma)=\\int \\sqrt{g(\\dot\\gamma,\\dot\\gamma)}\\,dt$ and a distance\n$d(p,q)=\\inf_\\gamma L(\\gamma)$. The **Levi-Civita connection** $\\nabla$ is the\nunique torsion-free metric connection, defining parallel transport and covariant\ndifferentiation.\n\n### Level 2 — Master\n[Curvature](../GLOSSARY.md#curvature) is encoded in the **Riemann curvature tensor**\n$R(X,Y)Z = \\nabla_X\\nabla_Y Z - \\nabla_Y\\nabla_X Z - \\nabla_{[X,Y]}Z$, with\ncontractions giving **Ricci** $\\mathrm{Ric}$ and **[scalar](../GLOSSARY.md#scalar-curvature)** $\\mathrm{scal}$\ncurvature. MM also studies **infinite-dimensional** Riemannian and geodesic metric\nspaces, where the finite-dimensional ODE theory of geodesics is replaced by PDEs,\nand the Lie group / Lie algebra correspondence breaks down. References:\n[Riemannian manifold](https://en.wikipedia.org/wiki/Riemannian_manifold),\n[Curvature tensor](https://en.wikipedia.org/wiki/Riemann_curvature_tensor).\n\n---"
+  },
+  {
+    "id": "concept:topic-05-concept-2",
+    "label": "Curvature and topological obstructions",
+    "type": "concept",
+    "body": "### Level 0 — High school\nThe amount and sign of curvature limits what shapes are possible. You cannot comb a\nhairy ball flat, and you cannot wrap a sphere onto a doughnut without distortion —\ncurvature \"knows\" the global shape.\n\n### Level 1 — Bachelor\nCurvature comes in flavours: **sectional** $K(\\sigma)$ (of a 2-plane $\\sigma$),\n**Ricci**, **scalar**. Sign assumptions force global topology:\n- **Gauss–Bonnet**: $\\int_M K\\,dA = 2\\pi\\chi(M)$ for a closed surface — total\n  curvature is the topological Euler characteristic.\n- **Bonnet–Myers**: $\\mathrm{Ric}\\ge (n-1)k>0 \\Rightarrow$ $M$ compact with finite\n  $\\pi_1$ and diameter $\\le \\pi/\\sqrt{k}$.\n- **Cartan–Hadamard**: $K\\le 0$, complete, simply connected $\\Rightarrow$\n  diffeomorphic to $\\mathbb{R}^n$.\n\n### Level 2 — Master\nPositive **sectional** curvature is rare and rigid; known examples are scarce, and\nclassification is open. The **[Grove programme](../GLOSSARY.md#grove-programme)** studies positively curved manifolds\n*with symmetry* (isometric torus actions), proving structure/classification under a\nsymmetry assumption and then trying to lower it. MM (Wilking, Wiemeler, Kennard)\nproves results linking positive curvature, torus symmetry and matroids, e.g.\nclassifying positively curved $10$-manifolds with $T^3$-symmetry. Reference:\n[Positive curvature, torus symmetry, matroids — arXiv:2212.08152](https://arxiv.org/abs/2212.08152).\n\n---"
+  },
+  {
+    "id": "concept:topic-05-concept-3",
+    "label": "Ricci flow and geometric flows",
+    "type": "concept",
+    "body": "### Level 0 — High school\nImagine a lumpy ball of dough that automatically smooths itself out, the bumps\nflowing away until it becomes a perfect sphere. **Ricci flow** is an equation that\nmakes a curved space evolve and smooth its curvature over time — the tool Perelman\nused to prove the Poincaré conjecture.\n\n### Level 1 — Bachelor\n**Ricci flow** evolves a metric by\n$$\n\\frac{\\partial}{\\partial t} g(t) = -2\\,\\mathrm{Ric}\\big(g(t)\\big),\n$$\na (weakly parabolic) heat-type equation that tends to homogenise curvature. On the\nround sphere it shrinks self-similarly; in general singularities can form and must\nbe analysed (neck-pinches, surgery).\n\n### Level 2 — Master\nHamilton–Perelman theory uses monotonicity ($\\mathcal{F}$- and\n$\\mathcal{W}$-entropy), $\\kappa$-noncollapsing, and surgery to classify\nsingularities, proving the **Poincaré** and **geometrisation** conjectures. MM\n(Wilking, Böhm) studies preserved curvature conditions (cone constructions in the\nspace of curvature operators), Ricci flow under *almost* non-negative curvature,\nand **Ebin geodesics** / scalar curvature in the space of metrics. References:\n[Ricci flow](https://en.wikipedia.org/wiki/Ricci_flow),\n[Ricci flow under almost non-negative curvature, Invent. Math. 2019](https://doi.org/10.1007/s00222-019-00864-7).\n\n---"
+  },
+  {
+    "id": "concept:topic-05-concept-4",
+    "label": "Geodesics and infinite-dimensional shape spaces",
+    "type": "concept",
+    "body": "![Geodesics](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_3b01d4a7dd7290079f9f6e1b559a00a9_topic5b-dsc_2001-neu.jpg)\n\n### Level 0 — High school\nThe shortest flight path between two cities curves across the globe — that is a\ngeodesic. Now imagine a \"space\" whose points are entire *shapes* (say, all possible\noutlines of a hand). A geodesic there is the most efficient way to morph one shape\ninto another — useful in computer graphics and medical imaging.\n\n### Level 1 — Bachelor\nA **geodesic** is a locally length-minimising curve; it satisfies the geodesic\nequation $\\nabla_{\\dot\\gamma}\\dot\\gamma = 0$, an ODE in finite dimensions\nguaranteeing local existence/uniqueness. The Riemannian distance is realised by\nshortest geodesics (Hopf–Rinow, when complete).\n\n### Level 2 — Master\nOn **infinite-dimensional shape spaces** (e.g. the space of curves/surfaces with an\n$L^2$ or Sobolev metric, or the space of Riemannian metrics) the geodesic equation\nbecomes a **PDE**, and existence/regularity is subtle (the $L^2$ metric can have\nvanishing geodesic distance). MM (Rumpf, Wirth, Effland) develops and rigorously\nanalyses **variational time-discretisations** and numerical schemes, proving\nconvergence rates for discrete (cubic Riemannian spline) approximations, with\napplications to data science and inverse problems. Reference:\n[Quartic $L^p$-convergence of cubic Riemannian splines, IMA JNA 2022](https://doi.org/10.1093/imanum/drab077).\n\n---"
+  },
+  {
+    "id": "concept:topic-05-concept-5",
+    "label": "Index theory and scalar curvature",
+    "type": "concept",
+    "body": "![Index theory](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_702897ed42069ee3eaa7839633a48f71_topic5c-dsc_2007.jpg)\n\n### Level 0 — High school\nThere is a deep bridge between *analysis* (solving equations on a shape) and\n*topology* (the shape's holes). Counting the solutions of a special equation\nsecretly counts holes — and this forbids certain shapes from being curved a\ncertain way.\n\n### Level 1 — Bachelor\nThe **[Atiyah–Singer index theorem](../GLOSSARY.md#atiyah-singer-index-theorem)** equates an analytic quantity, the **index**\n$\\mathrm{ind}(D)=\\dim\\ker D - \\dim\\mathrm{coker}\\,D$ of an [elliptic operator](../GLOSSARY.md#elliptic-operator) $D$,\nwith a topological integral of [characteristic classes](../GLOSSARY.md#characteristic-class). For the **Dirac operator**\non a spin manifold, $\\mathrm{ind}(D) = \\hat{A}(M)$. The **Lichnerowicz formula**\n$D^2 = \\nabla^*\\nabla + \\tfrac14\\mathrm{scal}$ then shows: if $\\mathrm{scal}>0$,\n$D$ has no harmonic spinors, so $\\hat{A}(M)=0$ — a topological obstruction to\npositive [scalar curvature](../GLOSSARY.md#scalar-curvature).\n\n### Level 2 — Master\nMM (Zeidler, Ebert, Deninger) develops **higher [index theory](../GLOSSARY.md#index-theory)** in [C\\*-algebraic\nK-theory](../GLOSSARY.md#k-theory) (the **Rosenberg index** in $KO_*(C^*_r\\pi_1)$, higher $\\rho$-invariants)\nand **comparison/rigidity** results: band-width estimates, scalar-and-mean-curvature\ncomparison via Dirac operators, positive mass theorems in the spin setting. This\nties Topic 5 directly to Topic 1 (K-theory) and Topic 2 (spaces of PSC metrics).\nReferences: [Atiyah–Singer index theorem](https://en.wikipedia.org/wiki/Atiyah%E2%80%93Singer_index_theorem),\n[Zeidler, band width estimates via the Dirac operator, JDG 2022](https://doi.org/10.4310/jdg/1668186790).\n\n---\n\n**Further reading**\n- do Carmo, *Riemannian Geometry*; Lee, *Introduction to Riemannian Manifolds*\n- Petersen, *Riemannian Geometry* (Springer GTM 171)\n- Lawson–Michelsohn, *Spin Geometry* (index theory & scalar curvature)"
+  },
+  {
+    "id": "concept:topic-06-concept-1",
+    "label": "Partial differential equations (PDEs)",
+    "type": "concept",
+    "body": "![Geometric analysis](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_4568fcf8acb262db9ea1b08d20ff7d8e_topic6a-interaktion-dsc_3721.jpg)\n\n### Level 0 — High school\nMost laws of nature say how things *change*: how heat spreads, how waves travel,\nhow planets pull. A PDE is an equation that relates these rates of change across\nspace and time. Solving it predicts the future from the present.\n\n### Level 1 — Bachelor\nA **PDE** relates an unknown function $u(x_1,\\dots,x_n)$ and its partial\nderivatives. Three classical archetypes:\n$$\n\\underbrace{\\Delta u = 0}_{\\text{elliptic (Laplace)}}\\qquad\n\\underbrace{\\partial_t u = \\Delta u}_{\\text{parabolic (heat)}}\\qquad\n\\underbrace{\\partial_{tt} u = \\Delta u}_{\\text{hyperbolic (wave)}}\n$$\nwhere $\\Delta = \\sum_i \\partial_{x_i}^2$. Elliptic equations describe equilibria\n(and are smoothing); parabolic equations describe diffusion; hyperbolic equations\ndescribe propagation at finite speed.\n\n### Level 2 — Master\nMM works with **nonlinear** PDEs of geometric and physical origin. The character\n(elliptic/parabolic/hyperbolic) dictates the analytic toolkit: a priori estimates,\nenergy methods, [Sobolev](../GLOSSARY.md#sobolev-space)/Hölder spaces, weak solutions, and the calculus of\nvariations. A recurring question is **well-posedness** versus **singularity\nformation**. References: [Partial differential equation](https://en.wikipedia.org/wiki/Partial_differential_equation).\n\n---"
+  },
+  {
+    "id": "concept:topic-06-concept-2",
+    "label": "Singularities",
+    "type": "concept",
+    "body": "### Level 0 — High school\nSometimes a smooth process suddenly breaks down: a wave crests and shatters, a\ndroplet pinches off, gravity collapses matter into a black hole. These breakdown\npoints are **singularities** — and they are usually the most interesting and\nhardest part to understand.\n\n### Level 1 — Bachelor\nA **singularity** is a point/time where a solution loses regularity: a derivative\nor the solution itself blows up, or smoothness fails. Example: Burgers' equation\n$\\partial_t u + u\\,\\partial_x u = 0$ develops a **shock** (gradient blow-up) in\nfinite time even from smooth data. Understanding **whether**, **when**, and **what\ntype** of singularity forms is the central question.\n\n### Level 2 — Master\nMM studies singularity formation across regimes: degenerations of sequences of\n**4-dimensional Einstein manifolds** (bubbling, gravitational instantons,\ncollapsing Calabi–Yau/Kähler–Ricci flows à la Hein–Tosatti), singularities of\n**minimal hypersurfaces**, and finite-time blow-up vs. global existence in\n**cross-diffusion**/Keller–Segel chemotaxis systems. Tools include blow-up\nanalysis, monotonicity formulae, and $\\varepsilon$-regularity. References:\n[Singularity (mathematics)](https://en.wikipedia.org/wiki/Singularity_(mathematics)),\n[Collapsing immortal Kähler–Ricci flows, Forum Math Pi 2025](https://doi.org/10.1017/fmp.2025.10).\n\n---"
+  },
+  {
+    "id": "concept:topic-06-concept-3",
+    "label": "Einstein manifolds and general relativity",
+    "type": "concept",
+    "body": "### Level 0 — High school\nEinstein discovered that gravity *is* the curving of spacetime by mass. The\nequation governing this is one of the most important PDEs in physics, and the\nshapes (geometries) it allows include black holes.\n\n### Level 1 — Bachelor\nA Riemannian (or Lorentzian) manifold is **Einstein** if its Ricci curvature is\nproportional to the metric:\n$$\n\\mathrm{Ric}(g) = \\lambda\\, g,\\qquad \\lambda\\in\\mathbb{R}.\n$$\nIn Lorentzian signature, the (vacuum) **Einstein field equations**\n$\\mathrm{Ric}(g) - \\tfrac12 \\mathrm{scal}\\,g + \\Lambda g = 0$ govern gravity;\nspacetime is a 4-manifold with signature $(-,+,+,+)$.\n\n### Level 2 — Master\nMM (Böhm, Hein, Lafuente) studies **rigidity** of Einstein manifolds under symmetry\nand the structure of **non-compact Einstein manifolds with symmetry**, plus the\nfine geometry of **gravitational instantons** (complete Ricci-flat 4-manifolds) and\ntheir compactifications/renormalised volume. The Lorentzian side connects to unit 2\nvia the underlying causal/Lorentzian geometry. References:\n[Einstein manifold](https://en.wikipedia.org/wiki/Einstein_manifold),\n[Non-compact Einstein manifolds with symmetry, JAMS 2023](https://doi.org/10.1090/jams/1022).\n\n---"
+  },
+  {
+    "id": "concept:topic-06-concept-4",
+    "label": "Black hole stability (the Kerr problem)",
+    "type": "concept",
+    "body": "![Evolutionary PDEs](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_255ac7fc4d609aaf7fa5b55e08a259aa_topic6b-dsc_4659.jpg)\n\n### Level 0 — High school\nIf you \"poke\" a spinning black hole, does it wobble and settle back down, or fall\napart? Physically we expect it to settle — but proving this from the equations is\none of the great open challenges of mathematical physics.\n\n### Level 1 — Bachelor\nThe **Kerr metric** is the exact rotating-black-hole solution of the vacuum\nEinstein equations, a family parametrised by mass $M$ and angular momentum $a$.\n**Nonlinear stability** asks: do small perturbations of Kerr data evolve, under the\nEinstein equations, to a spacetime that asymptotically settles to a (nearby) Kerr\nsolution? This is a question about a quasilinear hyperbolic PDE system.\n\n### Level 2 — Master\nMM (Holzegel, with Dafermos–Rodnianski–Taylor) develops the analysis of\n**quasilinear wave equations on asymptotically flat spacetimes**, decay estimates\n(redshift, $r^p$-weighted energies, vector-field method), and mode stability,\nbuilding toward full nonlinear stability of Kerr — paralleling the proven nonlinear\nstability of the Schwarzschild family. Closely tied are the **Euler equations** of\nfluid dynamics (two-phase flow with singular vorticity, bubble rings). References:\n[Kerr metric](https://en.wikipedia.org/wiki/Kerr_metric),\n[Nonlinear stability of Schwarzschild, arXiv:2104.08222](https://arxiv.org/abs/2104.08222).\n\n---"
+  },
+  {
+    "id": "concept:topic-06-concept-5",
+    "label": "Regularity theory and singular stochastic PDEs",
+    "type": "concept",
+    "body": "### Level 0 — High school\n\"Regularity\" asks how smooth a solution is. When you add random noise everywhere\n(like static), solutions become so jagged that the equation barely makes sense.\nNew mathematics was invented to give these noisy equations a precise meaning.\n\n### Level 1 — Bachelor\n**Regularity estimates** bound derivatives of solutions (e.g. Schauder estimates:\nelliptic solutions gain two derivatives in Hölder spaces). A **stochastic PDE\n(SPDE)** adds random forcing, e.g. the dynamical $\\Phi^4$ model\n$$\n\\partial_t \\phi = \\Delta\\phi - \\phi^3 + \\xi,\n$$\nwith $\\xi$ space-time white noise. The noise is so rough that $\\phi^3$ is\nclassically ill-defined, requiring **renormalisation** (subtracting infinities).\n\n### Level 2 — Master\nThe breakthroughs of **regularity structures** (Hairer) and **paracontrolled\ncalculus** (Gubinelli–Imkeller–Perkowski) give a solution theory for [singular SPDEs](../GLOSSARY.md#stochastic-pde)\nin the **subcritical** regime. MM (Weber, Tempelmayr, Chandra) proves **a priori\nbounds** for $\\Phi^4$ and the parabolic Anderson model in the full subcritical\nregime and pushes toward **quasilinear** equations (stochastic porous medium). The\ndeterministic side includes [regularity theory](../GLOSSARY.md#regularity-theory) for the complex **Monge–Ampère** and\n**thin-film** equations. References:\n[Regularity structures](https://en.wikipedia.org/wiki/Regularity_structure),\n[A priori bounds for $\\Phi^4$ in the full subcritical regime, ARMA 2023](https://doi.org/10.1007/s00205-023-01876-7).\n\n---\n\n**Further reading**\n- Evans, *Partial Differential Equations* (AMS GSM 19)\n- Dafermos–Rodnianski lecture notes on the analysis of black hole spacetimes\n- Hairer, *A theory of regularity structures*, Invent. Math. 198 (2014)"
+  },
+  {
+    "id": "concept:topic-07-concept-1",
+    "label": "Quantum field theory (QFT)",
+    "type": "concept",
+    "body": "![Integrability](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_f14a1ff9a733a03f538a2a66623908ab_topic7a-dsc_2865.jpg)\n\n### Level 0 — High school\nAt the smallest scales, particles are ripples in invisible \"fields\" filling all of\nspace. Quantum field theory is the rulebook for these ripples — it powers the\nStandard Model of particle physics. But making its mathematics fully rigorous is a\nmillion-dollar open problem.\n\n### Level 1 — Bachelor\nA (Euclidean, scalar) QFT is formally defined by a **path integral**: averages of\nobservables $F$ are\n$$\n\\langle F\\rangle = \\frac{1}{Z}\\int F(\\phi)\\, e^{-S(\\phi)}\\,\\mathcal{D}\\phi,\\qquad\nS(\\phi)=\\int \\Big(\\tfrac12|\\nabla\\phi|^2 + \\tfrac{m^2}{2}\\phi^2 + \\tfrac{\\lambda}{4}\\phi^4\\Big)\\,dx,\n$$\nan integral over the *infinite-dimensional* space of field configurations $\\phi$.\nThe measure $\\mathcal{D}\\phi$ does not exist rigorously, so giving this meaning is\nthe mathematical challenge (**constructive QFT**).\n\n### Level 2 — Master\nConstructing a nonlinear QFT in the physical **4 space-time dimensions** is part of\nthe **Yang–Mills Clay Millennium Problem**. In $d=2,3$, scalar models\n($P(\\phi)_2$, $\\Phi^4_3$) are constructed perturbatively around the free (Gaussian)\nfield. In $d=4$ the theory is **critical**: linear and nonlinear terms scale\nidentically, so perturbation around the linear theory fails. MM attacks scalar QFTs\non **non-commutative geometries**, where exact solvability is available.\nReferences: [Quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory),\n[Constructive QFT](https://en.wikipedia.org/wiki/Constructive_quantum_field_theory).\n\n---"
+  },
+  {
+    "id": "concept:topic-07-concept-2",
+    "label": "Stochastic quantisation",
+    "type": "concept",
+    "body": "![Stochastic analysis of fields](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_5139281886f521cb26e73e1196468f6e_topic7b-dsc_2874.jpg)\n\n### Level 0 — High school\nInstead of building a field \"all at once\", let it wiggle randomly over time like a\njittering elastic sheet until it settles into a stable random pattern. That\nequilibrium pattern *is* the quantum field. Randomness becomes a construction tool.\n\n### Level 1 — Bachelor\n**Stochastic quantisation** (Parisi–Wu) realises the QFT measure\n$\\propto e^{-S(\\phi)}\\mathcal{D}\\phi$ as the **invariant measure** of a stochastic\nPDE — the Langevin dynamics\n$$\n\\partial_t \\phi = -\\frac{\\delta S}{\\delta \\phi} + \\sqrt{2}\\,\\xi\n= \\Delta\\phi - m^2\\phi - \\lambda\\phi^3 + \\sqrt{2}\\,\\xi,\n$$\nwith $\\xi$ space-time white noise. Construct/analyse the long-time behaviour of the\nSPDE, and you construct the field theory.\n\n### Level 2 — Master\nThis route requires the **regularity-structures / paracontrolled** machinery\n(cf. Topic 6) because $\\phi^3$ is ill-defined for the rough invariant field;\nrenormalisation is essential. MM (Weber, Wulkenhaar, Song) pursues **stochastic\nquantisation of $\\lambda\\phi^4$ on Moyal ([non-commutative](../GLOSSARY.md#non-commutative-geometry)) space**, combining exact\nsolvability with [SPDE](../GLOSSARY.md#stochastic-pde) analysis, and connects discrete approximations (dynamical\nIsing–Kac $\\to \\Phi^4_3$). Reference:\n[Stochastic quantization](https://en.wikipedia.org/wiki/Stochastic_quantization),\n[Stochastic quantization of $\\lambda\\phi^4_2$ in 2-d Moyal space, arXiv:2502.02355](https://arxiv.org/abs/2502.02355).\n\n---"
+  },
+  {
+    "id": "concept:topic-07-concept-3",
+    "label": "Non-commutative geometry and the Moyal space",
+    "type": "concept",
+    "body": "### Level 0 — High school\nNormally $3\\times 5 = 5\\times 3$. But in quantum mechanics, measuring position then\nmomentum differs from the reverse order. \"Non-commutative spaces\" build geometry\nout of such order-sensitive coordinates — a geometry where $xy \\ne yx$.\n\n### Level 1 — Bachelor\nOn the **Moyal plane**, coordinates satisfy $[x^\\mu, x^\\nu] = i\\theta^{\\mu\\nu}$\n(constant antisymmetric $\\theta$), implemented by replacing pointwise multiplication\nwith the **Moyal star product** $\\star$. Functions become operators / infinite\nmatrices; integration becomes a trace. A scalar field theory has action with\n$\\phi\\star\\phi\\star\\phi\\star\\phi$ interactions.\n\n### Level 2 — Master\nNon-commutative field theories realise interactions as **matrix models**; the\n$\\theta\\to\\infty$ limit links them to large-$N$ matrix integrals. Connes' **spectral\ntriple** $(\\mathcal{A},H,D)$ formalises non-commutative Riemannian geometry. MM\nexploits the special integrability of the **Grosse–Wulkenhaar** $\\Phi^4$ model on\nMoyal space, which is renormalisable to all orders and exactly solvable in certain\nlimits. References:\n[Noncommutative geometry](https://en.wikipedia.org/wiki/Noncommutative_geometry),\n[Moyal product](https://en.wikipedia.org/wiki/Moyal_product).\n\n---"
+  },
+  {
+    "id": "concept:topic-07-concept-4",
+    "label": "Free probability and topological recursion",
+    "type": "concept",
+    "body": "### Level 0 — High school\nOrdinary probability adds independent random numbers (giving the bell curve). When\nthe \"random numbers\" are huge matrices that don't commute, a new kind of\nprobability is needed — and counting the shapes (surfaces) that appear organises\nthe answers into an elegant recursive pattern.\n\n### Level 1 — Bachelor\n**Free probability** (Voiculescu) replaces independence with **freeness** for\nnon-commuting random variables (operators). The free analogue of the central limit\ntheorem yields the **semicircle law** $\\rho(x)=\\tfrac{1}{2\\pi}\\sqrt{4-x^2}$ — the\neigenvalue distribution of large random Hermitian matrices (Wigner). **Topological\nrecursion** computes correlation functions of matrix models by a recursion indexed\nby the genus and number of boundaries of surfaces.\n\n### Level 2 — Master\n**Topological recursion** (Eynard–Orantin) takes a spectral curve and recursively\nproduces invariants $\\omega_{g,n}$ generating intersection numbers on\n$\\overline{\\mathcal{M}}_{g,n}$ (Topic 2) — Kontsevich's solution of the Witten\nconjecture is the prototype. MM (Wulkenhaar, Branahl, Hock, Schürmann) develops the\n**blobbed topological recursion** of the **quartic Kontsevich model**, connecting\nintegrable structure, moduli spaces, and non-commutative QFT. References:\n[Free probability](https://en.wikipedia.org/wiki/Free_probability),\n[Topological recursion](https://en.wikipedia.org/wiki/Topological_recursion),\n[Blobbed topological recursion of the quartic Kontsevich model, CMP 2022](https://doi.org/10.1007/s00220-022-04392-z).\n\n---"
+  },
+  {
+    "id": "concept:topic-07-concept-5",
+    "label": "Disorder, scaling limits and the polaron",
+    "type": "concept",
+    "body": "![Effective theories and disorder](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_c9cb5154a9327185d1e896dcb1ee61ec_topic7c-dsc_4538.jpg)\n\n### Level 0 — High school\nA single electron dragging a cloud of distortion through a crystal behaves like a\nheavier \"dressed\" particle — a polaron. Zoom out from many small random effects and\nclean, universal behaviour emerges. Studying these limits links physics and\nprobability.\n\n### Level 1 — Bachelor\nA **scaling limit** rescales space/time so that a microscopic random model converges\nto a continuum object (e.g. random walk $\\to$ [Brownian motion](../GLOSSARY.md#brownian-motion)). The **polaron** is\nmodelled by the Fröhlich Hamiltonian; its large-coupling behaviour is governed by a\nself-interacting (Pekar) variational problem and an **effective mass**.\n\n### Level 2 — Master\nMM (Mukherjee, Weber, Löwe) studies probabilistic field-theory questions at the\n**statistical-mechanics interface**: large-deviation and path-measure analysis of\nthe **Fröhlich polaron** (Landau–Pekar–Spohn conjecture on effective mass),\n**Gaussian multiplicative chaos** in Wiener space, and SPDEs arising as scaling\nlimits (including supercritical regimes). References:\n[Polaron](https://en.wikipedia.org/wiki/Polaron),\n[Effective mass of the Fröhlich polaron, arXiv:2307.13058](https://arxiv.org/abs/2307.13058).\n\n---\n\n**Further reading**\n- Glimm–Jaffe, *Quantum Physics: A Functional Integral Point of View*\n- Mingo–Speicher, *Free Probability and Random Matrices*\n- Grosse–Wulkenhaar papers on the noncommutative $\\Phi^4$ model"
+  },
+  {
+    "id": "concept:topic-08-concept-1",
+    "label": "Random graphs",
+    "type": "concept",
+    "body": "![Random graphs](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_8c4819a3f4477c4cc39cc8bdaf222d31_topic8b-dsc_3956.jpg)\n\n### Level 0 — High school\nDraw some dots and connect each pair by flipping a coin. The result is a random\nnetwork — a toy model of a friendship network or the web. Surprisingly, as you add\ndots, a giant connected cluster appears almost suddenly once links are frequent\nenough.\n\n### Level 1 — Bachelor\nThe **Erdős–Rényi graph** $G(n,p)$ has $n$ vertices, each of the $\\binom{n}{2}$\nedges present independently with probability $p$. A landmark **phase transition**:\nwith $p=c/n$, as $n\\to\\infty$ the largest component is\n$$\n\\begin{cases} O(\\log n) & c<1\\ (\\text{subcritical}),\\\\\n\\Theta(n) \\ \\text{(a \"giant component\")} & c>1\\ (\\text{supercritical}).\\end{cases}\n$$\nThe threshold for connectivity is $p=\\frac{\\log n}{n}$.\n\n### Level 2 — Master\nMM studies $G(n,p)$ as a random **environment for spin systems** (Ising/Curie–Weiss\non Erdős–Rényi graphs: magnetisation fluctuations, low-temperature and critical\nregimes) and richer models like **preferential attachment** (scale-free networks)\nand the **stochastic block model** (community detection, spectral methods,\nrandom-walk hitting times). References:\n[Erdős–Rényi model](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model),\n[Stochastic block model](https://en.wikipedia.org/wiki/Stochastic_block_model).\n\n---"
+  },
+  {
+    "id": "concept:topic-08-concept-2",
+    "label": "Percolation and phase transitions",
+    "type": "concept",
+    "body": "### Level 0 — High school\nImagine randomly opening or blocking the tiny channels in a porous rock. Below a\ncritical fraction of open channels, water cannot cross; above it, it suddenly can.\nThat sharp switch is a phase transition — the same idea as water freezing.\n\n### Level 1 — Bachelor\nIn **bond percolation** on $\\mathbb{Z}^d$, each edge is open with probability $p$\nindependently. There is a critical $p_c\\in(0,1)$ such that\n$$\n\\theta(p) = \\mathbb{P}_p(\\text{origin in an infinite open cluster})\n\\begin{cases} =0 & p<p_c,\\\\ >0 & p>p_c.\\end{cases}\n$$\nFor $d=2$, $p_c=\\tfrac12$ for bond percolation (Kesten). This is the simplest model\nexhibiting a genuine phase transition with critical phenomena.\n\n### Level 2 — Master\nMM (Mukherjee, Recke, Kerr) studies **percolation on groups** and\n**group-invariant percolation**, where the geometry/representation theory of the\ngroup ([amenability](../GLOSSARY.md#amenable-group), **property (T)**, **[Haagerup property](../GLOSSARY.md#haagerup-property)**) interacts with the\nexistence and uniqueness of infinite clusters, analysed through **Schur multipliers**\nand **Roe / group [C\\*-algebras](../GLOSSARY.md#c-algebra)** — a bridge to Topic 4. References:\n[Percolation theory](https://en.wikipedia.org/wiki/Percolation_theory),\n[Haagerup property and group-invariant percolation, arXiv:2303.17429](https://arxiv.org/abs/2303.17429).\n\n---"
+  },
+  {
+    "id": "concept:topic-08-concept-3",
+    "label": "Random tessellations and polytopes (stochastic geometry)",
+    "type": "concept",
+    "body": "![Random tessellations](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_8233581121d560093d2084ac82491d20_topic8a-dsc_3820.jpg)\n\n### Level 0 — High school\nScatter points at random, then give each point the territory closest to it — you get\na random patchwork of cells, like cracked mud or a giraffe's coat. Mathematicians\nmeasure the typical shapes, areas and number of sides of these random tiles.\n\n### Level 1 — Bachelor\nA **Voronoi tessellation** of a point set $\\{x_i\\}$ assigns to each $x_i$ the cell\n$\\{y: |y-x_i|\\le |y-x_j|\\ \\forall j\\}$. With the points a **Poisson point process**,\none gets the Poisson–Voronoi tessellation and studies expected cell volume, number\nof faces, etc. A **random polytope** is the convex hull of random points; its\nexpected number of vertices/faces is a classical question (Sylvester's problem).\n\n### Level 2 — Master\nMM (Gusakova, Kabluchko, Huesmann) analyses **beta / beta-prime polytopes**,\n**Poisson–Voronoi and Laguerre tessellations**, sectional tessellations, and\nhigh-dimensional limits and threshold phenomena (expected $f$-vectors, angle sums of\nrandom simplices). A second thread uses **optimal transport** of stationary point\nprocesses (Benamou–Brenier formulae, hyperuniformity, matching problems). References:\n[Stochastic geometry](https://en.wikipedia.org/wiki/Stochastic_geometry),\n[Voronoi diagram](https://en.wikipedia.org/wiki/Voronoi_diagram).\n\n---"
+  },
+  {
+    "id": "concept:topic-08-concept-4",
+    "label": "Interacting particle systems and scaling limits",
+    "type": "concept",
+    "body": "![Particle systems](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_f560fa46564515b8be369e321b9d77df_topic8c-interaktion-dsc_4609.jpg)\n\n### Level 0 — High school\nMany simple agents following local random rules — cars on a road, particles hopping\non a line — together produce complex large-scale patterns. Zooming out turns the\njiggling crowd into a smooth flowing equation.\n\n### Level 1 — Bachelor\nAn **interacting particle system** is a continuous-time Markov process on a large\nconfiguration space with local update rules. Example: the **(weakly) asymmetric\nsimple exclusion process** (ASEP/WASEP) — particles hop left/right on $\\mathbb{Z}$\nbut never share a site. A **scaling limit** rescales space and time so the random\nparticle density converges to a deterministic/stochastic PDE.\n\n### Level 2 — Master\nMM (Weber, Huesmann, Mukherjee) proves convergence of **WASEP to the [KPZ equation](../GLOSSARY.md#stochastic-pde)**\nand of static **Ising–Kac models to $\\Phi^4_3$** using **regularity structures**\n(cf. Topics 6–7), and uses **large deviation principles** for random walks in random\nenvironments to study **stochastic homogenisation** of the Hamilton–Jacobi–Bellman\nequation (link to Topic 9). The **KPZ equation**\n$$\n\\partial_t h = \\partial_x^2 h + (\\partial_x h)^2 + \\xi\n$$\nis the canonical scaling limit governing random interface growth (the **KPZ\nuniversality class**). References:\n[KPZ equation](https://en.wikipedia.org/wiki/Kardar%E2%80%93Parisi%E2%80%93Zhang_equation),\n[Exclusion process](https://en.wikipedia.org/wiki/Asymmetric_simple_exclusion_process).\n\n---"
+  },
+  {
+    "id": "concept:topic-08-concept-5",
+    "label": "Fluctuations, disorder and universality",
+    "type": "concept",
+    "body": "### Level 0 — High school\nAdd many independent random things and you almost always get the same bell-shaped\ncurve — no matter the details. This \"universality\" is why averages are predictable.\nResearchers hunt for which random systems share such universal large-scale laws.\n\n### Level 1 — Bachelor\nThe **central limit theorem** is the prototype: normalised sums of i.i.d. variables\nconverge to a Gaussian, regardless of the underlying distribution. In statistical\nmechanics, **fluctuations** of macroscopic quantities (e.g. magnetisation) around\ntheir mean reveal the phase: Gaussian away from criticality, non-Gaussian at a\ncritical point. **Disorder** (frozen randomness in the environment) can change these\nlaws.\n\n### Level 2 — Master\nMM studies fluctuation theorems for **Curie–Weiss** and Ising models on random\ngraphs (including critical scaling and \"when chaos stops to propagate\"), zeros of\n**random polynomials** under heat flow, and **large deviations** quantifying the\nimpact of disorder (quenched vs. annealed) in random environments. Universality\nclasses (Gaussian, KPZ, random-matrix) organise the possible limiting laws.\nReferences: [Central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem),\n[KPZ universality](https://en.wikipedia.org/wiki/KPZ_universality_class).\n\n---\n\n**Further reading**\n- van der Hofstad, *Random Graphs and Complex Networks* (Vols. 1–2)\n- Grimmett, *Percolation*; Schneider–Weil, *Stochastic and Integral Geometry*\n- Corwin, *The Kardar–Parisi–Zhang equation and universality class* (survey)"
+  },
+  {
+    "id": "concept:topic-09-concept-1",
+    "label": "Multiple scales and effective models",
+    "type": "concept",
+    "body": "![Optimisation of structures](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_b4dacec85d04b44fe9314f6e08488539_topic9a-dsc_2948.jpg)\n\n### Level 0 — High school\nA sponge looks solid from far away but is full of tiny holes up close. To predict\nhow it soaks up water you don't track every pore — you find an \"effective\" rule for\nthe whole sponge. Multiscale maths is the art of jumping from tiny details to\nbig-picture rules.\n\n### Level 1 — Bachelor\nMany systems have a small parameter $\\varepsilon$ (ratio of fine to coarse scale).\nOne seeks the **effective behaviour** as $\\varepsilon\\to 0$: a simpler model that\ncaptures the macroscopic response without resolving every microscopic feature. The\nmathematics quantifies *which* scales matter via **sharp scaling laws** and\n**convergence rates** (how fast the fine model approaches the effective one).\n\n### Level 2 — Master\nThe unifying tool is the rigorous **scaling limit**: identify the dominant balance\namong competing energy/time scales and derive a *scale-free* effective theory, with\nerror estimates. MM emphasises **balancing parameters** in multiscale numerical\nmethods so accuracy and cost are controlled simultaneously, including within\niterative optimisation loops. See concepts below for the two main mechanisms\n(homogenisation, optimal control). Reference:\n[Multiscale modeling](https://en.wikipedia.org/wiki/Multiscale_modeling).\n\n---"
+  },
+  {
+    "id": "concept:topic-09-concept-2",
+    "label": "Homogenisation",
+    "type": "concept",
+    "body": "![Homogenisation](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_c2aa5ea738e3dc3b07d51f18a9858fe1_topic9b-dsc_2957.jpg)\n\n### Level 0 — High school\nA finely striped material (alternating metal and plastic) behaves, overall, like a\nsingle new material with averaged properties. Homogenisation computes those average\nproperties from the fine pattern.\n\n### Level 1 — Bachelor\n**Homogenisation** replaces a PDE with rapidly oscillating coefficients\n$a(x/\\varepsilon)$ by an effective PDE with constant (homogenised) coefficients\n$a^{\\mathrm{hom}}$. Prototype: for\n$-\\nabla\\!\\cdot\\!\\big(a(x/\\varepsilon)\\nabla u_\\varepsilon\\big) = f$, the solutions\n$u_\\varepsilon \\to u_0$ where $u_0$ solves\n$-\\nabla\\!\\cdot\\!\\big(a^{\\mathrm{hom}}\\nabla u_0\\big)=f$. The effective coefficient\nis *not* the naive average — it is found by solving a **cell problem** on the unit\nperiod.\n\n### Level 2 — Master\nMM (Zeppieri, Mukherjee, Ohlberger, Rave) studies **nonlinear** and **stochastic**\nhomogenisation: convergence rates for systems of nonlinear elliptic PDEs in\n**randomly perforated domains** (overlapping perforations), and homogenisation of\nviscous **Hamilton–Jacobi–Bellman equations on continuum percolation clusters**\n(challenges: non-stationarity, non-ellipticity, no global Lipschitz bound),\nlinking to large deviations (Topic 8). Framework: [Γ-convergence](../GLOSSARY.md#gamma-convergence), two-scale\nconvergence, correctors. References:\n[Homogenization (mathematics)](https://en.wikipedia.org/wiki/Homogenization_(mathematics)),\n[Γ-convergence](https://en.wikipedia.org/wiki/%CE%93-convergence).\n\n---"
+  },
+  {
+    "id": "concept:topic-09-concept-3",
+    "label": "Optimal control and the curse of dimensionality",
+    "type": "concept",
+    "body": "### Level 0 — High school\nA pilot steering a rocket wants the *best* path — least fuel, fastest arrival. Find\nthe best control among infinitely many options. But when there are many knobs to\nturn at once, the number of possibilities explodes — the \"curse of dimensionality\".\n\n### Level 1 — Bachelor\n**Optimal control** seeks an input $u(t)$ minimising a cost\n$J(u)=\\int_0^T \\ell(x,u)\\,dt + g(x(T))$ subject to dynamics $\\dot x = f(x,u)$. The\n**value function** $V$ solves the **Hamilton–Jacobi–Bellman (HJB)** PDE\n$$\n\\partial_t V + \\min_{u}\\big\\{f(x,u)\\cdot\\nabla V + \\ell(x,u)\\big\\} = 0.\n$$\nIn dimension $d$ a naive grid has $N^d$ points — infeasible for large $d$ (the\n**curse of dimensionality**).\n\n### Level 2 — Master\nMM (Jentzen, Wirth, Simon) designs **approximation algorithms that provably\novercome the curse of dimensionality** for HJB / nonlinear parabolic PDEs (e.g.\nmultilevel Monte Carlo / nonlinear Monte Carlo with polynomial runtime in $d$), and\nstudies **PDE-constrained optimal design** where fine-scale (micro)structures emerge\nas optimisers (compliance minimisation, branched transport). References:\n[Hamilton–Jacobi–Bellman equation](https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi%E2%80%93Bellman_equation),\n[Overcoming the curse of dimensionality for semilinear parabolic PDEs, Proc. R. Soc. A 2020](https://doi.org/10.1098/rspa.2019.0630).\n\n---"
+  },
+  {
+    "id": "concept:topic-09-concept-4",
+    "label": "Model order reduction",
+    "type": "concept",
+    "body": "### Level 0 — High school\nIf you must re-run a slow, expensive simulation thousands of times (for different\nsettings), you first build a cheap \"mini-model\" that captures the essentials, then\nrun that instead. You trade a little accuracy for enormous speed.\n\n### Level 1 — Bachelor\n**Model order reduction (MOR)** approximates a high-dimensional parametrised system\nby a low-dimensional surrogate. The **reduced basis method** computes a few\nrepresentative solution \"snapshots\" $u(\\mu_1),\\dots,u(\\mu_n)$ for sample parameters\n$\\mu_i$, spanning a small space $V_n$, then solves the PDE projected onto $V_n$ for\nany new $\\mu$ — with rigorous, computable **a posteriori error bounds**.\n\n### Level 2 — Master\nMM (Ohlberger, Rave, Keil, Schindler) develops **localised / two-scale reduced\nbasis** and **localised orthogonal decomposition (LOD)** methods for multiscale\nPDEs, **trust-region RB** for PDE-constrained optimisation and parameter\nidentification, and certified surrogates that feed into Topic 10 (machine learning).\nKey issues: offline/online splitting, greedy basis generation, certified error\ncontrol. References:\n[Model order reduction](https://en.wikipedia.org/wiki/Model_order_reduction),\n[Relaxed localized trust-region RB, ESAIM:M2AN 2024](https://doi.org/10.1051/m2an/2023089).\n\n---"
+  },
+  {
+    "id": "concept:topic-09-concept-5",
+    "label": "Mixing, equilibration and kinetic equations",
+    "type": "concept",
+    "body": "![Mixing and equilibration](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_4a21404c4cf3acaa81cb9ccf8e17bbbe_topic9c-tafel-dsc_3005.jpg)\n\n### Level 0 — High school\nStir milk into coffee: streaks stretch and fold until the colour is uniform. How\nfast can stirring mix things, and how fast does a gas settle to equilibrium? These\nrates are what this unit pins down.\n\n### Level 1 — Bachelor\n**Mixing** measures how a flow homogenises a passive scalar; **enhanced\ndissipation** is the speed-up of diffusion caused by stirring. **Kinetic equations**\n(e.g. Boltzmann, Fokker–Planck) describe gases via a density $f(t,x,v)$ on\nposition–velocity space and relax toward Maxwellian equilibrium. A guiding question:\nthe maximal rate of mixing/equilibration achievable.\n\n### Level 2 — Master\nMM (Seis, Pirner, Engwer, Stevens) studies **optimal mixing rates** and enhanced\ndissipation for advection–diffusion, **hypocoercivity** and reaction–diffusion\nlimits for kinetic Fokker–Planck / BGK models for gas mixtures, and numerical\nmethods minimising artificial dissipation for transport and **conservation laws**\n(stabilised DG cut-cell schemes). References:\n[Kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases),\n[Bounds on the rate of enhanced dissipation, CMP 2023](https://doi.org/10.1007/s00220-022-04588-3).\n\n---\n\n**Further reading**\n- Pavliotis–Stuart, *Multiscale Methods: Averaging and Homogenization*\n- Hesthaven–Rozza–Stamm, *Certified Reduced Basis Methods for Parametrized PDEs*\n- Villani, *Hypocoercivity* (Memoirs AMS)"
+  },
+  {
+    "id": "concept:topic-10-concept-1",
+    "label": "Artificial neural networks",
+    "type": "concept",
+    "body": "![Training DNNs](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_52d9f1b955f3710174eec1997e66a0aa_topic10a-dsc_3040.jpg)\n\n### Level 0 — High school\nA neural network is a flexible mathematical \"function machine\": you feed it inputs,\nit produces outputs, and by adjusting many internal dials you can make it imitate\nalmost any pattern from examples. It is the engine behind modern AI.\n\n### Level 1 — Bachelor\nA **feedforward neural network** with $L$ layers is a composition of affine maps and\na nonlinear **activation** $\\sigma$ (e.g. ReLU $\\sigma(x)=\\max(x,0)$):\n$$\n\\Phi_\\theta(x) = A_L\\,\\sigma\\big(A_{L-1}\\,\\sigma(\\cdots \\sigma(A_1 x + b_1)\\cdots) + b_{L-1}\\big) + b_L,\n$$\nwith parameters $\\theta=(A_i,b_i)$. The **universal approximation theorem**: even\none hidden layer can approximate any continuous function on a compact set to\narbitrary accuracy (given enough width).\n\n### Level 2 — Master\nQuantitative theory asks about **expressivity vs. cost**: depth can yield\nexponential savings, and for certain high-dimensional PDE solution operators deep\nnetworks **overcome the curse of dimensionality** (approximation error and parameter\ncount grow only polynomially in $d$) — but MM (Grohs–Jentzen) also proves **lower\nbounds** showing shallow networks *cannot*. References:\n[Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network),\n[Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem),\n[ANNs overcome the curse of dimensionality for Black–Scholes PDEs, Memoirs AMS 2023](https://doi.org/10.1090/memo/1410).\n\n---"
+  },
+  {
+    "id": "concept:topic-10-concept-2",
+    "label": "Stochastic gradient descent (and its analysis)",
+    "type": "concept",
+    "body": "### Level 0 — High school\nTo train the network you tweak its dials to reduce its mistakes, step by step,\nalways heading \"downhill\" on an error landscape. To go fast you estimate the\ndownhill direction from a small random handful of examples each step. That is\nstochastic gradient descent.\n\n### Level 1 — Bachelor\nTraining minimises a **loss** $\\mathcal{L}(\\theta)=\\frac1N\\sum_{i=1}^N\n\\ell(\\Phi_\\theta(x_i),y_i)$. **Gradient descent** updates\n$\\theta_{k+1}=\\theta_k-\\eta\\,\\nabla\\mathcal{L}(\\theta_k)$. **Stochastic gradient\ndescent (SGD)** replaces the full gradient by an estimate from a random mini-batch\n$B_k$:\n$$\n\\theta_{k+1} = \\theta_k - \\eta_k\\,\\nabla_\\theta \\Big(\\tfrac1{|B_k|}\\sum_{i\\in B_k}\\ell(\\Phi_\\theta(x_i),y_i)\\Big).\n$$\nCheap per step, noisy, and widely successful — but its convergence is not obvious.\n\n### Level 2 — Master\nThe loss landscape is **non-convex**, with saddle points and many minima, so\nguaranteeing convergence (with rates) is a hard open problem. MM (Jentzen, Dereich,\nRiekert, Kassing) proves convergence/non-convergence results using **martingale\ntheory, Lyapunov functions, real algebraic geometry, and Łojasiewicz inequalities**:\nexistence of minimisers in (shallow residual) ReLU landscapes, escape from saddle\npoints, **convergence rates for Adam**, and—strikingly—**non-convergence of Adam/SGD\nto global minimisers** for non-vanishing learning rates. References:\n[Stochastic gradient descent](https://en.wikipedia.org/wiki/Stochastic_gradient_descent),\n[Convergence rates for the Adam optimizer, arXiv:2407.21078](https://arxiv.org/abs/2407.21078).\n\n---"
+  },
+  {
+    "id": "concept:topic-10-concept-3",
+    "label": "Deep learning methods for (S)PDEs",
+    "type": "concept",
+    "body": "![Learning methods for PDEs](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_da79c602bd383159508d0bbdaa19b0f7_topic10b-tafel-dsc_3111.jpg)\n\n### Level 0 — High school\nClassical methods solve a physics equation by chopping space into a fine grid —\nimpossible when there are too many dimensions. Instead, train a neural network to\n*be* the solution. The equation itself becomes the teacher.\n\n### Level 1 — Bachelor\nA network $\\Phi_\\theta(x,t)$ is trained so that it satisfies a PDE. In\n**physics-informed neural networks (PINNs)** the loss penalises the PDE residual and\nboundary/initial conditions:\n$$\n\\mathcal{L}(\\theta)=\\big\\|\\partial_t\\Phi_\\theta - \\mathcal{D}[\\Phi_\\theta]\\big\\|^2\n+ \\big\\|\\Phi_\\theta - g\\big\\|^2_{\\partial}.\n$$\nFor many high-dimensional parabolic PDEs there are stochastic (Feynman–Kac)\nreformulations that let networks learn the solution from simulated paths\n(**deep BSDE** methods).\n\n### Level 2 — Master\nMM (Jentzen, Ohlberger, Weber, Rave, Engwer) designs and *analyses* deep\napproximation schemes with **error estimates and certification**, including\nlow-regularity **[stochastic PDEs](../GLOSSARY.md#stochastic-pde)** via **[rough paths](../GLOSSARY.md#rough-paths) / regularity structures**\ncombined with ML (higher-order schemes), and **deep operator learning** (learning\nsolution operators $\\mathcal{G}:\\mu\\mapsto u_\\mu$ between function spaces). Emphasis:\nprovable accuracy, not just empirical performance. References:\n[Physics-informed neural networks](https://en.wikipedia.org/wiki/Physics-informed_neural_networks),\n[Overview on ML methods for PDEs (PINNs to operator learning), arXiv:2408.13222](https://arxiv.org/abs/2408.13222).\n\n---"
+  },
+  {
+    "id": "concept:topic-10-concept-4",
+    "label": "Surrogate models and multi-fidelity / certification",
+    "type": "concept",
+    "body": "![Surrogates for control & inverse problems](https://www.uni-muenster.de/imperia/md/images/MathematicsMuenster/research/fittosize_528_396_99ed9ec3c12e2168737088ba12a83531_topic10c-tafel-dsc_3129.jpg)\n\n### Level 0 — High school\nUse a fast rough estimator most of the time and an expensive accurate one only\noccasionally, then blend them so the final answer is both cheap *and* trustworthy.\nA \"certified\" surrogate even tells you how wrong it might be.\n\n### Level 1 — Bachelor\nA **surrogate model** $\\hat{u}\\approx u$ is a cheap stand-in for an expensive\nsimulation. A **multi-fidelity** method combines a few high-fidelity (accurate,\ncostly) evaluations with many low-fidelity (cheap, approximate) ones to reach a\ntarget accuracy at minimal total cost. **Certified** means equipped with a rigorous,\ncomputable error bound $\\|u-\\hat u\\|\\le \\Delta(\\mu)$.\n\n### Level 2 — Master\nMM (Ohlberger, Schindler, Kleikamp, Wirth, Jentzen) builds **hierarchical,\nadaptive RB–ML–ROM** surrogates: reduced-basis / model-order-reduction backbones\n(Topic 9) augmented by machine-learned (e.g. deep-kernel) components, with\n*a posteriori* certification, deployed for **PDE-constrained optimal control** and\n**inverse problems**. Prior knowledge enters as regularisation; cost-optimal\nmulti-fidelity frameworks balance the fidelities. References:\n[Surrogate model](https://en.wikipedia.org/wiki/Surrogate_model),\n[Certified hierarchical adaptive RB-ML-ROM surrogate, SIAM J. Sci. Comput. 2023](https://doi.org/10.1137/22M1493318).\n\n---"
+  },
+  {
+    "id": "concept:topic-10-concept-5",
+    "label": "Inverse problems",
+    "type": "concept",
+    "body": "### Level 0 — High school\nA CT scanner never sees inside you directly — it measures shadows and reconstructs\nthe interior. Working backwards from effects to hidden causes is an inverse problem,\nand small measurement errors can blow up, so it must be done carefully.\n\n### Level 1 — Bachelor\nA forward model $F$ maps unknown parameters $x$ to data $y=F(x)$. An **inverse\nproblem** recovers $x$ from noisy $y$. These are typically **ill-posed** (Hadamard):\nsolutions may not exist, be non-unique, or depend unstably on data. **Regularisation**\n(e.g. Tikhonov: minimise $\\|F(x)-y\\|^2 + \\alpha\\|x\\|^2$) restores stability.\n\n### Level 2 — Master\nMM integrates **data-driven and model-based** approaches: learning the forward\noperator or dynamics from data while encoding **prior knowledge as regularisation**,\nand using certified surrogates to make repeated forward solves (needed in iterative\ninversion / optimal control) affordable. This unifies Topics 9 and 10 around\nhigh-dimensional, PDE-constrained optimisation. References:\n[Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem),\n[Regularization (mathematics)](https://en.wikipedia.org/wiki/Regularization_(mathematics)).\n\n---\n\n**Further reading**\n- Jentzen–Kuckuck–von Wurstemberger, *Mathematical Introduction to Deep Learning* — [arXiv:2310.20360](https://arxiv.org/abs/2310.20360)\n- Goodfellow–Bengio–Courville, *Deep Learning* (MIT Press, free online)\n- Engl–Hanke–Neubauer, *Regularization of Inverse Problems*"
+  }
+]

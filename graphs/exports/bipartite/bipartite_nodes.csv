@@ -1,0 +1,239 @@
+id,label,side,type,description,x,y
+topic:topic-01,Topic 1: K-groups and Cohomology,left,topic,K-groups and Cohomology,0,0
+topic:topic-02,Topic 2: Moduli Spaces in Arithmetic and Geometry,left,topic,Moduli Spaces in Arithmetic and Geometry,0,100
+topic:topic-03,Topic 3: Models and Universes,left,topic,Models and Universes,0,200
+topic:topic-04,Topic 4: Groups and Actions,left,topic,Groups and Actions,0,300
+topic:topic-05,"Topic 5: Curvature, Shape and Global Analysis",left,topic,"Curvature, Shape and Global Analysis",0,400
+topic:topic-06,Topic 6: Singularities and Partial Differential Equations,left,topic,Singularities and Partial Differential Equations,0,500
+topic:topic-07,Topic 7: Field Theory and Randomness,left,topic,Field Theory and Randomness,0,600
+topic:topic-08,Topic 8: Random Discrete Structures and Their Limits,left,topic,Random Discrete Structures and Their Limits,0,700
+topic:topic-09,Topic 9: Multiscale Processes and Effective Behaviour,left,topic,Multiscale Processes and Effective Behaviour,0,800
+topic:topic-10,Topic 10: Deep Learning and Surrogate Methods,left,topic,Deep Learning and Surrogate Methods,0,900
+term:adeles,Adeles,right,term,"The adele ring $\mathbb{A}_K$ of a number field $K$ is the restricted product of all completions $K_v$ (archimedean and non-archimedean), encoding local-global arithmetic simultaneously. It is a locally compact topological ring central to modern numb…",-200,62.0
+term:algebraic-k-theory,Algebraic K-theory,right,term,"Algebraic K-theory assigns a sequence of abelian groups $K_n(R)$ to a ring $R$, generalising classical invariants such as the Grothendieck group $K_0$ and the Whitehead group $K_1$. It connects algebraic topology, number theory, and geometric topolog…",-200,-38.0
+term:amenable-group,Amenable group,right,term,"A locally compact group $G$ is amenable if it admits a left-invariant mean on $L^\infty(G)$, equivalently if it satisfies the Følner condition. Amenability governs fixed-point properties, operator-algebraic approximation, and the Baum–Connes conjectu…",-200,262.0
+term:assembly-map,Assembly map,right,term,The assembly map $\mu\colon K_*^G(\underline{E}G) \to K_*(C^*_r G)$ relates the equivariant K-homology of the classifying space for proper actions to the K-theory of the reduced group C*-algebra. It is the central object in the Baum–Connes and Farrel…,-200,-26.0
+term:atiyah-singer-index-theorem,Atiyah–Singer index theorem,right,term,"The Atiyah–Singer index theorem equates the analytical index of an elliptic differential operator $D$ on a compact manifold with a topological index computed from characteristic classes. It unifies the Gauss–Bonnet theorem, Hirzebruch signature theor…",-200,362.0
+term:borel-conjecture,Borel conjecture,right,term,The Borel conjecture states that two closed aspherical manifolds with isomorphic fundamental groups are homeomorphic. It follows from the Farrell–Jones conjecture and is an analogue of Mostow rigidity for non-positively curved manifolds.,-200,-14.0
+term:brownian-motion,Brownian motion,right,term,"Brownian motion $\{B_t\}_{t\ge 0}$ is the canonical continuous-path Gaussian process with independent stationary increments $B_t - B_s \sim \mathcal{N}(0,t-s)$. It underpins stochastic calculus, parabolic PDEs via the Feynman–Kac formula, and the con…",-200,562.0
+term:characteristic-class,Characteristic class,right,term,"Characteristic classes are cohomological invariants of vector bundles: Chern classes $c_i(E)\in H^{2i}(X;\mathbb{Z})$, Pontryagin classes $p_i(E)\in H^{4i}(X;\mathbb{Z})$, and the Euler class. They appear in the Atiyah–Singer index theorem and in the…",-200,374.0
+term:classifying-space,Classifying space,right,term,"The classifying space $BG$ of a topological group $G$ is the base of the universal principal $G$-bundle $EG \to BG$; homotopy classes of maps $X \to BG$ classify principal $G$-bundles over $X$. For discrete groups, $BG = K(G,1)$ is an Eilenberg–Mac L…",-200,-2.0
+term:cobordism,Cobordism,right,term,"Two closed $n$-manifolds $M$, $N$ are cobordant if there exists a compact $(n+1)$-manifold $W$ with $\partial W = M \sqcup N$. Cobordism rings, both oriented and unoriented, are computed by Thom's theorem and play a role in surgery theory and topolog…",-200,74.0
+term:coarse-geometry,Coarse geometry,right,term,"Coarse geometry studies metric spaces up to quasi-isometry and large-scale equivalence, ignoring local structure. The coarse Baum–Connes conjecture, formulated in this setting, implies injectivity of the assembly map for groups with finite asymptotic…",-200,274.0
+term:controlled-topology,Controlled topology,right,term,"Controlled topology studies maps and homotopies that are ""small"" with respect to a given control map to a metric space, providing a technical framework for surgery and h-cobordism theorems in the non-simply-connected setting. It underpins the proof o…",-200,10.0
+term:curvature,Curvature,right,term,"Curvature measures the deviation of a geometric object from being flat: sectional curvature $K(\sigma)$ for Riemannian manifolds, Ricci curvature $\mathrm{Ric}$, and scalar curvature $R = \mathrm{tr}(\mathrm{Ric})$. Sign conditions on curvature contr…",-200,86.0
+term:deligne-mumford-stack,Deligne–Mumford stack,right,term,"A Deligne–Mumford stack is an algebraic stack whose diagonal is representable and unramified, generalising schemes to allow finite automorphism groups at each point. The moduli stack $\overline{\mathcal{M}}_{g,n}$ of stable $n$-pointed genus-$g$ curv…",-200,98.0
+term:derived-category,Derived category,right,term,"The derived category $D(\mathcal{A})$ of an abelian category $\mathcal{A}$ is obtained by formally inverting quasi-isomorphisms in the category of chain complexes. It provides the natural setting for derived functors, sheaf cohomology, and Fourier–Mu…",-200,110.0
+term:elliptic-operator,Elliptic operator,right,term,"A linear partial differential operator $P$ of order $m$ is elliptic if its principal symbol $\sigma_m(P)(x,\xi)$ is invertible for all $\xi \neq 0$. Elliptic operators on compact manifolds have finite-dimensional kernels and cokernels, making the ind…",-200,386.0
+term:ergodic-theory,Ergodic theory,right,term,Ergodic theory studies measure-preserving dynamical systems and the statistical behaviour of orbits. The ergodic theorem of Birkhoff asserts that time averages equal space averages for ergodic systems; connections to operator algebras arise via the v…,-200,162.0
+term:farrell-jones-conjecture,Farrell–Jones conjecture,right,term,The Farrell–Jones conjecture asserts that the assembly map $H_*^G(\mathcal{E}_{\mathcal{VC}}G; \mathbf{K}_R) \to K_*(RG)$ (and its L-theory analogue) is an isomorphism for every group $G$ and every ring $R$. It implies the Borel and Novikov conjectur…,-200,22.0
+term:gamma-convergence,Γ-convergence,right,term,$\Gamma$-convergence is a notion of variational convergence for functionals $F_\varepsilon \colon X \to \overline{\mathbb{R}}$ such that minimisers of $F_\varepsilon$ converge to minimisers of the $\Gamma$-limit $F$. It is the standard tool for deriv…,-200,762.0
+term:geometric-group-theory,Geometric group theory,right,term,"Geometric group theory studies groups via their actions on metric spaces, treating a finitely generated group $G$ as a metric space via the word metric on a Cayley graph. Key themes include quasi-isometry invariants, hyperbolic groups, and CAT(0) cub…",-200,286.0
+term:grove-programme,Grove programme,right,term,"The Grove programme seeks to classify Riemannian manifolds satisfying geometric bounds (lower curvature, upper diameter) up to diffeomorphism or homeomorphism. It uses comparison geometry, Alexandrov spaces, and equivariant techniques.",-200,398.0
+term:haagerup-property,Haagerup property,right,term,A locally compact group $G$ has the Haagerup property (a-T-menability) if it admits a metrically proper continuous action by affine isometries on a Hilbert space. Groups with this property satisfy the Baum–Connes conjecture with coefficients; example…,-200,298.0
+term:homogenisation,Homogenisation,right,term,"Homogenisation is the process of deriving effective macroscopic equations from rapidly oscillating heterogeneous media, replacing $-\nabla\cdot(A(x/\varepsilon)\nabla u_\varepsilon)=f$ with an effective equation $-\nabla\cdot(A^*\nabla u)=f$ as $\var…",-200,662.0
+term:hyperbolic-group,Hyperbolic group,right,term,A finitely generated group $G$ is hyperbolic in the sense of Gromov if its Cayley graph is a $\delta$-hyperbolic metric space: every geodesic triangle is $\delta$-slim. Hyperbolic groups have solvable word and conjugacy problems and satisfy the Baum–…,-200,34.0
+term:index-theory,Index theory,right,term,"Index theory computes the Fredholm index $\mathrm{ind}(D) = \dim\ker D - \dim\ker D^*$ of an elliptic operator $D$ in terms of topological data. The Atiyah–Singer index theorem, its equivariant and families versions, and the coarse index are central …",-200,410.0
+term:k-theory,K-theory,right,term,"K-theory assigns abelian groups to rings, spaces, or C*-algebras measuring vector bundles or projective modules. Topological K-theory $K^*(X)$ and algebraic K-theory $K_*(R)$ are connected by the Atiyah–Hirzebruch spectral sequence and are central to…",-200,122.0
+term:l-theory,L-theory,right,term,"Algebraic L-theory $L_*(R)$ is the quadratic form analogue of algebraic K-theory, built from quadratic modules over a ring with involution $R$. It classifies surgery obstructions for manifolds and appears in the L-theory assembly map of the Farrell–J…",-200,46.0
+term:langlands-programme,Langlands programme,right,term,The Langlands programme is a web of far-reaching conjectures relating automorphic representations of reductive groups over number fields or function fields to Galois representations (and more generally to motives). The geometric Langlands programme r…,-200,134.0
+term:mapping-class-group,Mapping class group,right,term,"The mapping class group $\mathrm{Mod}(S)$ of a surface $S$ is the group of isotopy classes of orientation-preserving homeomorphisms $S \to S$. It acts properly discontinuously on Teichmüller space, with quotient the moduli space $\mathcal{M}_g$; it h…",-200,146.0
+term:minimal-surface,Minimal surface,right,term,"A minimal surface is a surface of vanishing mean curvature, equivalently a critical point of the area functional. Classical examples include the catenoid and helicoid; existence and regularity are studied via the Plateau problem, geometric measure th…",-200,462.0
+term:moduli-space,Moduli space,right,term,"A moduli space parameterises a class of geometric objects up to isomorphism; for example, $\mathcal{M}_g$ parameterises compact Riemann surfaces of genus $g$ and $\mathcal{M}_{g,n}$ adds $n$ marked points. Moduli spaces are studied via deformation th…",-200,158.0
+term:multiscale-phenomena,Multiscale phenomena,right,term,"Multiscale phenomena involve coupled dynamics or geometry across widely separated length or time scales, requiring methods that bridge micro and macro descriptions. Mathematical tools include homogenisation, renormalisation group analysis, and hetero…",-200,774.0
+term:non-commutative-geometry,Non-commutative geometry,right,term,"Connes's non-commutative geometry replaces a classical space by the spectral data of a Dirac-type operator on a Hilbert space module over a (possibly non-commutative) C*-algebra, recovering geometric invariants via cyclic cohomology and the local ind…",-200,574.0
+term:novikov-conjecture,Novikov conjecture,right,term,"The Novikov conjecture asserts that higher signatures $\langle \mathcal{L}(M)\cup f^*\alpha,[M]\rangle$ are homotopy invariants of closed oriented manifolds, for any cohomology class $\alpha \in H^*(B\pi_1(M);\mathbb{Q})$. It follows from the rationa…",-200,58.0
+term:operator-algebra,Operator algebra,right,term,"An operator algebra is an algebra of bounded (or unbounded) linear operators on a Hilbert space, closed in some operator topology. The two main classes are C*-algebras (norm-closed) and von Neumann algebras (weakly closed); they are central to quantu…",-200,310.0
+term:p-adic-numbers,$p$-adic numbers,right,term,"The field $\mathbb{Q}_p$ of $p$-adic numbers is the completion of $\mathbb{Q}$ with respect to the $p$-adic absolute value $|x|_p = p^{-v_p(x)}$, where $v_p$ is the $p$-adic valuation. The $p$-adic integers $\mathbb{Z}_p$ form a compact open subgroup…",-200,322.0
+term:quantum-field-theory,Quantum field theory,right,term,"A quantum field theory (QFT) assigns operator-valued distributions (fields) to spacetime, with dynamics governed by a Lagrangian; correlation functions are the primary observables. Rigorous mathematical formulations include Wightman axioms, Haag–Kast…",-200,586.0
+term:regularity-theory,Regularity theory,right,term,"Regularity theory in PDEs studies how much smoothness solutions inherit from the data and the operator. Schauder estimates give $C^{k,\alpha}$ regularity for elliptic equations with Hölder coefficients; De Giorgi–Nash–Moser theory gives $C^{0,\alpha}…",-200,474.0
+term:riemannian-geometry,Riemannian geometry,right,term,"Riemannian geometry studies smooth manifolds equipped with a positive-definite inner product $g_p$ on each tangent space, varying smoothly in $p$. It provides the notions of length, angle, geodesic, curvature, and volume that underpin general relativ…",-200,422.0
+term:rough-paths,Rough paths,right,term,"Rough path theory, due to Lyons, provides a deterministic framework for integrating and solving differential equations driven by irregular signals (paths of Hölder regularity $\alpha < 1/2$) by enhancing the path with its iterated integrals (the sign…",-200,862.0
+term:scalar-curvature,Scalar curvature,right,term,"The scalar curvature $R = g^{ij}R_{ij}$ is the trace of the Ricci tensor, the simplest local curvature invariant of a Riemannian manifold. Positive scalar curvature obstructs certain topologies (Gromov–Lawson–Rosenberg conjecture) and is studied via …",-200,170.0
+term:shimura-variety,Shimura variety,right,term,"A Shimura variety is a complex algebraic variety $\mathrm{Sh}(G,X) = G(\mathbb{Q})\backslash X \times G(\mathbb{A}_f)/K$ defined by a reductive group $G$ over $\mathbb{Q}$ and a Hermitian symmetric domain $X$. Shimura varieties serve as moduli spaces…",-200,182.0
+term:sobolev-space,Sobolev space,right,term,"The Sobolev space $W^{k,p}(\Omega)$ consists of $L^p(\Omega)$ functions whose distributional derivatives up to order $k$ also lie in $L^p(\Omega)$, with norm $\|u\|_{W^{k,p}} = \sum_{|\alpha|\le k}\|D^\alpha u\|_p$. Sobolev embedding theorems control…",-200,486.0
+term:stable-infinity-category,Stable ∞-category,right,term,"A stable $\infty$-category is an $\infty$-category with a zero object in which a square is a pushout if and only if it is a pullback, making the suspension functor $\Sigma$ an equivalence. The $\infty$-derived category and the $\infty$-category of sp…",-200,70.0
+term:stochastic-pde,Stochastic PDE,right,term,"A stochastic PDE (SPDE) is a partial differential equation driven by a random noise term, typically space-time white noise. Hairer's theory of regularity structures and Gubinelli–Imkeller–Perkowski's paracontrolled distributions provide rigorous solu…",-200,498.0
+term:surgery-theory,Surgery theory,right,term,"Surgery theory classifies manifolds by cutting out embedded spheres and re-gluing to change topology, guided by the surgery obstruction in Wall's L-groups. Combined with the s-cobordism theorem, it gives a complete classification of simply-connected …",-200,82.0
+term:teichmuller-space,Teichmüller space,right,term,"The Teichmüller space $\mathcal{T}_g$ parameterises marked hyperbolic metrics (equivalently, complex structures) on a genus-$g$ surface up to isotopy. It carries the Teichmüller metric (Finsler) and the Weil–Petersson metric (Kähler), and the mapping…",-200,194.0
+term:topological-k-theory,Topological K-theory,right,term,Topological K-theory $K^0(X)$ is the Grothendieck group of (virtual) complex vector bundles on a compact Hausdorff space $X$; together with $K^1(X)$ it forms a generalised cohomology theory by Bott periodicity $K^n(X)\cong K^{n+2}(X)$. It is connecte…,-200,94.0
+term:torsion,Torsion,right,term,Algebraic torsion refers to elements $x$ in an abelian group with $nx=0$ for some $n>0$; Whitehead torsion $\tau(f)\in Wh(\pi_1)$ is an obstruction to a homotopy equivalence of CW complexes being a simple homotopy equivalence. Reidemeister torsion is…,-200,106.0
+term:trace-map,Trace map,right,term,"Trace maps — including the Dennis trace $K_*(R)\to HH_*(R)$, the cyclotomic trace $K_*(R)\to TC_*(R)$, and the Chern character — relate algebraic K-theory to more computable invariants (Hochschild homology, topological cyclic homology). They are key …",-200,118.0
+term:unitary-representation,Unitary representation,right,term,A unitary representation of a group $G$ is a continuous group homomorphism $\pi\colon G \to U(\mathcal{H})$ for some Hilbert space $\mathcal{H}$. The unitary dual $\hat G$ classifies irreducible unitary representations; its structure governs harmonic…,-200,334.0
+term:waldhausen-k-theory,Waldhausen K-theory,right,term,"Waldhausen's algebraic K-theory $A(X)$ of a space $X$ is defined via the K-theory of the Waldhausen category of finite retractive spaces over $X$, with $A(*) \simeq K(\mathbb{Z})$ at a point. It appears in the stable parametrised h-cobordism theorem …",-200,206.0
+term:white-noise,White noise,right,term,White noise is a generalised stochastic process $\xi$ formally satisfying $\mathbb{E}[\xi(x)\xi(y)] = \delta(x-y)$; rigorously it is a random tempered distribution. Space-time white noise drives SPDEs such as the stochastic heat equation; its regular…,-200,510.0
+term:whitehead-group,Whitehead group,right,term,The Whitehead group $Wh(G) = K_1(\mathbb{Z}[G])/\{\pm g : g\in G\}$ measures the obstruction to a homotopy equivalence of finite CW complexes being a simple homotopy equivalence (Whitehead torsion). The Farrell–Jones conjecture implies $Wh(G) = 0$ fo…,-200,130.0
+term:z-stability,$\mathcal{Z}$-stability,right,term,"A separable unital C*-algebra $A$ is $\mathcal{Z}$-stable if $A \cong A \otimes \mathcal{Z}$, where $\mathcal{Z}$ is the Jiang–Su algebra. $\mathcal{Z}$-stability is a regularity condition that, combined with finite nuclear dimension, implies classif…",-200,142.0
+concept:topic-01-concept-1,Cohomology,right,concept,"Imagine you want to tell shapes apart without touching them: a ball, a doughnut,
+a pretzel. A doughnut has **one hole**, a pretzel has **two**. Cohomology is a
+careful way of *counting holes of different kinds* (gaps you can loop a string
+around, hol…",200,-33.333333333333336
+concept:topic-01-concept-2,K-theory (algebraic and topological),right,concept,"Think of all the ways you can lay down arrows (little vectors) smoothly over a
+shape — for example combing the hair on a ball. Some arrangements can be undone
+to nothing, others are ""stuck"". K-theory bundles up all these arrangements and
+turns them i…",200,-16.666666666666668
+concept:topic-01-concept-3,The Farrell–Jones conjecture,right,concept,"Some mathematical objects attached to a group are very hard to compute directly.
+This conjecture says: you can always build the hard global answer out of easy
+local pieces — namely the small, simple subgroups. Like reconstructing a whole
+mosaic if yo…",200,0.0
+concept:topic-01-concept-4,The Borel conjecture and topological rigidity,right,concept,"If two rubbery shapes have the *same kind of fundamental loops*, are they really
+the same shape? For a special well-behaved family the answer is conjectured to be
+yes — they cannot be secretly different.",200,16.666666666666668
+concept:topic-01-concept-5,C\*-algebras and their classification,right,concept,"Quantum physics needs a number system where multiplication order matters
+($`a\times b \ne b\times a`$). C\*-algebras are such systems of ""operators"".
+K-theory gives each one a fingerprint; mathematicians want to prove that the
+fingerprint alone tells…",200,33.333333333333336
+concept:topic-02-concept-1,Moduli space,right,concept,"Instead of studying one triangle, imagine a ""map of all triangles"", where each
+point of the map stands for one possible triangle shape. Walking across the map
+continuously morphs one triangle into another. A **moduli space** is exactly such
+a ""map of…",200,66.66666666666666
+concept:topic-02-concept-2,The Langlands programme,right,concept,"There are two very different worlds in mathematics: one about whole numbers and
+equations, another about waves and symmetry. The Langlands programme is a giant
+dictionary claiming these two worlds secretly say the same things — a ""Rosetta
+Stone"" of m…",200,83.33333333333333
+concept:topic-02-concept-3,Compactification and stratification,right,concept,"A map of all shapes often has ""edges"" where shapes degenerate (a circle pinching
+to a figure-eight). To study the map fully you add those boundary cases, like
+adding the horizon to a landscape so nothing runs off the edge.",200,100.0
+concept:topic-02-concept-4,Cohomological invariants and intersection theory,right,concept,"Once you have your map of shapes, you can ask geometric questions about the map
+itself: how many curves pass through given points? Counting such things cleverly
+reveals hidden patterns and even connects to physics.",200,116.66666666666667
+concept:topic-02-concept-5,Diffeomorphism groups and spaces of metrics,right,concept,"Take a rubber shape; all the ways of smoothly stretching it without tearing form
+their own ""space of stretches"". And all the ways of measuring distances on it
+(its possible geometries) form yet another space. Studying these spaces tells us
+which shap…",200,133.33333333333334
+concept:topic-03-concept-1,Model theory and first-order structures,right,concept,"A ""rule book"" (axioms) can be obeyed by different ""worlds"". For example ""every
+element has an opposite"" is obeyed by the integers and by many other systems.
+Model theory studies all the worlds that obey a given rule book, and what they
+must have in c…",200,166.66666666666666
+concept:topic-03-concept-2,Homogeneous structures and Fraïssé limits,right,concept,"Some objects look ""the same from everywhere"" — like an infinite perfectly regular
+network where every point has an identical view. You can build such an object by
+gluing together all its small finite pieces in the most generic way.",200,183.33333333333334
+concept:topic-03-concept-3,Universes of set theory and forcing,right,concept,"All of mathematics can be built from ""sets"". But there is not just one possible
+universe of sets — there are many, and some questions (like exactly how many real
+numbers there are) get *different answers* in different universes. Set theorists
+build a…",200,200.0
+concept:topic-03-concept-4,Large cardinals,right,concept,"Infinity comes in many sizes. ""Large cardinals"" are sizes of infinity so vast
+that their mere existence cannot be proved from the usual rules — yet assuming
+them settles many otherwise-undecidable questions far below.",200,216.66666666666666
+concept:topic-03-concept-5,The Axiom of Determinacy,right,concept,"Imagine an infinite game where two players alternately pick numbers forever. One
+of them is declared the winner by some rule. Determinacy says: in such games one
+side always has a guaranteed winning strategy. Surprisingly, whether this holds
+depends …",200,233.33333333333334
+concept:topic-04-concept-1,Groups and group actions,right,concept,"A **group** is the mathematics of symmetry: the collection of all moves that leave
+something looking the same (rotating a square by 90°, flipping it). A group
+**acts** on an object when each of its moves rearranges that object. Studying the
+moves tel…",200,266.6666666666667
+concept:topic-04-concept-2,"C\*-algebras, crossed products and Cartan subalgebras",right,concept,"When a symmetry group acts on a space, you can package the whole ""space + symmetry""
+into a single algebraic object (a crossed product). Inside it sometimes hides a
+simpler, well-organised ""coordinate grid"" called a Cartan subalgebra, which makes
+the …",200,283.3333333333333
+concept:topic-04-concept-3,Amenability and property (T),right,concept,"Some groups are ""easygoing"" (you can average over them in a consistent way) and
+some are ""rigid"" (they resist small deformations and approximations). These two
+extremes behave very differently and lead to very different geometry.",200,300.0
+concept:topic-04-concept-4,Entropy and orbit equivalence,right,concept,"Take a system that evolves by repeating a symmetry over and over. ""Entropy""
+measures how unpredictable or complex this evolution is. Two systems can look
+different but secretly be re-labellings of each other — that is orbit equivalence.",200,316.6666666666667
+concept:topic-04-concept-5,"Algebraic groups, Lie groups and Bruhat–Tits buildings",right,concept,"Beyond finite symmetry there are *continuous* symmetries — like all rotations of a
+sphere, which form a smooth, flowing family. These richer symmetry objects come
+with their own geometric ""skeletons"" that help us understand them.",200,333.3333333333333
+concept:topic-05-concept-1,Riemannian manifolds,right,concept,"The surface of the Earth is curved: triangles drawn on it have angles adding to
+*more* than 180°. A **Riemannian manifold** is any smooth curved space — of any
+dimension — where we can still measure lengths and angles, hence distances and
+""straightes…",200,366.6666666666667
+concept:topic-05-concept-2,Curvature and topological obstructions,right,concept,"The amount and sign of curvature limits what shapes are possible. You cannot comb a
+hairy ball flat, and you cannot wrap a sphere onto a doughnut without distortion —
+curvature ""knows"" the global shape.",200,383.3333333333333
+concept:topic-05-concept-3,Ricci flow and geometric flows,right,concept,"Imagine a lumpy ball of dough that automatically smooths itself out, the bumps
+flowing away until it becomes a perfect sphere. **Ricci flow** is an equation that
+makes a curved space evolve and smooth its curvature over time — the tool Perelman
+used …",200,400.0
+concept:topic-05-concept-4,Geodesics and infinite-dimensional shape spaces,right,concept,"The shortest flight path between two cities curves across the globe — that is a
+geodesic. Now imagine a ""space"" whose points are entire *shapes* (say, all possible
+outlines of a hand). A geodesic there is the most efficient way to morph one shape
+int…",200,416.6666666666667
+concept:topic-05-concept-5,Index theory and scalar curvature,right,concept,"There is a deep bridge between *analysis* (solving equations on a shape) and
+*topology* (the shape's holes). Counting the solutions of a special equation
+secretly counts holes — and this forbids certain shapes from being curved a
+certain way.",200,433.3333333333333
+concept:topic-06-concept-1,Partial differential equations (PDEs),right,concept,"Most laws of nature say how things *change*: how heat spreads, how waves travel,
+how planets pull. A PDE is an equation that relates these rates of change across
+space and time. Solving it predicts the future from the present.",200,466.6666666666667
+concept:topic-06-concept-2,Singularities,right,concept,"Sometimes a smooth process suddenly breaks down: a wave crests and shatters, a
+droplet pinches off, gravity collapses matter into a black hole. These breakdown
+points are **singularities** — and they are usually the most interesting and
+hardest part …",200,483.3333333333333
+concept:topic-06-concept-3,Einstein manifolds and general relativity,right,concept,"Einstein discovered that gravity *is* the curving of spacetime by mass. The
+equation governing this is one of the most important PDEs in physics, and the
+shapes (geometries) it allows include black holes.",200,500.0
+concept:topic-06-concept-4,Black hole stability (the Kerr problem),right,concept,"If you ""poke"" a spinning black hole, does it wobble and settle back down, or fall
+apart? Physically we expect it to settle — but proving this from the equations is
+one of the great open challenges of mathematical physics.",200,516.6666666666666
+concept:topic-06-concept-5,Regularity theory and singular stochastic PDEs,right,concept,"""Regularity"" asks how smooth a solution is. When you add random noise everywhere
+(like static), solutions become so jagged that the equation barely makes sense.
+New mathematics was invented to give these noisy equations a precise meaning.",200,533.3333333333334
+concept:topic-07-concept-1,Quantum field theory (QFT),right,concept,"At the smallest scales, particles are ripples in invisible ""fields"" filling all of
+space. Quantum field theory is the rulebook for these ripples — it powers the
+Standard Model of particle physics. But making its mathematics fully rigorous is a
+millio…",200,566.6666666666666
+concept:topic-07-concept-2,Stochastic quantisation,right,concept,"Instead of building a field ""all at once"", let it wiggle randomly over time like a
+jittering elastic sheet until it settles into a stable random pattern. That
+equilibrium pattern *is* the quantum field. Randomness becomes a construction tool.",200,583.3333333333334
+concept:topic-07-concept-3,Non-commutative geometry and the Moyal space,right,concept,"Normally $3\times 5 = 5\times 3$. But in quantum mechanics, measuring position then
+momentum differs from the reverse order. ""Non-commutative spaces"" build geometry
+out of such order-sensitive coordinates — a geometry where $xy \ne yx$.",200,600.0
+concept:topic-07-concept-4,Free probability and topological recursion,right,concept,"Ordinary probability adds independent random numbers (giving the bell curve). When
+the ""random numbers"" are huge matrices that don't commute, a new kind of
+probability is needed — and counting the shapes (surfaces) that appear organises
+the answers i…",200,616.6666666666666
+concept:topic-07-concept-5,"Disorder, scaling limits and the polaron",right,concept,"A single electron dragging a cloud of distortion through a crystal behaves like a
+heavier ""dressed"" particle — a polaron. Zoom out from many small random effects and
+clean, universal behaviour emerges. Studying these limits links physics and
+probabil…",200,633.3333333333334
+concept:topic-08-concept-1,Random graphs,right,concept,"Draw some dots and connect each pair by flipping a coin. The result is a random
+network — a toy model of a friendship network or the web. Surprisingly, as you add
+dots, a giant connected cluster appears almost suddenly once links are frequent
+enough.",200,666.6666666666666
+concept:topic-08-concept-2,Percolation and phase transitions,right,concept,"Imagine randomly opening or blocking the tiny channels in a porous rock. Below a
+critical fraction of open channels, water cannot cross; above it, it suddenly can.
+That sharp switch is a phase transition — the same idea as water freezing.",200,683.3333333333334
+concept:topic-08-concept-3,Random tessellations and polytopes (stochastic geometry),right,concept,"Scatter points at random, then give each point the territory closest to it — you get
+a random patchwork of cells, like cracked mud or a giraffe's coat. Mathematicians
+measure the typical shapes, areas and number of sides of these random tiles.",200,700.0
+concept:topic-08-concept-4,Interacting particle systems and scaling limits,right,concept,"Many simple agents following local random rules — cars on a road, particles hopping
+on a line — together produce complex large-scale patterns. Zooming out turns the
+jiggling crowd into a smooth flowing equation.",200,716.6666666666666
+concept:topic-08-concept-5,"Fluctuations, disorder and universality",right,concept,"Add many independent random things and you almost always get the same bell-shaped
+curve — no matter the details. This ""universality"" is why averages are predictable.
+Researchers hunt for which random systems share such universal large-scale laws.",200,733.3333333333334
+concept:topic-09-concept-1,Multiple scales and effective models,right,concept,"A sponge looks solid from far away but is full of tiny holes up close. To predict
+how it soaks up water you don't track every pore — you find an ""effective"" rule for
+the whole sponge. Multiscale maths is the art of jumping from tiny details to
+big-pi…",200,766.6666666666666
+concept:topic-09-concept-2,Homogenisation,right,concept,"A finely striped material (alternating metal and plastic) behaves, overall, like a
+single new material with averaged properties. Homogenisation computes those average
+properties from the fine pattern.",200,783.3333333333334
+concept:topic-09-concept-3,Optimal control and the curse of dimensionality,right,concept,"A pilot steering a rocket wants the *best* path — least fuel, fastest arrival. Find
+the best control among infinitely many options. But when there are many knobs to
+turn at once, the number of possibilities explodes — the ""curse of dimensionality"".",200,800.0
+concept:topic-09-concept-4,Model order reduction,right,concept,"If you must re-run a slow, expensive simulation thousands of times (for different
+settings), you first build a cheap ""mini-model"" that captures the essentials, then
+run that instead. You trade a little accuracy for enormous speed.",200,816.6666666666666
+concept:topic-09-concept-5,"Mixing, equilibration and kinetic equations",right,concept,"Stir milk into coffee: streaks stretch and fold until the colour is uniform. How
+fast can stirring mix things, and how fast does a gas settle to equilibrium? These
+rates are what this unit pins down.",200,833.3333333333334
+concept:topic-10-concept-1,Artificial neural networks,right,concept,"A neural network is a flexible mathematical ""function machine"": you feed it inputs,
+it produces outputs, and by adjusting many internal dials you can make it imitate
+almost any pattern from examples. It is the engine behind modern AI.",200,866.6666666666666
+concept:topic-10-concept-2,Stochastic gradient descent (and its analysis),right,concept,"To train the network you tweak its dials to reduce its mistakes, step by step,
+always heading ""downhill"" on an error landscape. To go fast you estimate the
+downhill direction from a small random handful of examples each step. That is
+stochastic gradi…",200,883.3333333333334
+concept:topic-10-concept-3,Deep learning methods for (S)PDEs,right,concept,"Classical methods solve a physics equation by chopping space into a fine grid —
+impossible when there are too many dimensions. Instead, train a neural network to
+*be* the solution. The equation itself becomes the teacher.",200,900.0
+concept:topic-10-concept-4,Surrogate models and multi-fidelity / certification,right,concept,"Use a fast rough estimator most of the time and an expensive accurate one only
+occasionally, then blend them so the final answer is both cheap *and* trustworthy.
+A ""certified"" surrogate even tells you how wrong it might be.",200,916.6666666666666
+concept:topic-10-concept-5,Inverse problems,right,concept,"A CT scanner never sees inside you directly — it measures shadows and reconstructs
+the interior. Working backwards from effects to hidden causes is an inverse problem,
+and small measurement errors can blow up, so it must be done carefully.",200,933.3333333333334
