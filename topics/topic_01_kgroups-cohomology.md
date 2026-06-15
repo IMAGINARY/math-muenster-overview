@@ -170,7 +170,7 @@ directly into the manifold classification. See
 
 ### Level 0 — High school
 Quantum physics needs a number system where multiplication order matters
-($a\times b \ne b\times a$). C\*-algebras are such systems of "operators".
+($`a\times b \ne b\times a`$). C\*-algebras are such systems of "operators".
 K-theory gives each one a fingerprint; mathematicians want to prove that the
 fingerprint alone tells them apart.
 

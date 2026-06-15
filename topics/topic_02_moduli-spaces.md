@@ -73,7 +73,7 @@ The programme predicts a correspondence between
 - **automorphic representations**: certain infinite-dimensional representations of
   groups like $GL_n(\mathbb{A})$ over the adeles, generalising modular forms.
 
-The simplest nontrivial case ($n=1$) is class field theory; $n=2$ over
+The simplest nontrivial case ($`n=1`$) is class field theory; $n=2$ over
 $\mathbb{Q}$ includes the modularity behind Fermat's Last Theorem (Wiles).
 
 ### Level 2 — Master

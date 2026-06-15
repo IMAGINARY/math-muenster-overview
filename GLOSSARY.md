@@ -87,7 +87,7 @@ A C*-algebra is a Banach algebra $A$ with an involution $*$ satisfying the C*-id
 
 <a id="calderon-zygmund-theory"></a>
 **Calderón–Zygmund theory**
-Calderón–Zygmund theory provides $L^p$ boundedness ($1 < p < \infty$) and weak-type $(1,1)$ estimates for singular integral operators of the form $Tf(x) = \int K(x,y)f(y)\,dy$ with kernel satisfying size and smoothness conditions. It is the backbone of modern harmonic analysis and elliptic PDE regularity.
+Calderón–Zygmund theory provides $L^p$ boundedness ($`1 < p < \infty`$) and weak-type $(1,1)$ estimates for singular integral operators of the form $Tf(x) = \int K(x,y)f(y)\,dy$ with kernel satisfying size and smoothness conditions. It is the backbone of modern harmonic analysis and elliptic PDE regularity.
 [Wikipedia](https://en.wikipedia.org/wiki/Calder%C3%B3n%E2%80%93Zygmund_lemma) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Calder%C3%B3n-Zygmund_theorem)
 
 <a id="cap-product"></a>
@@ -272,7 +272,7 @@ A locally compact group $G$ has the Haagerup property (a-T-menability) if it adm
 
 <a id="hardy-space"></a>
 **Hardy space**
-The Hardy space $H^p$ ($0 < p < \infty$) on the upper half-plane or disk consists of holomorphic functions whose $L^p$ means over horizontal lines (or circles) are uniformly bounded. Real Hardy spaces $H^p(\mathbb{R}^n)$ for $p \le 1$ replace $L^p$ as the natural domain for singular integrals when $p=1$.
+The Hardy space $H^p$ ($`0 < p < \infty`$) on the upper half-plane or disk consists of holomorphic functions whose $L^p$ means over horizontal lines (or circles) are uniformly bounded. Real Hardy spaces $H^p(\mathbb{R}^n)$ for $p \le 1$ replace $L^p$ as the natural domain for singular integrals when $p=1$.
 [Wikipedia](https://en.wikipedia.org/wiki/Hardy_space) · [Encyclopedia of Math](https://encyclopediaofmath.org/wiki/Hardy_spaces)
 
 <a id="harmonic-analysis"></a>
