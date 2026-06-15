@@ -20,6 +20,10 @@ This repository contains research materials produced for an IMAGINARY exhibition
 
 - **[graphs/](graphs/README.md)** — Knowledge graphs encoding the relationships between objectives, topics, concepts, and terms. Includes a full graph and a bipartite graph, with exports for [Kumu.io](https://kumu.io) and [Cosmograph](https://cosmograph.app), plus Python build scripts.
 
+- **[connections/](connections/)** — Relation tables extracted from the cluster's research programme subpages.
+  - [topics-to-mathematical-fields.md](connections/topics-to-mathematical-fields.md) — Which mathematical fields each topic spans.
+  - [topics-to-topics.md](connections/topics-to-topics.md) — Collaboration links between topic groups.
+
 - **topics/** — Detailed companion files to EXPLORATION.md. Each file covers one topic group, explaining its core concepts at three levels: Level 0 (high school), Level 1 (undergraduate), Level 2 (master's).
 
   | # | Topic group | Objective | File |
