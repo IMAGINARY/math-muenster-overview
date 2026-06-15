@@ -20,22 +20,22 @@ undergraduate who has seen basic algebra, analysis, topology, and probability.
 
 **Key concepts**
 
-- **[Cohomology theory](../GLOSSARY.md#characteristic-class)** — A machine that assigns algebraic objects (groups) to a
+- **[Cohomology theory](GLOSSARY.md#characteristic-class)** — A machine that assigns algebraic objects (groups) to a
   space, measuring "holes" of different dimensions. If two spaces have different
   cohomology, they cannot be the same shape. Think of it as a refined version of
   counting connected components, loops, voids, etc.
-- **[K-theory](../GLOSSARY.md#k-theory)** — A special, powerful cohomology theory. Instead of counting
+- **[K-theory](GLOSSARY.md#k-theory)** — A special, powerful cohomology theory. Instead of counting
   holes, it organises information about **vector bundles** (families of vector
   spaces attached continuously to each point of a space) or about projective
   modules over a ring. It packages this into groups called **K-groups**.
-- **[Farrell–Jones conjecture](../GLOSSARY.md#farrell-jones-conjecture)** — A deep prediction that the K-theory of a group
+- **[Farrell–Jones conjecture](GLOSSARY.md#farrell-jones-conjecture)** — A deep prediction that the K-theory of a group
   can be computed from simpler pieces (its finite and virtually-cyclic
   subgroups). Proving new cases gives leverage on many other problems.
-- **[Borel conjecture](../GLOSSARY.md#borel-conjecture) (topological rigidity)** — Claims that certain "nice"
+- **[Borel conjecture](GLOSSARY.md#borel-conjecture) (topological rigidity)** — Claims that certain "nice"
   manifolds (aspherical ones) are completely determined by their fundamental
   group: if two such manifolds have the same fundamental group, they are
   actually the same up to continuous deformation (homeomorphic).
-- **[C\*-algebra](../GLOSSARY.md#c-algebra) classification** — Using K-theory as a fingerprint to tell
+- **[C\*-algebra](GLOSSARY.md#c-algebra) classification** — Using K-theory as a fingerprint to tell
   infinite-dimensional algebras of operators apart.
 
 **Plain explanation.** This group builds and computes algebraic "fingerprints"
@@ -51,13 +51,13 @@ and to classify operator algebras.
 
 **Key concepts**
 
-- **[Moduli space](../GLOSSARY.md#moduli-space)** — A space whose *points are themselves mathematical objects*.
+- **[Moduli space](GLOSSARY.md#moduli-space)** — A space whose *points are themselves mathematical objects*.
   For example, one point might be "an elliptic curve" or "a Riemann surface";
   moving around the moduli space deforms the object. It lets you study a whole
   family at once and ask geometric questions about the family.
-- **[Langlands programme](../GLOSSARY.md#langlands-programme)** — A vast web of conjectures linking number theory
+- **[Langlands programme](GLOSSARY.md#langlands-programme)** — A vast web of conjectures linking number theory
   (solutions of equations, symmetries of numbers / Galois groups) with analysis
-  and representation theory ([automorphic forms](../GLOSSARY.md#automorphic-form)). Often called a "grand unified
+  and representation theory ([automorphic forms](GLOSSARY.md#automorphic-form)). Often called a "grand unified
   theory" of mathematics.
 - **Representation (of a group)** — A way of writing abstract group elements as
   matrices, turning symmetry into linear algebra you can compute with.
@@ -101,7 +101,7 @@ infinity assumptions — probing the boundaries of what mathematics can decide.
 - **Group action** — A group acting as symmetries of a space (each group element
   moves the space around in a structure-preserving way). The way a group acts
   reveals properties of both the group and the space.
-- **[C\*-algebra](../GLOSSARY.md#c-algebra)** — An algebra of operators on a Hilbert space, closed under a
+- **[C\*-algebra](GLOSSARY.md#c-algebra)** — An algebra of operators on a Hilbert space, closed under a
   conjugation/adjoint operation and complete in a norm. These are the natural
   language of quantum mechanics and a meeting point of algebra and analysis.
 - **Cartan subalgebra** — A well-behaved commutative "coordinate system" sitting
@@ -125,9 +125,9 @@ subalgebras) that allow a full classification.
 
 **Key concepts**
 
-- **[Riemannian manifold](../GLOSSARY.md#riemannian-geometry)** — A smooth curved space equipped with a notion of
+- **[Riemannian manifold](GLOSSARY.md#riemannian-geometry)** — A smooth curved space equipped with a notion of
   distance and angle at every point (a generalised surface in any dimension).
-- **[Curvature](../GLOSSARY.md#curvature)** — A local measurement of how a space bends (positive like a
+- **[Curvature](GLOSSARY.md#curvature)** — A local measurement of how a space bends (positive like a
   sphere, zero like a flat plane, negative like a saddle).
 - **Local vs. global** — How local curvature forces global shape: the central
   theme of "global analysis". E.g. constant positive curvature forces the space
@@ -136,7 +136,7 @@ subalgebras) that allow a full classification.
   that governs gravity in general relativity.
 - **Isometry group / symmetry** — Transformations preserving distances; assuming
   symmetry simplifies classification, and the goal is to remove those
-  assumptions step by step (the **[Grove programme](../GLOSSARY.md#grove-programme)**).
+  assumptions step by step (the **[Grove programme](GLOSSARY.md#grove-programme)**).
 
 **Plain explanation.** They ask: how much does *local* bending control the
 *overall* shape of a space? They aim to classify highly curved or Einstein
@@ -172,17 +172,17 @@ black holes are stable under disturbance.
 
 **Key concepts**
 
-- **[Quantum field theory (QFT)](../GLOSSARY.md#quantum-field-theory)** — The framework describing particles and forces
+- **[Quantum field theory (QFT)](GLOSSARY.md#quantum-field-theory)** — The framework describing particles and forces
   as excitations of fields; making it mathematically rigorous is a famous
   challenge.
 - **Stochastic analysis** — Calculus for random functions, e.g. the random,
-  jagged paths of [Brownian motion](../GLOSSARY.md#brownian-motion).
+  jagged paths of [Brownian motion](GLOSSARY.md#brownian-motion).
 - **Stochastic quantisation** — A technique that builds a quantum field theory as
   the long-time equilibrium of a random (noise-driven) evolution.
 - **Free probability** — A "non-commutative" probability theory where random
   variables are operators that don't commute (order of multiplication matters),
   ideal for large random matrices.
-- **[Non-commutative space](../GLOSSARY.md#non-commutative-geometry)** — A space described by an algebra where `ab ≠ ba`,
+- **[Non-commutative space](GLOSSARY.md#non-commutative-geometry)** — A space described by an algebra where `ab ≠ ba`,
   generalising ordinary geometry the way quantum mechanics generalises classical
   mechanics.
 - **Critical vs. sub-critical dimension** — The dimension where a theory is
@@ -226,9 +226,9 @@ very large.
 
 **Key concepts**
 
-- **[Multiscale phenomena](../GLOSSARY.md#multiscale-phenomena)** — Systems where tiny-scale details (molecules, fine
+- **[Multiscale phenomena](GLOSSARY.md#multiscale-phenomena)** — Systems where tiny-scale details (molecules, fine
   material structure) affect large-scale behaviour (bulk properties).
-- **Effective / [homogenised model](../GLOSSARY.md#homogenisation)** — A simplified equation that captures the
+- **Effective / [homogenised model](GLOSSARY.md#homogenisation)** — A simplified equation that captures the
   large-scale behaviour without tracking every small detail; "averaging out" the
   fine scale.
 - **Scaling limit** — The mathematically rigorous passage from the detailed model
