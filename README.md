@@ -20,6 +20,8 @@ This repository contains research materials produced for an IMAGINARY exhibition
 
 - **[graphs/](graphs/README.md)** — Knowledge graphs encoding the relationships between objectives, topics, concepts, and terms. Includes a full graph and a bipartite graph, with exports for [Kumu.io](https://kumu.io) and [Cosmograph](https://cosmograph.app), plus Python build scripts.
 
+- **[tagcloud/](tagcloud/README.md)** — Tag cloud of important mathematical terms extracted from this repository and the MM publication lists (T1–T10 subpages). Includes an [interactive browser visualisation](tagcloud/exports/tagcloud.html), two CSV exports (`text,weight`) in masked and independent counting modes, and a rebuild script.
+
 - **[connections/](connections/)** — Relation tables extracted from the cluster's research programme subpages.
   - [topics-to-mathematical-fields.md](connections/topics-to-mathematical-fields.md) — Which mathematical fields each topic spans.
   - [topics-to-topics.md](connections/topics-to-topics.md) — Collaboration links between topic groups.

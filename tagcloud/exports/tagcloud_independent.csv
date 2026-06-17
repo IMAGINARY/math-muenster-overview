@@ -1,0 +1,327 @@
+text,weight
+"partial differential equation",258
+"cohomology",213
+"manifold",182
+"K-theory",157
+"artificial neural network",146
+"curvature",128
+"model order reduction",118
+"moduli space",86
+"C*-algebra",58
+"Langlands programme",57
+"machine learning",46
+"Einstein manifold",43
+"percolation",41
+"homogenisation",41
+"operator algebra",40
+"geodesic",39
+"quantum field theory",35
+"scalar curvature",33
+"regularity structure",32
+"Phi^4 equation",32
+"Lie group",32
+"surrogate method",31
+"random graph",30
+"G-shtuka",30
+"amenable group",29
+"error estimation",28
+"stochastic gradient descent",27
+"inverse problem",27
+"crossed product",26
+"large cardinal",25
+"Riemannian manifold",23
+"random tessellation",22
+"convergence rate",22
+"cardinal",22
+"positive scalar curvature",21
+"axiom of determinacy",21
+"optimal control",20
+"model theory",20
+"cobordism",20
+"deep learning",19
+"topological recursion",18
+"stochastic analysis",18
+"multiscale modelling",17
+"Kontsevich model",17
+"group action",17
+"curse of dimensionality",17
+"compactification",17
+"ReLU activation function",16
+"entropy",16
+"Schubert cell",15
+"Hamilton-Jacobi-Bellman equation",15
+"étale cohomology",15
+"sharply 2-transitive group",14
+"Ricci flow",14
+"kinetic equation",14
+"differential geometry",14
+"algebraic group",14
+"Adam optimizer",14
+"stratification",13
+"random polytope",13
+"motivic cohomology",13
+"locally compact group",13
+"index theory",13
+"Hecke algebra",13
+"reductive group",12
+"numerical methods",12
+"orbit equivalence",11
+"NIP field",11
+"interacting particle system",11
+"forcing axiom",11
+"diffeomorphism group",11
+"derived category",11
+"automorphism group",11
+"wave equation",10
+"toric geometry",10
+"Riemannian shape space",10
+"henselian field",10
+"Haagerup property",10
+"fundamental group",10
+"free probability theory",10
+"stochastic quantisation",9
+"Shimura variety",9
+"Riemannian spline",9
+"polytope",9
+"phase transition",9
+"parabolic Anderson model",9
+"geometric invariant theory",9
+"Galois representation",9
+"Fraïssé limit",9
+"Dirac operator",9
+"torus",8
+"Strebel differential",8
+"stochastic differential equation",8
+"Roe algebra",8
+"random walk",8
+"matroid",8
+"mapping class group",8
+"large deviation principle",8
+"integrability",8
+"inner model theory",8
+"gravitational instanton",8
+"Grassmannian",8
+"classifying space",8
+"Borel conjecture",8
+"vector bundle",7
+"topological space",7
+"Riemannian metric",7
+"randomly perforated domain",7
+"Poincaré duality",7
+"physics-informed neural network",7
+"Morley rank",7
+"lattice",7
+"KK-theory",7
+"Ising-Kac model",7
+"groupoid",7
+"Euler equations",7
+"enhanced dissipation",7
+"deep operator learning",7
+"characteristic class",7
+"Z-stability",6
+"tubular neighborhood",6
+"torus symmetry",6
+"Teichmüller theory",6
+"surgery theory",6
+"stochastic geometry",6
+"stable infinity-category",6
+"spectral sequence",6
+"sheaf",6
+"Schur multiplier",6
+"prismatic cohomology",6
+"Moyal space",6
+"motivic Chern class",6
+"Monte Carlo method",6
+"minimal hypersurface",6
+"mean curvature",6
+"Kerr black hole",6
+"intersection theory",6
+"harmonic analysis",6
+"geometric group theory",6
+"general relativity",6
+"fluid dynamics",6
+"ergodic theory",6
+"Ehrhart theory",6
+"cusp form",6
+"Chern-Schwartz-MacPherson class",6
+"ALE space",6
+"zeta function",5
+"stationary point process",5
+"sofic group",5
+"random polynomial",5
+"positive mass theorem",5
+"number theory",5
+"nonstationary ideal",5
+"noncommutative geometry",5
+"motive",5
+"Martin's Maximum",5
+"KPZ equation",5
+"invariant measure",5
+"geometric analysis",5
+"Gaussian multiplicative chaos",5
+"crystalline cohomology",5
+"combinatorics",5
+"arithmetic group",5
+"abelian group",5
+"WASEP",4
+"von Neumann algebra",4
+"Verma module",4
+"vanishing theorem",4
+"transport equation",4
+"stochastic block model",4
+"spin structure",4
+"sparse reconstruction",4
+"shape manifold",4
+"scaling law",4
+"saddle point",4
+"probability theory",4
+"p-adic eigenform",4
+"Newton stratum",4
+"moment map",4
+"martingale",4
+"Lyapunov function",4
+"Lorentzian geometry",4
+"localized orthogonal decomposition",4
+"local minimizer",4
+"hypocoercivity",4
+"hyperuniformity",4
+"hyperbolic group",4
+"exact sequence",4
+"Euler-Maclaurin formula",4
+"Einstein equations",4
+"dynamical system",4
+"conservation law",4
+"CAT(0) cube complex",4
+"Calabi-Yau manifold",4
+"Boltzmann equation",4
+"black hole stability",4
+"Witten conjecture",3
+"Witt vector",3
+"vortex sheet",3
+"training of neural networks",3
+"symplectic group",3
+"stochastic porous medium equation",3
+"statistical mechanics",3
+"sectional curvature",3
+"Schwarzschild black hole",3
+"random walk in random environment",3
+"pseudofinite group",3
+"percolation on groups",3
+"optimal transport",3
+"nuclear dimension",3
+"measure theory",3
+"Lie algebra",3
+"learning rate",3
+"landscape analysis",3
+"Kähler manifold",3
+"Ising model",3
+"Hodge theory",3
+"Grothendieck group",3
+"gradient flow",3
+"Fröhlich polaron",3
+"Farrell-Jones conjecture",3
+"cup product",3
+"coarse geometry",3
+"backward stochastic differential equation",3
+"B-dR Grassmannian",3
+"Woodin's axiom",2
+"Wasserstein distance",2
+"tautological class",2
+"stochastic heat equation",2
+"stable fields conjecture",2
+"scissors automorphism group",2
+"rough path theory",2
+"real algebraic geometry",2
+"reaction-diffusion equation",2
+"quasimorphism",2
+"property Gamma",2
+"positive scalar curvature cobordism category",2
+"Poisson process",2
+"paracontrolled calculus",2
+"Ornstein theory",2
+"optimal stopping",2
+"Mumford conjecture",2
+"modular form",2
+"McKendrick model",2
+"magnetic skyrmion",2
+"Lojasiewicz condition",2
+"log-gas free energy",2
+"local system",2
+"Landau-Pekar-Spohn conjecture",2
+"Keller-Segel system",2
+"inner amenability",2
+"Grothendieck-Witt group",2
+"graph complex",2
+"functional analysis",2
+"free-discontinuity problem",2
+"free group",2
+"Fontaine-Wintenberger theorem",2
+"finite element method",2
+"financial derivative pricing",2
+"feature engineering",2
+"diamond",2
+"DG cut cell method",2
+"descriptive set theory",2
+"definable valuation",2
+"CW complex",2
+"Curie-Weiss model",2
+"cross-diffusion system",2
+"compliance minimisation",2
+"Catalan numbers",2
+"Cartier module",2
+"Burnside problem",2
+"Bruhat-Tits building",2
+"branched transport",2
+"beta distribution",2
+"Bernoulli action",2
+"Benamou-Brenier formula",2
+"Ax-Kochen-Ershov principle",2
+"autoencoder",2
+"Arkhipov-Bezrukavnikov equivalence",2
+"algebraic variety",2
+"adic space",2
+"Zakai equation",1
+"Yang-Mills problem",1
+"ultrafilter",1
+"thin film equation",1
+"symplectic manifold",1
+"Sylvester problem",1
+"strong completeness",1
+"Stein factorization",1
+"specific entropy",1
+"simplicial complex",1
+"Rayleigh-Taylor instability",1
+"property T",1
+"probability measure",1
+"p-adic Corlette-Simpson correspondence",1
+"optimal matching problem",1
+"multi-fidelity modelling",1
+"Mullins-Sekerka equation",1
+"moduli space of curves",1
+"line bundle",1
+"Lee-Yang zeros",1
+"Kolmogorov PDE",1
+"K3 surface",1
+"Ito formula",1
+"infinite-dimensional metric measure space",1
+"hyperbolic space",1
+"homological stability",1
+"Holley-Stroock uniqueness method",1
+"higher rho-invariant",1
+"Harder-Narasimhan stratification",1
+"handlebody group",1
+"Gysin map",1
+"Grove symmetry program",1
+"Galois group",1
+"fractional Brownian motion",1
+"Fokker-Planck equation",1
+"enhanced oil recovery",1
+"elliptic curve",1
+"cyclotomic spectrum",1
+"Coulomb energy",1
+"convex body",1
+"concentration inequality",1
+"Casselman's problem",1
+"Black-Scholes PDE",1
+"algebraicity conjecture",1
+"algebraic cycle",1

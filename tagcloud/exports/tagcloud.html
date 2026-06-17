@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mathematics Münster — Tag Cloud</title>
+  <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0d1117;
+      color: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      padding: 2rem 1rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
+
+    header h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      color: #e6edf3;
+    }
+
+    header p {
+      margin-top: 0.4rem;
+      font-size: 0.85rem;
+      color: #8b949e;
+    }
+
+    #controls {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-bottom: 1.25rem;
+    }
+
+    #controls label {
+      font-size: 0.82rem;
+      color: #8b949e;
+    }
+
+    #controls select,
+    #controls input[type=range] {
+      accent-color: #58a6ff;
+      cursor: pointer;
+    }
+
+    #controls select {
+      background: #161b22;
+      border: 1px solid #30363d;
+      color: #e6edf3;
+      border-radius: 6px;
+      padding: 0.25rem 0.5rem;
+      font-size: 0.82rem;
+    }
+
+    #canvas-wrap {
+      position: relative;
+      width: min(900px, 100vw - 2rem);
+      aspect-ratio: 16/9;
+      background: #161b22;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.5);
+    }
+
+    canvas {
+      display: block;
+      width: 100% !important;
+      height: 100% !important;
+    }
+
+    #tooltip {
+      position: fixed;
+      pointer-events: none;
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 6px;
+      padding: 0.35rem 0.65rem;
+      font-size: 0.8rem;
+      color: #f3f4f6;
+      white-space: nowrap;
+      opacity: 0;
+      transition: opacity 0.15s;
+      z-index: 100;
+    }
+
+    footer {
+      margin-top: 1.25rem;
+      font-size: 0.75rem;
+      color: #484f58;
+      text-align: center;
+    }
+
+    footer a { color: #58a6ff; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Mathematics Münster — Mathematical Terms</h1>
+  <p>Tag cloud of key terms across the MM research programme and publications (2019–2026)</p>
+</header>
+
+<div id="controls">
+  <label>
+    Counting mode:
+    <select id="modeSelect">
+      <option value="masked" selected>Masked (no double-count)</option>
+      <option value="independent">Independent (all aliases)</option>
+    </select>
+  </label>
+  <label>
+    Scale:
+    <input type="range" id="scaleRange" min="1" max="8" step="0.5" value="4">
+    <span id="scaleVal">4×</span>
+  </label>
+  <label>
+    Min weight:
+    <input type="range" id="minRange" min="1" max="30" step="1" value="2">
+    <span id="minVal">≥ 2</span>
+  </label>
+</div>
+
+<div id="canvas-wrap">
+  <canvas id="canvas"></canvas>
+</div>
+
+<div id="tooltip"></div>
+
+<footer>
+  Weights: occurrence frequency in repo markdown + 10 MM subpages &nbsp;·&nbsp;
+  Powered by <a href="https://github.com/timdream/wordcloud2.js" target="_blank">wordcloud2.js</a> &nbsp;·&nbsp;
+  <a href="tagcloud_wordcloud2.json" target="_blank">JSON data</a>
+</footer>
+
+<script>
+// ── Data ──────────────────────────────────────────────────────────────────────
+// Loaded from sibling JSON files via fetch; falls back to inline stub if
+// running from file:// (open via a local server for full data).
+
+const COLORS = [
+  "#58a6ff","#3fb950","#f78166","#d2a8ff","#ffa657",
+  "#79c0ff","#56d364","#ff7b72","#bc8cff","#e3b341",
+  "#1f6feb","#238636","#da3633","#8957e5","#9e6a03",
+];
+
+let dataMasked = [];
+let dataIndep  = [];
+
+async function loadData() {
+  async function fetchCSV(path) {
+    const res = await fetch(path);
+    if (!res.ok) throw new Error(path);
+    const text = await res.text();
+    return text.trim().split("\n").slice(1).map(line => {
+      const m = line.match(/^"?(.+?)"?,(\d+)$/);
+      return m ? [m[1], parseInt(m[2], 10)] : null;
+    }).filter(Boolean);
+  }
+  [dataMasked, dataIndep] = await Promise.all([
+    fetchCSV("tagcloud_masked.csv"),
+    fetchCSV("tagcloud_independent.csv"),
+  ]);
+}
+
+// ── Rendering ─────────────────────────────────────────────────────────────────
+const canvas = document.getElementById("canvas");
+const wrap   = document.getElementById("canvas-wrap");
+const tooltip = document.getElementById("tooltip");
+
+function currentData() {
+  return document.getElementById("modeSelect").value === "masked" ? dataMasked : dataIndep;
+}
+
+function getScale() { return parseFloat(document.getElementById("scaleRange").value); }
+function getMin()   { return parseInt(document.getElementById("minRange").value, 10); }
+
+function render() {
+  const scale   = getScale();
+  const minW    = getMin();
+  const list    = currentData().filter(([, w]) => w >= minW);
+  const maxW    = Math.max(...list.map(([, w]) => w));
+
+  // Physical pixel size of canvas
+  const W = wrap.clientWidth;
+  const H = wrap.clientHeight;
+  canvas.width  = W;
+  canvas.height = H;
+
+  WordCloud(canvas, {
+    list,
+    gridSize:        Math.round(6 * W / 900),
+    weightFactor:    n => Math.pow(n / maxW, 0.55) * scale * W / 60,
+    fontFamily:      "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+    color:           (word, weight, fontSize, distance, theta) =>
+                       COLORS[Math.floor(Math.random() * COLORS.length)],
+    rotateRatio:     0.25,
+    rotationSteps:   2,
+    backgroundColor: "#161b22",
+    click: (item) => {
+      if (item) window.open(
+        `https://www.uni-muenster.de/MathematicsMuenster/research/programme/index.shtml`,
+        "_blank"
+      );
+    },
+    hover: (item, dimension, event) => {
+      if (item) {
+        tooltip.textContent = `${item[0]}  —  weight: ${item[1]}`;
+        tooltip.style.left  = (event.clientX + 14) + "px";
+        tooltip.style.top   = (event.clientY - 28) + "px";
+        tooltip.style.opacity = "1";
+        canvas.style.cursor = "pointer";
+      } else {
+        tooltip.style.opacity = "0";
+        canvas.style.cursor = "default";
+      }
+    },
+  });
+}
+
+// ── Controls ──────────────────────────────────────────────────────────────────
+document.getElementById("scaleRange").addEventListener("input", function () {
+  document.getElementById("scaleVal").textContent = this.value + "×";
+  render();
+});
+document.getElementById("minRange").addEventListener("input", function () {
+  document.getElementById("minVal").textContent = "≥ " + this.value;
+  render();
+});
+document.getElementById("modeSelect").addEventListener("change", render);
+
+// Redraw on resize
+let resizeTimer;
+window.addEventListener("resize", () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(render, 200);
+});
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
+loadData().then(render).catch(err => {
+  // If fetch fails (file:// origin), show message
+  const ctx = canvas.getContext("2d");
+  canvas.width  = wrap.clientWidth;
+  canvas.height = wrap.clientHeight;
+  ctx.fillStyle = "#8b949e";
+  ctx.font = "14px sans-serif";
+  ctx.textAlign = "center";
+  ctx.fillText(
+    "Serve this directory over HTTP to load the CSV data.",
+    canvas.width / 2, canvas.height / 2
+  );
+  console.warn("Data load failed:", err);
+});
+</script>
+</body>
+</html>

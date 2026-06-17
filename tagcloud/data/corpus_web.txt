@@ -1,0 +1,497 @@
+T1: K-groups and cohomology
+
+K-groups and cohomology groups are important invariants in different areas of mathematics, from arithmetic geometry to algebraic and geometric topology to operator algebras. The idea is to associate algebraic invariants to geometric objects, for example to schemes or stacks, C*-algebras, stable infinity-categories or topological spaces. Originating as tools to differentiate topological spaces, these groups have since been generalised to address complex questions in different areas. Cohomology theories such as étale, crystalline and prismatic are crucial in the structural study of schemes and the Langlands programme, while K-theory provides insights into algebraic structures and intersection theory but is also used in algebraic and geometric topology through applications in the study of manifolds and the classification of nuclear C*-algebras.
+
+Mathematical fields: Arithmetic geometry and representation theory, Topology, Operator algebras and mathematical physics
+
+Collaborations with other topics: T2 Moduli spaces in arithmetic and geometry, T3 Models and universes, T4 Groups and actions, T5 Curvature shape and global analysis
+
+Selected publications and preprints since 2019:
+On the codimension-two cohomology of SL_n(Z)
+Dynamical systems for arithmetic schemes
+An alternative to spherical Witt vectors
+On the K-theory of Z/p^n
+L-theory of C*-algebras
+Prismatic cohomology relative to delta-rings
+Diffeomorphisms of odd-dimensional discs, glued into a manifold
+Recipes to compute the algebraic K-theory of Hecke algebras of reductive p-adic groups
+Inheritance properties of the Farrell-Jones conjecture for totally disconnected groups
+Algebraic K-theory of reductive p-adic groups
+On the derived category of the Iwahori-Hecke algebra
+Category of C-motives over finite fields
+Some rational homology computations for diffeomorphisms of odd-dimensional manifolds
+Cartier modules and cyclotomic spectra
+Hermitian K-theory for stable infinity-categories III: Grothendieck-Witt groups of rings
+
+Recent publications and preprints since 2023:
+Weighted Ehrhart theory via equivariant toric geometry
+Hermitian K-theory for stable infinity-categories II: Cobordism categories and additivity
+Around a class version of the Hodge index theorem for singular varieties
+Equivariant toric geometry and Euler-Maclaurin formulae
+Top-degree rational cohomology in the symplectic group of a number ring
+Weighted Ehrhart theory via mixed Hodge modules on toric varieties
+Weight 2 cohomology of graph complexes of cyclic operads and the handlebody group
+A new generic vanishing theorem on homogeneous varieties and the positivity conjecture for triple intersections of Schubert cells
+On the top-dimensional cohomology of arithmetic Chevalley groups
+The Common Basis Complex and the Partial Decomposition Poset
+Scissors automorphism groups and their homology
+Fibrations and coset spaces for locally compact groups
+Apartment Classes of Integral Symplectic Groups
+Half-integral levels
+Prismatic cohomology relative to delta-rings
+Topological gysin coherence for algebraic characteristic classes of singular spaces
+Uniformizing the moduli stacks of global G-shtukas II
+Simplicial bounded cohomology and stability
+Local systems on diamonds and p-adic vector bundles
+A presentation of symplectic Steinberg modules and cohomology of Sp_2n(Z)
+Almost equivariant maps for td-groups
+Generalized homomorphisms and KK with extra structure
+Tubular neighborhoods of local models
+Tautological classes and higher signatures
+Motivic Chern classes of Schubert cells, Hecke algebras, and applications to Casselman's problem
+From motivic Chern classes of Schubert cells to their Hirzebruch and CSM classes
+Some rational homology computations for diffeomorphisms of odd-dimensional manifolds
+Median quasimorphisms on CAT(0) cube complexes and their cup products
+On the algebraic K-theory of Hecke algebras
+Partial bases and homological stability of GL_n(R) revisited
+Maps between spherical group rings
+On the K-theory of Z/p^n
+Non-Vanishing of high-dimensional group cohomology
+Generalized homomorphisms and KK with extra structure
+Tubular neighborhoods of local models
+On the proalgebraic fundamental group of topological spaces and amalgamated products of affine group schemes
+Normal and irreducible adic spaces, the openness of finite morphisms, and a Stein factorization
+The p-adic Corlette-Simpson correspondence for abeloids
+Extensions of toric line bundles
+
+Research units:
+Cohomology theories in arithmetic geometry: étale cohomology, crystalline cohomology, prismatic cohomology, topological periodic homology, Shimura varieties, Langlands programme, zeta functions, Deninger programme
+Algebraic K-theory and stable infinity-categories: algebraic K-theory, stable infinity-categories, rings, schemes, algebraic topology, geometric topology, Langlands programme, homotopy theory
+Topological K-theory and group cohomology: topological K-theory, operator algebras, group cohomology, arithmetic groups
+T2: Moduli spaces in arithmetic and geometry
+
+The term moduli space was coined by Riemann for the space parametrizing all one-dimensional complex manifolds of genus g. In algebraic geometry, constructed using geometric invariant theory and has a well-studied compactification introduced by Deligne and Mumford. Through Teichmuller theory, these spaces are seen as objects of differential geometry, leading to useful cell decompositions and stratifications for computing intersection numbers, with interpretations in quantum field theory. Mumford conjecture. Classifying space of the diffeomorphism group of a surface.
+
+Moduli spaces in arithmetic geometry: Shimura varieties, moduli spaces of shtukas, Langlands correspondences. Diffeomorphism groups of high-dimensional manifolds and moduli spaces of manifolds and of metrics of positive scalar curvature. Moduli spaces of stable curves and of Strebel differentials.
+
+Mathematical fields: Arithmetic geometry and representation theory, Topology, Operator algebras and mathematical physics, Differential geometry
+
+Selected publications since 2019:
+On the homotopy type of the space of metrics of positive scalar curvature
+Patching and multiplicities of p-adic eigenforms
+On Newton strata in the B+_dR-Grassmannian
+Shadows of characteristic cycles, Verma modules, and positivity of Chern-Schwartz-MacPherson classes of Schubert cells
+Gaitsgory central functor and the Arkhipov-Bezrukavnikov equivalence in mixed characteristic
+Uniformizing the moduli stacks of global G-shtukas II
+An algebraic approach to a quartic analogue of the Kontsevich model
+Spectral decomposition of genuine cusp forms over global function fields
+An introduction to the categorical p-adic Langlands program
+The positive scalar curvature cobordism category
+Blobbed topological recursion of the quartic Kontsevich model I: Loop equations and conjectures
+Uniformizing the moduli stacks of global G-shtukas
+A local model for the trianguline variety and applications
+The Farrell-Jones conjecture for mapping class groups
+
+Recent publications since 2023:
+Weighted Ehrhart theory via equivariant toric geometry
+Around a class version of the Hodge index theorem for singular varieties
+Equivariant toric geometry and Euler-Maclaurin formulae
+A new generic vanishing theorem on homogeneous varieties and the positivity conjecture for triple intersections of Schubert cells
+On the normality of Schubert varieties: remaining cases in positive characteristic
+On the homotopy type of the space of metrics of positive scalar curvature
+Patching and multiplicities of p-adic eigenforms
+Tubular neighborhoods of local models
+From motivic Chern classes of Schubert cells to their Hirzebruch and CSM classes
+On Newton strata in the B+_dR-Grassmannian
+Shadows of characteristic cycles, Verma modules, and positivity of Chern-Schwartz-MacPherson classes of Schubert cells
+Gaitsgory central functor and the Arkhipov-Bezrukavnikov equivalence in mixed characteristic
+Uniformizing the moduli stacks of global G-shtukas II
+Quantum parameters of the geometric Langlands theory
+An algebraic approach to a quartic analogue of the Kontsevich model
+A Harder-Narasimhan stratification of the B+_dR-Grassmannian
+Spectral decomposition of genuine cusp forms over global function fields
+Grassmanniennes affines tordues sur les entiers
+
+Research units:
+Construction and existence: Shimura varieties, moduli spaces of local and global G-shtukas, deformation spaces of Galois representations, Langlands programme
+Compactification and stratifications: compactifications of moduli spaces, boundaries, singularities, Galois representations, stratifications, arithmetic geometry, topology, mathematical physics
+Invariants and cohomology: cohomological invariants, homotopy, intersection theory, derived category of sheaves, Langlands program, positive scalar curvature, Riemannian metrics, topological recursion, Kontsevich, Witten conjecture
+T3: Models and universes
+
+This topic focusses on model theory and its applications in group theory and algebraic geometry, as well as on inner model theory and forcing axioms. Central to our research on model theory are the classification of groups or fields under model-theoretic assumptions. The interplay of the axiom of determinacy with large cardinal hypotheses and strong hypotheses which settle prominent combinatorial statements is studied in our research on set theory.
+
+Mathematical fields: Arithmetic geometry and representation theory, Operator algebras and mathematical physics
+
+Selected publications since 2019:
+Beyond the Fontaine-Wintenberger theorem
+Characterizing NIP henselian fields
+Dynamical alternating groups, stability, property Gamma, and inner amenability
+Henselian expansions of NIP fields
+Classifiability of crossed products by nonamenable groups
+Martin's Maximum++ implies Woodin's axiom
+Building-like geometries of finite Morley rank
+Sharply 2-transitive groups of characteristic 0
+Automorphism groups of countable structures and groups of measurable functions
+
+Recent publications since 2023:
+Extensive embeddings into Fraisse structures and stationary weak independence relations
+Embeddings into the random poset
+Beyond the Fontaine-Wintenberger theorem
+The projective Fraisse limit of the family of all connected finite graphs with confluent epimorphisms
+The Common Basis Complex and the Partial Decomposition Poset
+Non-Vanishing of high-dimensional group cohomology
+Projective Fraisse limits and generalized Wazewski dendrites
+Omega-categorical pseudofinite groups
+Characterizing NIP henselian fields
+Projective Fraisse limits of trees with confluent epimorphisms
+PFA and the definability of the nonstationary ideal
+On the model theory of open generalized polygons
+Dynamical alternating groups, stability, property Gamma, and inner amenability
+Defining R and G(R)
+Definable valuations on ordered fields
+Forcing axioms and definability of the nonstationary ideal on omega-1
+Ax-Kochen-Ershov principles for finitely ramified henselian fields
+Henselian expansions of NIP fields
+The Burnside problem for odd exponents
+Classifiability of crossed products by nonamenable groups
+
+Research units:
+Model theory: algebraicity conjecture, omega-stable simple infinite groups, algebraic groups over algebraically closed fields, stable fields conjecture, infinite stable field, separably closed, automorphism groups, homogeneous structures, descriptive set theory, ergodic theory, C*-algebras
+Set theory: axiom of determinacy, large cardinal hypotheses, Martin's Maximum, Pmax forcing, Chang-type models, determinacy, forcing axioms, nonstationary ideal, inner model theory
+T4: Groups and actions
+
+The study of symmetry and space through the medium of groups and their actions. Groups, dynamics and C*-algebras. Entropy, probability and geometry of groups. Algebraic groups and Lie groups.
+
+Mathematical fields: Model theory and set theory, Arithmetic geometry and representation theory, Topology, Operator algebras and mathematical physics, Differential geometry, Stochastic analysis
+
+Selected publications since 2019:
+Moment map flow on real reductive Lie groups and GIT estimates
+Tracially amenable actions and purely infinite crossed products
+Simple sharply 2-transitive groups
+Stability in the category of smooth mod-p representations of SL_2(Q_p)
+Classifiability of crossed products by nonamenable groups
+Haagerup property and group-invariant percolation
+The diagonal dimension of sub-C*-algebras
+Non-compact Einstein manifolds with symmetry
+Finitely generated simple sharply 2-transitive groups
+An introduction to the categorical p-adic Langlands program
+Entropy, virtual Abelianness, and Shannon orbit equivalence
+Entropy, Shannon orbit equivalence, and sparse connectivity
+Nuclear dimension of simple C*-algebras
+Automatic continuity of abstract homomorphisms between locally compact and polish groups
+Abstract homomorphisms from locally compact groups to discrete groups
+
+Recent publications since 2023:
+Weil tensors, strongly regular graphs, multiplicative characters, and a quadratic matrix equation
+A Cantor spectrum diagonal in O_2
+Note on C*-algebras associated to boundary actions of hyperbolic 3-manifold groups
+Moment map flow on real reductive Lie groups and GIT estimates
+Essential freeness, allostery and Z-stability of crossed products
+Tracially amenable actions and purely infinite crossed products
+Dynamical comparison and Z-stability for crossed products of simple C*-algebras
+Non-split sharply 2-transitive groups of odd positive characteristic
+Images of order zero maps
+Polyhedral compactifications
+Simple sharply 2-transitive groups
+On the proalgebraic fundamental group of topological spaces and amalgamated products of affine group schemes
+On the derived category of the Iwahori-Hecke algebra
+Simplicity of crossed products by FC-hypercentral groups
+Stability in the category of smooth mod-p representations of SL_2(Q_p)
+Nuclearity and CPC*-systems
+Classifiability of crossed products by nonamenable groups
+Haagerup property and group-invariant percolation
+The diagonal dimension of sub-C*-algebras
+On circle actions with exactly three fixed points
+Non-compact Einstein manifolds with symmetry
+Hodge operators and exceptional isomorphisms between unitary groups
+
+Research units:
+Groups dynamics and C*-algebras: operator algebras, rigidity theory, Lie groups, lattices, manifolds, geometry, K-theory, finite approximation, amenability, freeness, hyperbolic geometry, property T, Roe algebras
+Entropy probability and geometry of groups: Ornstein theory, geometric group theory, orbit equivalence, entropy, Bernoulli actions, noncommutative cyclotomy, algebraic actions, sofic groups, amenable groups, invariant percolation, Haagerup property, Roe algebras
+Algebraic groups and Lie groups: algebraic groups, Lie groups, Langlands programme, p-adic Lie groups, locally compact groups, Bruhat-Tits buildings, Riemannian geometry, reductive groups
+T5: Curvature, shape and global analysis
+
+Riemannian manifolds or geodesic metric spaces of finite or infinite dimension. Interplay between local geometry and global topological and analytical properties. Curvature tensor, positivity assumptions, topological obstructions, elliptic operators, index theory, geodesics, PDEs, ODEs.
+
+Mathematical fields: Arithmetic geometry and representation theory, Topology, Differential geometry, Analysis of partial differential equations, Stochastic analysis, Optimisation and calculus of variations, Numerical analysis, machine learning and scientific computing
+
+Selected publications since 2019:
+Weil tensors, strongly regular graphs, multiplicative characters, and a quadratic matrix equation
+On the homotopy type of the space of metrics of positive scalar curvature
+Scalar curvature along Ebin geodesics
+Scalar and mean curvature comparison via the Dirac operator
+Non-compact Einstein manifolds with symmetry
+Positive curvature, torus symmetry, and matroids
+Quartic Lp-convergence of cubic Riemannian splines
+Band width estimates via the Dirac operator
+The positive scalar curvature cobordism category
+Consistent curvature approximation on Riemannian shape spaces
+On the range of the relative higher index and the higher rho-invariant for positive scalar curvature
+Splitting of torus representations and applications in the Grove symmetry program
+Martingale Benamou-Brenier: a probabilistic perspective
+The Ricci flow under almost non-negative curvature conditions
+Infinite loop spaces and positive scalar curvature in the presence of a fundamental group
+Variational time discretization of Riemannian splines
+Index theory in spaces of manifolds
+
+Recent publications since 2023:
+Positive curvature, torus symmetry, and matroids
+Positively curved 10-manifolds with T3-symmetry
+Weil tensors, strongly regular graphs, multiplicative characters, and a quadratic matrix equation
+Positive scalar curvature with point singularities
+On the homotopy type of the space of metrics of positive scalar curvature
+On a conjecture of Stolz in the toric case
+The positive mass theorem and distance estimates in the spin setting
+Scalar curvature along Ebin geodesics
+Scalar and mean curvature comparison via the Dirac operator
+Rigidity of spin fill-ins with non-negative scalar curvature
+Positive mass theorems for spin initial data sets with arbitrary ends and dominant energy shields
+10-dimensional positively curved manifolds with t3-symmetry
+Nonnegative scalar curvature on manifolds with at least two ends
+Scalar curvature and generalized Callias operators
+Positive scalar curvature and homotopy theory
+Non-compact Einstein manifolds with symmetry
+
+Research units:
+Curvature and geometric flows: Riemannian manifolds with positive sectional curvature, Ricci flow, infinite-dimensional metric measure spaces, synthetic curvature
+Geodesics: shortest geodesics, Riemannian distance metric, infinite-dimensional shape spaces, PDEs, numerical approximation
+Index theory: scalar curvature bounds, index-theoretic methods, Lie group actions, Lie algebra, isometric group actions
+T6: Singularities and partial differential equations
+
+Non-linear PDEs to understand singular phenomena arising in geometry and in the description of the physical world. Geometric analysis, evolutionary PDEs, regularity estimates, stochastic PDEs. Regularity structures, paracontrolled calculus.
+
+Mathematical fields: Differential geometry, Analysis of partial differential equations, Stochastic analysis, Optimisation and calculus of variations
+
+Selected publications since 2019:
+Collapsing immortal Kahler-Ricci flows
+A continuous cusp closing process for negative Kahler-Einstein metrics
+The renormalized volume of a 4-dimensional Ricci-flat ALE space
+Non-compact Einstein manifolds with symmetry
+The secret hyperbolic life of positive scalar curvature
+Quasilinear wave equations on asymptotically flat spacetimes with applications to Kerr black holes
+Optimal regularity in time and space for stochastic porous medium equations
+Taxis-driven persistent localization in a degenerate Keller-Segel system
+Nilpotent structures and collapsing Ricci-flat metrics on the K3 surface
+The non-linear stability of the Schwarzschild family of black holes
+Higher-order estimates for collapsing Calabi-Yau metrics
+
+Recent publications since 2023:
+Phase transition for invariant measures of the focusing Schrodinger equation
+A priori bounds for the generalised parabolic Anderson model
+The Rayleigh-Taylor instability with local energy dissipation
+Entropy solutions to the macroscopic incompressible porous media equation
+On the energy-constrained optimal mixing problem for one-dimensional initial configurations
+A priori bounds for stochastic porous media equations via regularity structures
+Collapsing immortal Kahler-Ricci flows
+A continuous cusp closing process for negative Kahler-Einstein metrics
+Smooth asymptotics for collapsing Calabi-Yau metrics
+A priori bounds for quasi-linear SPDEs in the full sub-critical regime
+Optimal regularity for the 2d Euler equations in the Yudovich class
+Steady ring-shaped vortex sheets
+A weak-strong uniqueness principle for the Mullins-Sekerka equation
+Classification of asymptotically conical Calabi-Yau manifolds
+A priori bounds for 2-d generalised parabolic Anderson model
+Asymptotics of Kahler-Einstein metrics on complex hyperbolic cusps
+A priori bounds for the Phi^4 equation in the full sub-critical regime
+The renormalized volume of a 4-dimensional Ricci-flat ALE space
+Non-compact Einstein manifolds with symmetry
+The secret hyperbolic life of positive scalar curvature
+
+Research units:
+Geometric analysis: Einstein manifolds, singularities, minimal hypersurfaces, gravitational instantons, general relativity
+Dynamics of evolutionary PDEs: Einstein equations, Euler equations, fluid dynamics, Lorentzian geometry, Schwarzschild black holes, Kerr black holes, wave equations, two-phase Euler equations, cross-diffusion systems, parabolic PDEs
+Regularity: stochastic PDEs, regularity structures, paracontrolled calculus, stochastic porous medium equation, Monge-Ampere equation, thin film equation
+T7: Field theory and randomness
+
+Quantum field theory (QFT) is the fundamental framework to describe matter at its smallest length scales. Construction of a non-linear QFT in 4 space-time dimensions. Yang-Mills Clay Millennium Prize Problem. Mathematical models constructed with different techniques. Scalar QFTs on non-commutative geometries. Stochastic quantisation. Topological expansion. Non-commutative quantum field theory. Stochastic analysis. Free probability theory. Topological recursion.
+
+Mathematical fields: Arithmetic geometry and representation theory, Operator algebras and mathematical physics, Differential geometry, Analysis of partial differential equations, Stochastic analysis, Theory of stochastic processes, Numerical analysis machine learning and scientific computing
+
+Selected publications since 2019:
+Subcritical Gaussian multiplicative chaos in the Wiener space: construction, moments and volume decay
+Effective mass of the Frohlich polaron and the Landau-Pekar-Spohn conjecture
+Learning the random variables in Monte Carlo simulations with stochastic gradient descent: Machine learning for parametric PDEs and financial derivative pricing
+Half-integral levels
+An algebraic approach to a quartic analogue of the Kontsevich model
+A priori bounds for the Phi^4 equation in the full sub-critical regime
+The dynamical Ising-Kac model in 3D converges to Phi^4_3
+Blobbed topological recursion of the quartic Kontsevich model I: Loop equations and conjectures
+Nested Catalan tables and a recurrence relation in noncommutative quantum field theory
+A mild Ito formula for SPDEs
+
+Recent publications since 2023:
+A priori bounds for the generalised parabolic Anderson model
+Scaling limit of a weakly asymmetric simple exclusion process in the framework of regularity structures
+Holley-Stroock uniqueness method for the phi^4_2 dynamics
+Stochastic quantization of lambda phi_2^4-theory in 2-d Moyal space
+Weak convergence rates for temporal numerical approximations of the semilinear stochastic wave equation with multiplicative noise
+A priori bounds for the dynamic fractional phi^4 model
+The dynamical Ising-Kac model in 3D converges to phi^4_3
+Martingale-driven integrals and singular SPDEs
+Subcritical Gaussian multiplicative chaos in the Wiener space: construction, moments and volume decay
+Effective mass of the Frohlich polaron and the Landau-Pekar-Spohn conjecture
+A priori bounds for 2-d generalised parabolic Anderson model
+Learning the random variables in Monte Carlo simulations with stochastic gradient descent
+Brownian particle in the curl of 2-d stochastic heat equations
+Half-integral levels
+An efficient Monte Carlo scheme for Zakai equations
+Phase transition for invariant measures of the focusing Schrodinger equation
+An algebraic approach to a quartic analogue of the Kontsevich model
+A priori bounds for the Phi^4 equation in the full sub-critical regime
+The renormalized volume of a 4-dimensional Ricci-flat ALE space
+The dynamical Ising-Kac model in 3D converges to Phi^4_3
+
+Research units:
+Integrability: quartic Kontsevich model, moduli spaces of curves, Einstein equations, integrable structures, exact solvability
+Stochastic analysis of quantum fields: non-commutative QFT, stochastic analysis, machine learning
+Effective theories and disorder: field theory, statistical mechanics, disordered systems, polaron problem, stochastic PDEs, scaling limits, supercritical SPDEs, KPZ equation
+T8: Random discrete structures and their limits
+
+Discrete structures in mathematics, computer science, statistical physics, optimisation. Complex random graphs, social networks. Phase transitions. Random discrete structures, random tessellations, random polytopes, random graphs, percolation. Stochastic geometry. Interacting particle systems. Scaling limits.
+
+Mathematical fields: Model theory and set theory, Operator algebras and mathematical physics, Analysis of partial differential equations, Stochastic analysis, Theory of stochastic processes
+
+Selected publications since 2019:
+Schur multipliers of C* algebras, group-invariant compactification and applications to amenability and percolation
+Spherical convex hull of random points on a wedge
+Zeros of random polynomials undergoing the heat flow
+Quenched and averaged large deviations for random walks in random environments: The impact of disorder
+A two level contagion process and its deterministic McKendrick limit with relevance for the Covid epidemic
+Optimal transport of stationary point processes: Metric structure, gradient flow and convexity of the specific entropy
+Haagerup property and group-invariant percolation
+Fluctuations of the magnetization for Ising models on Erdos-Renyi random graphs: low temperature and external magnetic field
+Lee-Yang zeroes of the Curie-Weiss ferromagnet, unitary Hermite polynomials, and the backward heat flow
+Angles of random simplices and face numbers of random polytopes
+The one-dimensional log-gas free energy has a unique minimizer
+Fluctuations of the magnetization for Ising models on Erdos-Renyi random graphs: small p and the critical temperature
+
+Recent publications since 2023:
+Sylvester problem for beta-type distributions
+Percolation of fat Poisson cylinders in hyperbolic space
+Random polytopes in convex bodies: bridging the gap between extremal containers
+Poisson-Laguerre tessellations
+Schur multipliers of C* algebras group-invariant compactification and applications to amenability and percolation
+Non-hyperuniformity of perturbed lattices
+Sectional Voronoi tessellations: characterization and high-dimensional limits
+Concentration inequalities for Poisson U-statistics
+The link between hyperuniformity, Coulomb energy, and Wasserstein distance to Lebesgue for two-dimensional point processes
+Shadows and barriers
+A Benamou-Brenier formula for transport distances between stationary random measures
+There is no stationary p-cyclically monotone Poisson matching in 2d
+Spectral properties of the strongly assortative stochastic block model and their application to hitting times of random walks
+Almost sharp rates of convergence for the average cost and displacement in the optimal matching problem
+Wasserstein asymptotics for the empirical measure of fractional Brownian motion on a flat torus
+There is no stationary cyclically monotone Poisson matching in 2d
+Spherical convex hull of random points on a wedge
+Zeros of random polynomials undergoing the heat flow
+Quenched and averaged large deviations for random walks in random environments
+The heat flow, GAF, and SL(2;R)
+Optimal transport of stationary point processes
+Haagerup property and group-invariant percolation
+Transportation of random measures not charging small sets
+When does the chaos in the Curie-Weiss model stop to propagate
+
+Research units:
+Random tessellations and polytopes: random polytopes, Voronoi tessellations, Laguerre tessellations, beta distributions, convex hull, stochastic geometry, threshold phenomena
+Random graphs and percolation: Erdos-Renyi graphs, preferential attachment models, spin systems, percolation on groups, operator algebras
+Limits of large particle systems: interacting particle systems, large deviation principles, random walks in random environments, stochastic homogenisation, Hamilton-Jacobi-Bellman equation, WASEP, KPZ equation, Ising-Kac models, Phi^4_3 theory, regularity structures
+T9: Multiscale processes and effective behaviour
+
+Multiple spatial and temporal scales, geometry, dynamics, scaling laws, effective scale-free theories, approximation algorithms. Optimisation and design problems, Hamilton-Jacobi-Bellman equations, homogenisation, fluid dynamics, kinetic equations.
+
+Mathematical fields: Analysis of partial differential equations, Stochastic analysis, Optimisation and calculus of variations, Numerical analysis machine learning and scientific computing
+
+Selected publications since 2019:
+Adaptive reduced basis trust region methods for parameter identification problems
+Dimension reduction, exact recovery, and error estimates for sparse reconstruction in phase space
+A relaxed localized trust-region reduced basis approach for optimization of multiscale problems
+Model order reduction of an ultraweak and optimally stable variational formulation for parametrized reactive transport problems
+An online efficient two-scale reduced basis approach for the localized orthogonal decomposition
+Homogenisation of nonlinear Dirichlet problems in randomly perforated domains under minimal assumptions on the size of perforations
+Hypocoercivity and reaction-diffusion limit for a nonlinear generation-recombination model
+Bounds on the rate of enhanced dissipation
+Kermack and McKendrick Models on a Two-Scale Network and Connections to the Boltzmann Equations
+Stochastic homogenization for Hamilton-Jacobi-Bellman equations on continuum percolation clusters
+Formulation of branched transport as geometry optimization
+Optimal fine-scale structures in compliance minimization for a uniaxial load in three space dimensions
+A global method for deterministic and stochastic homogenisation in BV
+Overcoming the curse of dimensionality in the numerical approximation of semilinear parabolic partial differential equations
+A stabilized DG cut cell method for discretizing the linear transport equation
+Stochastic homogenisation of free-discontinuity problems
+
+Recent publications since 2023:
+A consistent kinetic Fokker-Planck model for gas mixtures
+Adaptive reduced basis trust region methods for parameter identification problems
+Existence of higher degree minimizers in the magnetic skyrmion problem
+Dimension reduction, exact recovery, and error estimates for sparse reconstruction in phase space
+A relaxed localized trust-region reduced basis approach for optimization of multiscale problems
+Model order reduction of an ultraweak and optimally stable variational formulation for parametrized reactive transport problems
+An online efficient two-scale reduced basis approach for the localized orthogonal decomposition
+Homogenisation of nonlinear Dirichlet problems in randomly perforated domains
+Hypocoercivity and reaction-diffusion limit for a nonlinear generation-recombination model
+Overcoming the curse of dimensionality in the numerical approximation of backward stochastic differential equations
+Bounds on the rate of enhanced dissipation
+Nonlinear Monte Carlo methods with polynomial runtime for Bellman equations of discrete time high-dimensional stochastic optimal control problems
+Kermack and McKendrick Models on a Two-Scale Network and Connections to the Boltzmann Equations
+
+Research units:
+Determination and optimisation of structures: optimisation, numerical complexity reduction, multiscale modelling, Hamilton-Jacobi-Bellman equations, curse of dimensionality, optimal control
+Homogenisation and multiscale methods: non-linear homogenisation, nonlinear elliptic PDEs, randomly perforated media, Hamilton-Jacobi-Bellman equations, percolation clusters, model order reduction, PDE constrained optimisation, inverse problems
+Mixing and equilibration: fluid dynamics, kinetic equations, enhanced dissipation, transport equations, conservation laws
+T10: Deep learning and surrogate methods
+
+Artificial neural networks, stochastic gradient descent, model order reduction, multi-fidelity modelling, parametrised PDEs, surrogate methods, PDE-constrained optimisation, inverse problems. Deep neural networks with ReLU activation. Curse of dimensionality.
+
+Mathematical fields: Differential geometry, Stochastic analysis, Theory of stochastic processes, Optimisation and calculus of variations, Numerical analysis machine learning and scientific computing
+
+Selected publications since 2019:
+Non-convergence to global minimizers for Adam and stochastic gradient descent optimization and constructions of local minimizers in the training of artificial neural networks
+Feature engineering with regularity structures
+Learning the random variables in Monte Carlo simulations with stochastic gradient descent: Machine learning for parametric PDEs and financial derivative pricing
+Mathematical introduction to deep learning: methods, implementations, and theory
+Be greedy and learn: Efficient and certified algorithms for parametrized optimal control problems
+A new certified hierarchical and adaptive RB-ML-ROM surrogate model for parametrized PDEs
+Parametrizing product shape manifolds by composite networks
+On the existence of minimizers in shallow residual ReLU neural network optimization landscapes
+Adaptive machine learning-based surrogate modeling to accelerate PDE-constrained optimization in enhanced oil recovery
+Landscape analysis for shallow neural networks: Complete classification of critical points for affine target functions
+Convergence of stochastic gradient descent schemes for Lojasiewicz-landscapes
+General multilevel adaptations for stochastic approximation algorithms of Robbins-Monro and Polyak-Ruppert type
+Deep optimal stopping
+
+Recent publications since 2023:
+Space-time deep neural network approximations for high-dimensional partial differential equations
+On the existence of minimizers in shallow residual ReLU neural network optimization landscapes
+Gradient descent provably escapes saddle points in the training of shallow ReLU networks
+An overview on machine learning methods for partial differential equations: from physics informed neural networks to deep operator learning
+Convergence rates for the Adam optimizer
+Non-convergence of Adam and other adaptive stochastic gradient descent optimization methods for non-vanishing learning rates
+Convergence of stochastic gradient descent schemes for Lojasiewicz-landscapes
+Deep neural networks with ReLU, leaky ReLU, and softplus activation provably overcome the curse of dimensionality for space-time solutions of semilinear partial differential equations
+Learning rate adaptive stochastic gradient descent optimization methods
+An overview on machine learning methods for partial differential equations: from physics informed neural networks to deep operator learning
+On the Ito-Alekseev-Grobner formula for stochastic differential equations
+Local Lipschitz continuity in the initial value and strong completeness for nonlinear stochastic differential equations
+Non-convergence to global minimizers for Adam and stochastic gradient descent optimization
+On the existence of optimal shallow feedforward networks with ReLU activation
+Feature engineering with regularity structures
+Learning the random variables in Monte Carlo simulations with stochastic gradient descent
+Convergent autoencoder approximation of low bending and low distortion manifold embeddings
+Mathematical introduction to deep learning: methods, implementations, and theory
+Overall error analysis for the training of deep neural networks via stochastic gradient descent with random initialisation
+Deep neural networks with ReLU leaky ReLU and softplus activation provably overcome the curse of dimensionality for Kolmogorov partial differential equations with Lipschitz nonlinearities
+Lower bounds for artificial neural network approximations: A proof that shallow neural networks fail to overcome the curse of dimensionality
+Be greedy and learn: Efficient and certified algorithms for parametrized optimal control problems
+A new certified hierarchical and adaptive RB-ML-ROM surrogate model for parametrized PDEs
+An overview on deep learning-based approximation methods for partial differential equations
+A proof that artificial neural networks overcome the curse of dimensionality in the numerical approximation of Black-Scholes partial differential equations
+Strong overall error analysis for the training of artificial neural networks via random initializations
+Existence, uniqueness, and convergence rates for gradient flows in the training of artificial neural networks with ReLU activation
+Parametrizing product shape manifolds by composite networks
+Space-time error estimates for deep neural network approximations for differential equations
+The necessity of depth for artificial neural networks to approximate certain classes of smooth and bounded functions without the curse of dimensionality
+
+Research units:
+Training of deep neural networks: stochastic gradient descent, artificial neural networks, martingale theory, real algebraic geometry, Lyapunov functions, convergence rates, Adam optimizer
+Learning methods for PDEs: deep learning approximation methods, stochastic PDEs, error estimation, ML-based surrogate methods, rough path theory, regularity structures, machine learning
+Surrogate methods for optimal control and inverse problems: deep learning, surrogate methods, inverse problems, optimal control, machine learning, finite element methods, model order reduction
