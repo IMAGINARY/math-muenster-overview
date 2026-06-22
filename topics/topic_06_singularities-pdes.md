@@ -25,14 +25,14 @@ how planets pull. A PDE is an equation that relates these rates of change across
 space and time. Solving it predicts the future from the present.
 
 ### Level 1 — Bachelor
-A **PDE** relates an unknown function $u(x_1,\dots,x_n)$ and its partial
+A **PDE** relates an unknown function $`u(x_1,\dots,x_n)`$ and its partial
 derivatives. Three classical archetypes:
 $$
 \underbrace{\Delta u = 0}_{\text{elliptic (Laplace)}}\qquad
 \underbrace{\partial_t u = \Delta u}_{\text{parabolic (heat)}}\qquad
 \underbrace{\partial_{tt} u = \Delta u}_{\text{hyperbolic (wave)}}
 $$
-where $\Delta = \sum_i \partial_{x_i}^2$. Elliptic equations describe equilibria
+where $`\Delta = \sum_i \partial_{x_i}^2`$. Elliptic equations describe equilibria
 (and are smoothing); parabolic equations describe diffusion; hyperbolic equations
 describe propagation at finite speed.
 
@@ -56,7 +56,7 @@ hardest part to understand.
 ### Level 1 — Bachelor
 A **singularity** is a point/time where a solution loses regularity: a derivative
 or the solution itself blows up, or smoothness fails. Example: Burgers' equation
-$\partial_t u + u\,\partial_x u = 0$ develops a **shock** (gradient blow-up) in
+$`\partial_t u + u\,\partial_x u = 0`$ develops a **shock** (gradient blow-up) in
 finite time even from smooth data. Understanding **whether**, **when**, and **what
 type** of singularity forms is the central question.
 
@@ -66,7 +66,7 @@ MM studies singularity formation across regimes: degenerations of sequences of
 collapsing Calabi–Yau/Kähler–Ricci flows à la Hein–Tosatti), singularities of
 **minimal hypersurfaces**, and finite-time blow-up vs. global existence in
 **cross-diffusion**/Keller–Segel chemotaxis systems. Tools include blow-up
-analysis, monotonicity formulae, and $\varepsilon$-regularity. References:
+analysis, monotonicity formulae, and $`\varepsilon`$-regularity. References:
 [Singularity (mathematics)](https://en.wikipedia.org/wiki/Singularity_(mathematics)),
 [Collapsing immortal Kähler–Ricci flows, Forum Math Pi 2025](https://doi.org/10.1017/fmp.2025.10).
 
@@ -86,8 +86,8 @@ $$
 \mathrm{Ric}(g) = \lambda\, g,\qquad \lambda\in\mathbb{R}.
 $$
 In Lorentzian signature, the (vacuum) **Einstein field equations**
-$\mathrm{Ric}(g) - \tfrac12 \mathrm{scal}\,g + \Lambda g = 0$ govern gravity;
-spacetime is a 4-manifold with signature $(-,+,+,+)$.
+$`\mathrm{Ric}(g) - \tfrac12 \mathrm{scal}\,g + \Lambda g = 0`$ govern gravity;
+spacetime is a 4-manifold with signature $`(-,+,+,+)`$.
 
 ### Level 2 — Master
 MM (Böhm, Hein, Lafuente) studies **rigidity** of Einstein manifolds under symmetry
@@ -111,7 +111,7 @@ one of the great open challenges of mathematical physics.
 
 ### Level 1 — Bachelor
 The **Kerr metric** is the exact rotating-black-hole solution of the vacuum
-Einstein equations, a family parametrised by mass $M$ and angular momentum $a$.
+Einstein equations, a family parametrised by mass $`M`$ and angular momentum $`a`$.
 **Nonlinear stability** asks: do small perturbations of Kerr data evolve, under the
 Einstein equations, to a spacetime that asymptotically settles to a (nearby) Kerr
 solution? This is a question about a quasilinear hyperbolic PDE system.
@@ -119,7 +119,7 @@ solution? This is a question about a quasilinear hyperbolic PDE system.
 ### Level 2 — Master
 MM (Holzegel, with Dafermos–Rodnianski–Taylor) develops the analysis of
 **quasilinear wave equations on asymptotically flat spacetimes**, decay estimates
-(redshift, $r^p$-weighted energies, vector-field method), and mode stability,
+(redshift, $`r^p`$-weighted energies, vector-field method), and mode stability,
 building toward full nonlinear stability of Kerr — paralleling the proven nonlinear
 stability of the Schwarzschild family. Closely tied are the **Euler equations** of
 fluid dynamics (two-phase flow with singular vorticity, bubble rings). References:
@@ -138,23 +138,23 @@ New mathematics was invented to give these noisy equations a precise meaning.
 ### Level 1 — Bachelor
 **Regularity estimates** bound derivatives of solutions (e.g. Schauder estimates:
 elliptic solutions gain two derivatives in Hölder spaces). A **stochastic PDE
-(SPDE)** adds random forcing, e.g. the dynamical $\Phi^4$ model
+(SPDE)** adds random forcing, e.g. the dynamical $`\Phi^4`$ model
 $$
 \partial_t \phi = \Delta\phi - \phi^3 + \xi,
 $$
-with $\xi$ space-time white noise. The noise is so rough that $\phi^3$ is
+with $`\xi`$ space-time white noise. The noise is so rough that $`\phi^3`$ is
 classically ill-defined, requiring **renormalisation** (subtracting infinities).
 
 ### Level 2 — Master
 The breakthroughs of **regularity structures** (Hairer) and **paracontrolled
 calculus** (Gubinelli–Imkeller–Perkowski) give a solution theory for [singular SPDEs](../GLOSSARY.md#stochastic-pde)
 in the **subcritical** regime. MM (Weber, Tempelmayr, Chandra) proves **a priori
-bounds** for $\Phi^4$ and the parabolic Anderson model in the full subcritical
+bounds** for $`\Phi^4`$ and the parabolic Anderson model in the full subcritical
 regime and pushes toward **quasilinear** equations (stochastic porous medium). The
 deterministic side includes [regularity theory](../GLOSSARY.md#regularity-theory) for the complex **Monge–Ampère** and
 **thin-film** equations. References:
 [Regularity structures](https://en.wikipedia.org/wiki/Regularity_structure),
-[A priori bounds for $\Phi^4$ in the full subcritical regime, ARMA 2023](https://doi.org/10.1007/s00205-023-01876-7).
+[A priori bounds for $`\Phi^4`$ in the full subcritical regime, ARMA 2023](https://doi.org/10.1007/s00205-023-01876-7).
 
 ---
 

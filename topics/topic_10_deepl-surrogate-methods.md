@@ -27,12 +27,12 @@ it produces outputs, and by adjusting many internal dials you can make it imitat
 almost any pattern from examples. It is the engine behind modern AI.
 
 ### Level 1 — Bachelor
-A **feedforward neural network** with $L$ layers is a composition of affine maps and
-a nonlinear **activation** $\sigma$ (e.g. ReLU $\sigma(x)=\max(x,0)$):
+A **feedforward neural network** with $`L`$ layers is a composition of affine maps and
+a nonlinear **activation** $`\sigma`$ (e.g. ReLU $`\sigma(x)=\max(x,0)`$):
 $$
 \Phi_\theta(x) = A_L\,\sigma\big(A_{L-1}\,\sigma(\cdots \sigma(A_1 x + b_1)\cdots) + b_{L-1}\big) + b_L,
 $$
-with parameters $\theta=(A_i,b_i)$. The **universal approximation theorem**: even
+with parameters $`\theta=(A_i,b_i)`$. The **universal approximation theorem**: even
 one hidden layer can approximate any continuous function on a compact set to
 arbitrary accuracy (given enough width).
 
@@ -40,7 +40,7 @@ arbitrary accuracy (given enough width).
 Quantitative theory asks about **expressivity vs. cost**: depth can yield
 exponential savings, and for certain high-dimensional PDE solution operators deep
 networks **overcome the curse of dimensionality** (approximation error and parameter
-count grow only polynomially in $d$) — but MM (Grohs–Jentzen) also proves **lower
+count grow only polynomially in $`d`$) — but MM (Grohs–Jentzen) also proves **lower
 bounds** showing shallow networks *cannot*. References:
 [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network),
 [Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem),
@@ -59,9 +59,9 @@ stochastic gradient descent.
 ### Level 1 — Bachelor
 Training minimises a **loss** $\mathcal{L}(\theta)=\frac1N\sum_{i=1}^N
 \ell(\Phi_\theta(x_i),y_i)$. **Gradient descent** updates
-$\theta_{k+1}=\theta_k-\eta\,\nabla\mathcal{L}(\theta_k)$. **Stochastic gradient
+$`\theta_{k+1}=\theta_k-\eta\,\nabla\mathcal{L}(\theta_k)`$. **Stochastic gradient
 descent (SGD)** replaces the full gradient by an estimate from a random mini-batch
-$B_k$:
+$`B_k`$:
 $$
 \theta_{k+1} = \theta_k - \eta_k\,\nabla_\theta \Big(\tfrac1{|B_k|}\sum_{i\in B_k}\ell(\Phi_\theta(x_i),y_i)\Big).
 $$
@@ -90,7 +90,7 @@ impossible when there are too many dimensions. Instead, train a neural network t
 *be* the solution. The equation itself becomes the teacher.
 
 ### Level 1 — Bachelor
-A network $\Phi_\theta(x,t)$ is trained so that it satisfies a PDE. In
+A network $`\Phi_\theta(x,t)`$ is trained so that it satisfies a PDE. In
 **physics-informed neural networks (PINNs)** the loss penalises the PDE residual and
 boundary/initial conditions:
 $$
@@ -106,7 +106,7 @@ MM (Jentzen, Ohlberger, Weber, Rave, Engwer) designs and *analyses* deep
 approximation schemes with **error estimates and certification**, including
 low-regularity **[stochastic PDEs](../GLOSSARY.md#stochastic-pde)** via **[rough paths](../GLOSSARY.md#rough-paths) / regularity structures**
 combined with ML (higher-order schemes), and **deep operator learning** (learning
-solution operators $\mathcal{G}:\mu\mapsto u_\mu$ between function spaces). Emphasis:
+solution operators $`\mathcal{G}:\mu\mapsto u_\mu`$ between function spaces). Emphasis:
 provable accuracy, not just empirical performance. References:
 [Physics-informed neural networks](https://en.wikipedia.org/wiki/Physics-informed_neural_networks),
 [Overview on ML methods for PDEs (PINNs to operator learning), arXiv:2408.13222](https://arxiv.org/abs/2408.13222).
@@ -123,11 +123,11 @@ occasionally, then blend them so the final answer is both cheap *and* trustworth
 A "certified" surrogate even tells you how wrong it might be.
 
 ### Level 1 — Bachelor
-A **surrogate model** $\hat{u}\approx u$ is a cheap stand-in for an expensive
+A **surrogate model** $`\hat{u}\approx u`$ is a cheap stand-in for an expensive
 simulation. A **multi-fidelity** method combines a few high-fidelity (accurate,
 costly) evaluations with many low-fidelity (cheap, approximate) ones to reach a
 target accuracy at minimal total cost. **Certified** means equipped with a rigorous,
-computable error bound $\|u-\hat u\|\le \Delta(\mu)$.
+computable error bound $`\|u-\hat u\|\le \Delta(\mu)`$.
 
 ### Level 2 — Master
 MM (Ohlberger, Schindler, Kleikamp, Wirth, Jentzen) builds **hierarchical,
@@ -149,10 +149,10 @@ the interior. Working backwards from effects to hidden causes is an inverse prob
 and small measurement errors can blow up, so it must be done carefully.
 
 ### Level 1 — Bachelor
-A forward model $F$ maps unknown parameters $x$ to data $y=F(x)$. An **inverse
-problem** recovers $x$ from noisy $y$. These are typically **ill-posed** (Hadamard):
+A forward model $`F`$ maps unknown parameters $`x`$ to data $`y=F(x)`$. An **inverse
+problem** recovers $`x`$ from noisy $`y`$. These are typically **ill-posed** (Hadamard):
 solutions may not exist, be non-unique, or depend unstably on data. **Regularisation**
-(e.g. Tikhonov: minimise $\|F(x)-y\|^2 + \alpha\|x\|^2$) restores stability.
+(e.g. Tikhonov: minimise $`\|F(x)-y\|^2 + \alpha\|x\|^2`$) restores stability.
 
 ### Level 2 — Master
 MM integrates **data-driven and model-based** approaches: learning the forward

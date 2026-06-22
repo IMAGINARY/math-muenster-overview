@@ -28,8 +28,8 @@ the whole sponge. Multiscale maths is the art of jumping from tiny details to
 big-picture rules.
 
 ### Level 1 — Bachelor
-Many systems have a small parameter $\varepsilon$ (ratio of fine to coarse scale).
-One seeks the **effective behaviour** as $\varepsilon\to 0$: a simpler model that
+Many systems have a small parameter $`\varepsilon`$ (ratio of fine to coarse scale).
+One seeks the **effective behaviour** as $`\varepsilon\to 0`$: a simpler model that
 captures the macroscopic response without resolving every microscopic feature. The
 mathematics quantifies *which* scales matter via **sharp scaling laws** and
 **convergence rates** (how fast the fine model approaches the effective one).
@@ -56,11 +56,11 @@ properties from the fine pattern.
 
 ### Level 1 — Bachelor
 **Homogenisation** replaces a PDE with rapidly oscillating coefficients
-$a(x/\varepsilon)$ by an effective PDE with constant (homogenised) coefficients
-$a^{\mathrm{hom}}$. Prototype: for
-$-\nabla\!\cdot\!\big(a(x/\varepsilon)\nabla u_\varepsilon\big) = f$, the solutions
-$u_\varepsilon \to u_0$ where $u_0$ solves
-$-\nabla\!\cdot\!\big(a^{\mathrm{hom}}\nabla u_0\big)=f$. The effective coefficient
+$`a(x/\varepsilon)`$ by an effective PDE with constant (homogenised) coefficients
+$`a^{\mathrm{hom}}`$. Prototype: for
+$`-\nabla\!\cdot\!\big(a(x/\varepsilon)\nabla u_\varepsilon\big) = f`$, the solutions
+$`u_\varepsilon \to u_0`$ where $`u_0`$ solves
+$`-\nabla\!\cdot\!\big(a^{\mathrm{hom}}\nabla u_0\big)=f`$. The effective coefficient
 is *not* the naive average — it is found by solving a **cell problem** on the unit
 period.
 
@@ -85,19 +85,19 @@ the best control among infinitely many options. But when there are many knobs to
 turn at once, the number of possibilities explodes — the "curse of dimensionality".
 
 ### Level 1 — Bachelor
-**Optimal control** seeks an input $u(t)$ minimising a cost
-$J(u)=\int_0^T \ell(x,u)\,dt + g(x(T))$ subject to dynamics $\dot x = f(x,u)$. The
-**value function** $V$ solves the **Hamilton–Jacobi–Bellman (HJB)** PDE
+**Optimal control** seeks an input $`u(t)`$ minimising a cost
+$`J(u)=\int_0^T \ell(x,u)\,dt + g(x(T))`$ subject to dynamics $`\dot x = f(x,u)`$. The
+**value function** $`V`$ solves the **Hamilton–Jacobi–Bellman (HJB)** PDE
 $$
 \partial_t V + \min_{u}\big\{f(x,u)\cdot\nabla V + \ell(x,u)\big\} = 0.
 $$
-In dimension $d$ a naive grid has $N^d$ points — infeasible for large $d$ (the
+In dimension $`d`$ a naive grid has $`N^d`$ points — infeasible for large $`d`$ (the
 **curse of dimensionality**).
 
 ### Level 2 — Master
 MM (Jentzen, Wirth, Simon) designs **approximation algorithms that provably
 overcome the curse of dimensionality** for HJB / nonlinear parabolic PDEs (e.g.
-multilevel Monte Carlo / nonlinear Monte Carlo with polynomial runtime in $d$), and
+multilevel Monte Carlo / nonlinear Monte Carlo with polynomial runtime in $`d`$), and
 studies **PDE-constrained optimal design** where fine-scale (micro)structures emerge
 as optimisers (compliance minimisation, branched transport). References:
 [Hamilton–Jacobi–Bellman equation](https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi%E2%80%93Bellman_equation),
@@ -115,9 +115,9 @@ run that instead. You trade a little accuracy for enormous speed.
 ### Level 1 — Bachelor
 **Model order reduction (MOR)** approximates a high-dimensional parametrised system
 by a low-dimensional surrogate. The **reduced basis method** computes a few
-representative solution "snapshots" $u(\mu_1),\dots,u(\mu_n)$ for sample parameters
-$\mu_i$, spanning a small space $V_n$, then solves the PDE projected onto $V_n$ for
-any new $\mu$ — with rigorous, computable **a posteriori error bounds**.
+representative solution "snapshots" $`u(\mu_1),\dots,u(\mu_n)`$ for sample parameters
+$`\mu_i`$, spanning a small space $`V_n`$, then solves the PDE projected onto $`V_n`$ for
+any new $`\mu`$ — with rigorous, computable **a posteriori error bounds**.
 
 ### Level 2 — Master
 MM (Ohlberger, Rave, Keil, Schindler) develops **localised / two-scale reduced
@@ -143,7 +143,7 @@ rates are what this unit pins down.
 ### Level 1 — Bachelor
 **Mixing** measures how a flow homogenises a passive scalar; **enhanced
 dissipation** is the speed-up of diffusion caused by stirring. **Kinetic equations**
-(e.g. Boltzmann, Fokker–Planck) describe gases via a density $f(t,x,v)$ on
+(e.g. Boltzmann, Fokker–Planck) describe gases via a density $`f(t,x,v)`$ on
 position–velocity space and relax toward Maxwellian equilibrium. A guiding question:
 the maximal rate of mixing/equilibration achievable.
 

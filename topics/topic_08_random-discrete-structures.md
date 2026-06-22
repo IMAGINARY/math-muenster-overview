@@ -28,17 +28,17 @@ dots, a giant connected cluster appears almost suddenly once links are frequent
 enough.
 
 ### Level 1 — Bachelor
-The **Erdős–Rényi graph** $G(n,p)$ has $n$ vertices, each of the $\binom{n}{2}$
-edges present independently with probability $p$. A landmark **phase transition**:
-with $p=c/n$, as $n\to\infty$ the largest component is
+The **Erdős–Rényi graph** $`G(n,p)`$ has $`n`$ vertices, each of the $`\binom{n}{2}`$
+edges present independently with probability $`p`$. A landmark **phase transition**:
+with $`p=c/n`$, as $`n\to\infty`$ the largest component is
 $$
 \begin{cases} O(\log n) & c<1\ (\text{subcritical}),\\
 \Theta(n) \ \text{(a "giant component")} & c>1\ (\text{supercritical}).\end{cases}
 $$
-The threshold for connectivity is $p=\frac{\log n}{n}$.
+The threshold for connectivity is $`p=\frac{\log n}{n}`$.
 
 ### Level 2 — Master
-MM studies $G(n,p)$ as a random **environment for spin systems** (Ising/Curie–Weiss
+MM studies $`G(n,p)`$ as a random **environment for spin systems** (Ising/Curie–Weiss
 on Erdős–Rényi graphs: magnetisation fluctuations, low-temperature and critical
 regimes) and richer models like **preferential attachment** (scale-free networks)
 and the **stochastic block model** (community detection, spectral methods,
@@ -56,13 +56,13 @@ critical fraction of open channels, water cannot cross; above it, it suddenly ca
 That sharp switch is a phase transition — the same idea as water freezing.
 
 ### Level 1 — Bachelor
-In **bond percolation** on $\mathbb{Z}^d$, each edge is open with probability $p$
-independently. There is a critical $p_c\in(0,1)$ such that
+In **bond percolation** on $`\mathbb{Z}^d`$, each edge is open with probability $`p`$
+independently. There is a critical $`p_c\in(0,1)`$ such that
 $$
 \theta(p) = \mathbb{P}_p(\text{origin in an infinite open cluster})
 \begin{cases} =0 & p<p_c,\\ >0 & p>p_c.\end{cases}
 $$
-For $d=2$, $p_c=\tfrac12$ for bond percolation (Kesten). This is the simplest model
+For $`d=2`$, $`p_c=\tfrac12`$ for bond percolation (Kesten). This is the simplest model
 exhibiting a genuine phase transition with critical phenomena.
 
 ### Level 2 — Master
@@ -86,8 +86,8 @@ a random patchwork of cells, like cracked mud or a giraffe's coat. Mathematician
 measure the typical shapes, areas and number of sides of these random tiles.
 
 ### Level 1 — Bachelor
-A **Voronoi tessellation** of a point set $\{x_i\}$ assigns to each $x_i$ the cell
-$\{y: |y-x_i|\le |y-x_j|\ \forall j\}$. With the points a **Poisson point process**,
+A **Voronoi tessellation** of a point set $`\{x_i\}`$ assigns to each $`x_i`$ the cell
+$`\{y: |y-x_i|\le |y-x_j|\ \forall j\}`$. With the points a **Poisson point process**,
 one gets the Poisson–Voronoi tessellation and studies expected cell volume, number
 of faces, etc. A **random polytope** is the convex hull of random points; its
 expected number of vertices/faces is a classical question (Sylvester's problem).
@@ -95,7 +95,7 @@ expected number of vertices/faces is a classical question (Sylvester's problem).
 ### Level 2 — Master
 MM (Gusakova, Kabluchko, Huesmann) analyses **beta / beta-prime polytopes**,
 **Poisson–Voronoi and Laguerre tessellations**, sectional tessellations, and
-high-dimensional limits and threshold phenomena (expected $f$-vectors, angle sums of
+high-dimensional limits and threshold phenomena (expected $`f`$-vectors, angle sums of
 random simplices). A second thread uses **optimal transport** of stationary point
 processes (Benamou–Brenier formulae, hyperuniformity, matching problems). References:
 [Stochastic geometry](https://en.wikipedia.org/wiki/Stochastic_geometry),
@@ -115,13 +115,13 @@ jiggling crowd into a smooth flowing equation.
 ### Level 1 — Bachelor
 An **interacting particle system** is a continuous-time Markov process on a large
 configuration space with local update rules. Example: the **(weakly) asymmetric
-simple exclusion process** (ASEP/WASEP) — particles hop left/right on $\mathbb{Z}$
+simple exclusion process** (ASEP/WASEP) — particles hop left/right on $`\mathbb{Z}`$
 but never share a site. A **scaling limit** rescales space and time so the random
 particle density converges to a deterministic/stochastic PDE.
 
 ### Level 2 — Master
 MM (Weber, Huesmann, Mukherjee) proves convergence of **WASEP to the [KPZ equation](../GLOSSARY.md#stochastic-pde)**
-and of static **Ising–Kac models to $\Phi^4_3$** using **regularity structures**
+and of static **Ising–Kac models to $`\Phi^4_3`$** using **regularity structures**
 (cf. Topics 6–7), and uses **large deviation principles** for random walks in random
 environments to study **stochastic homogenisation** of the Hamilton–Jacobi–Bellman
 equation (link to Topic 9). The **KPZ equation**

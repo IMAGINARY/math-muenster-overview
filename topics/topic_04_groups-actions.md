@@ -11,7 +11,7 @@ Symmetry, expressed through **groups and their actions**, cuts across the whole
 cluster. Three research units:
 1. **Groups, dynamics and [C\*-algebras](../GLOSSARY.md#c-algebra)** ([amenability](../GLOSSARY.md#amenable-group), freeness, property (T)).
 2. **Entropy, probability and geometry of groups** (orbit equivalence, invariant percolation).
-3. **Algebraic groups and Lie groups** (representations of $p$-adic groups, Bruhat–Tits buildings).
+3. **Algebraic groups and Lie groups** (representations of $`p`$-adic groups, Bruhat–Tits buildings).
 
 ---
 
@@ -26,12 +26,12 @@ something looking the same (rotating a square by 90°, flipping it). A group
 moves tells you about the object, and vice versa.
 
 ### Level 1 — Bachelor
-A group $(G,\cdot)$ has an associative product, identity $e$, and inverses. An
-**action** of $G$ on a set/space $X$ is a homomorphism $G\to \mathrm{Sym}(X)$
-(or $\mathrm{Homeo}(X)$, $GL(V)$, …), equivalently a map $G\times X\to X$,
-$(g,x)\mapsto g\cdot x$ with $e\cdot x = x$ and $g\cdot(h\cdot x) = (gh)\cdot x$.
-**Orbits** $G\cdot x$ partition $X$; **stabilisers** $G_x=\{g: g\cdot x = x\}$
-satisfy the orbit–stabiliser relation $|G\cdot x| = [G:G_x]$. **Geometric group
+A group $`(G,\cdot)`$ has an associative product, identity $`e`$, and inverses. An
+**action** of $`G`$ on a set/space $`X`$ is a homomorphism $`G\to \mathrm{Sym}(X)`$
+(or $`\mathrm{Homeo}(X)`$, $`GL(V)`$, …), equivalently a map $`G\times X\to X`$,
+$`(g,x)\mapsto g\cdot x`$ with $`e\cdot x = x`$ and $`g\cdot(h\cdot x) = (gh)\cdot x`$.
+**Orbits** $`G\cdot x`$ partition $`X`$; **stabilisers** $`G_x=\{g: g\cdot x = x\}`$
+satisfy the orbit–stabiliser relation $`|G\cdot x| = [G:G_x]`$. **Geometric group
 theory** treats a finitely generated group itself as a metric space via its Cayley
 graph.
 
@@ -56,20 +56,20 @@ simpler, well-organised "coordinate grid" called a Cartan subalgebra, which make
 the whole thing far easier to understand.
 
 ### Level 1 — Bachelor
-Given an action of $G$ on a C\*-algebra $A$ (e.g. $A=C(X)$), the **crossed
-product** $A\rtimes G$ is a new C\*-algebra encoding both. For $X$ a point this is
-the **group C\*-algebra** $C^*(G)$. A **Cartan subalgebra** $B\subseteq A$ is a
-maximal abelian subalgebra that is regular (its normalisers generate $A$) and
-carries a faithful conditional expectation $A\to B$ — an operator-algebraic
+Given an action of $`G`$ on a C\*-algebra $`A`$ (e.g. $`A=C(X)`$), the **crossed
+product** $`A\rtimes G`$ is a new C\*-algebra encoding both. For $`X`$ a point this is
+the **group C\*-algebra** $`C^*(G)`$. A **Cartan subalgebra** $`B\subseteq A`$ is a
+maximal abelian subalgebra that is regular (its normalisers generate $`A`$) and
+carries a faithful conditional expectation $`A\to B`$ — an operator-algebraic
 analogue of a coordinate system / maximal torus.
 
 ### Level 2 — Master
-By **Renault's theorem**, a Cartan pair $(A,B)$ corresponds to a twisted étale
-groupoid: $A = C^*_r(\mathcal{G},\Sigma)$, $B=C_0(\mathcal{G}^{(0)})$. MM's
+By **Renault's theorem**, a Cartan pair $`(A,B)`$ corresponds to a twisted étale
+groupoid: $`A = C^*_r(\mathcal{G},\Sigma)`$, $`B=C_0(\mathcal{G}^{(0)})`$. MM's
 emphasis is proving **existence and uniqueness of Cartan subalgebras** in simple
 separable nuclear [C\*-algebras](../GLOSSARY.md#c-algebra) (the classifiable ones), connecting the abstract
 classification (Topic 1) to topological dynamics. Recent MM work (Gardella–Geffen–
-Kranz–Naryshkin–Vaccaro) proves **[$\mathcal{Z}$-stability](../GLOSSARY.md#z-stability)** and classifiability of
+Kranz–Naryshkin–Vaccaro) proves **[$`\mathcal{Z}`$-stability](../GLOSSARY.md#z-stability)** and classifiability of
 crossed products under dynamical conditions (almost finiteness, dynamical
 comparison, tracial amenability) even for nonamenable acting groups. References:
 [Crossed product C*-algebra](https://en.wikipedia.org/wiki/Crossed_product),
@@ -87,17 +87,17 @@ some are "rigid" (they resist small deformations and approximations). These two
 extremes behave very differently and lead to very different geometry.
 
 ### Level 1 — Bachelor
-A group $G$ is **amenable** if it admits a finitely additive, left-invariant
+A group $`G`$ is **amenable** if it admits a finitely additive, left-invariant
 probability measure (mean) on all subsets — equivalently Følner sets exist
 (almost-invariant finite sets). Abelian and solvable groups are amenable; the free
-group $F_2$ is **not** (Banach–Tarski lives here). **Kazhdan's property (T)** is an
+group $`F_2`$ is **not** (Banach–Tarski lives here). **Kazhdan's property (T)** is an
 opposite rigidity: the trivial representation is isolated in the unitary dual, so
-$G$ has "no almost-invariant vectors". $SL_3(\mathbb{Z})$ has (T); $SL_2(\mathbb{Z})$
+$`G`$ has "no almost-invariant vectors". $`SL_3(\mathbb{Z})`$ has (T); $`SL_2(\mathbb{Z})`$
 does not.
 
 ### Level 2 — Master
 These properties are detected and refined through **[operator algebras](../GLOSSARY.md#operator-algebra)**: nuclearity
-of $C^*_r(G)$ characterises [amenability](../GLOSSARY.md#amenable-group) (Lance); property (T) and the **[Haagerup
+of $`C^*_r(G)`$ characterises [amenability](../GLOSSARY.md#amenable-group) (Lance); property (T) and the **[Haagerup
 property](../GLOSSARY.md#haagerup-property)** have spectral-gap and a-T-menability formulations. MM studies them via
 **invariant percolation** and **Roe algebras** ([coarse geometry](../GLOSSARY.md#coarse-geometry)), and via finite
 approximation (soficity, quasidiagonality). Reference:
@@ -114,10 +114,10 @@ measures how unpredictable or complex this evolution is. Two systems can look
 different but secretly be re-labellings of each other — that is orbit equivalence.
 
 ### Level 1 — Bachelor
-A measure-preserving action of $G$ on a probability space $(X,\mu)$ has a numerical
+A measure-preserving action of $`G`$ on a probability space $`(X,\mu)`$ has a numerical
 invariant, **(Kolmogorov–Sinai) entropy**, measuring information produced per step.
 Two actions are **orbit equivalent** if there is a measure isomorphism carrying
-orbits to orbits. Ornstein theory: for $\mathbb{Z}$, entropy is a *complete*
+orbits to orbits. Ornstein theory: for $`\mathbb{Z}`$, entropy is a *complete*
 invariant for Bernoulli shifts.
 
 ### Level 2 — Master
@@ -143,19 +143,19 @@ with their own geometric "skeletons" that help us understand them.
 
 ### Level 1 — Bachelor
 A **Lie group** is a group that is also a smooth manifold with smooth operations
-(e.g. $SO(3)$, $GL_n(\mathbb{R})$); its tangent space at the identity is a **Lie
-algebra** $\mathfrak{g}$, capturing the group infinitesimally via the exponential
+(e.g. $`SO(3)`$, $`GL_n(\mathbb{R})`$); its tangent space at the identity is a **Lie
+algebra** $`\mathfrak{g}`$, capturing the group infinitesimally via the exponential
 map. An **algebraic group** is a group defined by polynomial equations (e.g.
-$SL_n$ as a variety). Over the [$p$-adic numbers](../GLOSSARY.md#p-adic-numbers) $\mathbb{Q}_p$ one gets $p$-adic
-Lie groups like $GL_n(\mathbb{Q}_p)$.
+$`SL_n`$ as a variety). Over the [$`p`$-adic numbers](../GLOSSARY.md#p-adic-numbers) $`\mathbb{Q}_p`$ one gets $`p`$-adic
+Lie groups like $`GL_n(\mathbb{Q}_p)`$.
 
 ### Level 2 — Master
-For a reductive group $G$ over a $p$-adic field, the **Bruhat–Tits building** is a
-contractible CAT(0) simplicial complex on which $G$ acts, encoding its maximal
+For a reductive group $`G`$ over a $`p`$-adic field, the **Bruhat–Tits building** is a
+contractible CAT(0) simplicial complex on which $`G`$ acts, encoding its maximal
 compact subgroups and parahoric structure — the combinatorial geometry behind
 smooth representation theory and the local Langlands programme (cf. Topic 2). MM's
-unit (Schneider, Hellmann, Hartl, Lourenço, Kramer, Böhm) studies smooth mod-$p$
-and $p$-adic representations, moment-map/GIT flows on real reductive groups, and
+unit (Schneider, Hellmann, Hartl, Lourenço, Kramer, Böhm) studies smooth mod-$`p`$
+and $`p`$-adic representations, moment-map/GIT flows on real reductive groups, and
 polyhedral compactifications of buildings. References:
 [Lie group](https://en.wikipedia.org/wiki/Lie_group),
 [Bruhat–Tits building](https://en.wikipedia.org/wiki/Building_(mathematics)).
