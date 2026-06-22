@@ -16,7 +16,7 @@ undergraduate who has seen basic algebra, analysis, topology, and probability.
 
 ## O1 — Push frontiers in K-theory and attack open questions in topology
 
-### Topic 1: K-groups and cohomology
+### Topic 1: [K-groups and cohomology](topics/topic_01_kgroups-cohomology.md)
 
 **Key concepts**
 
@@ -47,7 +47,7 @@ and to classify operator algebras.
 
 ## O2 — Study moduli spaces to advance the Langlands programme and other fields
 
-### Topic 2: Moduli spaces in arithmetic and geometry
+### Topic 2: [Moduli spaces in arithmetic and geometry](topics/topic_02_moduli-spaces.md)
 
 **Key concepts**
 
@@ -76,7 +76,7 @@ physics.
 
 ## O3 — Open questions in C\*-algebras, model building, and set theory
 
-### Topic 3: Models and universes
+### Topic 3: [Models and universes](topics/topic_03_models-universes.md)
 
 **Key concepts**
 
@@ -94,7 +94,7 @@ physics.
 which mathematical statements are provable, independent, or require strong
 infinity assumptions — probing the boundaries of what mathematics can decide.
 
-### Topic 4: Groups and actions
+### Topic 4: [Groups and actions](topics/topic_04_groups-actions.md)
 
 **Key concepts**
 
@@ -121,7 +121,7 @@ subalgebras) that allow a full classification.
 
 ## O4 — PDEs and differential geometry via method transfer
 
-### Topic 5: Curvature, shape and global analysis
+### Topic 5: [Curvature, shape and global analysis](topics/topic_05_curvature-shape-analysis.md)
 
 **Key concepts**
 
@@ -142,7 +142,7 @@ subalgebras) that allow a full classification.
 *overall* shape of a space? They aim to classify highly curved or Einstein
 spaces, gradually dropping symmetry assumptions until none remain.
 
-### Topic 6: Singularities and partial differential equations
+### Topic 6: [Singularities and partial differential equations](topics/topic_06_singularities-pdes.md)
 
 **Key concepts**
 
@@ -168,7 +168,7 @@ black holes are stable under disturbance.
 
 ## O5 — Stochastic analysis for non-commutative field theories
 
-### Topic 7: Field theory and randomness
+### Topic 7: [Field theory and randomness](topics/topic_07_field-theory-randomness.md)
 
 **Key concepts**
 
@@ -196,7 +196,7 @@ spaces — a goal physicists assume but mathematicians have not fully proven.
 
 ## O6 — Structures and their limits in stochastic models
 
-### Topic 8: Random discrete structures and their limits
+### Topic 8: [Random discrete structures and their limits](topics/topic_08_random-discrete-structures.md)
 
 **Key concepts**
 
@@ -222,7 +222,7 @@ very large.
 
 ## O7 — Structures in multiscale processes; effective models
 
-### Topic 9: Multiscale processes and effective behaviour
+### Topic 9: [Multiscale processes and effective behaviour](topics/topic_09_multiscale-processes.md)
 
 **Key concepts**
 
@@ -247,7 +247,7 @@ approximations are, and solve optimisation/control problems on top of them.
 
 ## O8 — Innovative simulation via model- and data-based approaches
 
-### Topic 10: Deep learning and surrogate methods
+### Topic 10: [Deep learning and surrogate methods](topics/topic_10_deepl-surrogate-methods.md)
 
 **Key concepts**
 
