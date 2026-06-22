@@ -1,0 +1,19 @@
+title: Mathematics Münster — Research Overview
+description: Research landscape of the Mathematics Münster Cluster of Excellence.
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  # Leave $$...$$ untouched so client-side KaTeX renders it.
+  math_engine: null
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+exclude:
+  - tagcloud/data

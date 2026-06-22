@@ -1,0 +1,63 @@
+<!-- KaTeX math rendering for GitHub Pages -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/katex.min.css"
+  integrity="sha384-vlBdW0r3AcZO/HboRPznQNowvexd3fY8qHOWkBi5q7KGgqJ+F48+DceybYmrVbmB"
+  crossorigin="anonymous"
+/>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/katex.min.js"
+  integrity="sha384-AtrdNsnxl/75rvBneBVH7DtOvCxSVahR2zWqle1coBKd8DEmLoviqNeJSx64gNAs"
+  crossorigin="anonymous"
+></script>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/contrib/auto-render.min.js"
+  integrity="sha384-bjyGPfbij8/NDKJhSGZNP/khQVgtHUE5exjm4Ydllo42FwIgYsdLO2lXGmRBf5Mz"
+  crossorigin="anonymous"
+></script>
+<script>
+  // GitHub's official inline-math escape is $`...`$ (used for expressions next
+  // to parentheses or containing $). kramdown has no math extension, so it
+  // renders that as: <text "$"><code>X</code><text "$">. KaTeX auto-render
+  // scans text nodes and skips <code>, so it cannot match the delimiters across
+  // that boundary. This pre-pass collapses each $<code>X</code>$ triple back
+  // into a single "$X$" text node so auto-render handles it like any other
+  // formula. Only code spans actually wrapped in single dollar signs are
+  // touched; ordinary inline code is left alone.
+  function unwrapBacktickMath(root) {
+    var codes = root.querySelectorAll("code");
+    for (var i = 0; i < codes.length; i++) {
+      var code = codes[i];
+      var prev = code.previousSibling;
+      var next = code.nextSibling;
+      if (
+        prev &&
+        next &&
+        prev.nodeType === Node.TEXT_NODE &&
+        next.nodeType === Node.TEXT_NODE &&
+        /\$$/.test(prev.nodeValue) &&
+        /^\$/.test(next.nodeValue)
+      ) {
+        prev.nodeValue = prev.nodeValue.replace(/\$$/, "");
+        next.nodeValue = next.nodeValue.replace(/^\$/, "");
+        var math = document.createTextNode("$" + code.textContent + "$");
+        code.parentNode.replaceChild(math, code);
+      }
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    unwrapBacktickMath(document.body);
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "\\(", right: "\\)", display: false },
+      ],
+      throwOnError: false,
+    });
+  });
+</script>

@@ -43,6 +43,6 @@ This repository contains research materials produced for an IMAGINARY exhibition
 
 ### Formatting notes
 
-- Math is written in GitHub/LaTeX style (`$...$` inline, `$$...$$` display). GitHub renders this natively; other viewers need a KaTeX/MathJax previewer.
+- Math is written in GitHub/LaTeX style (`$...$` inline, `$$...$$` display, and GitHub's ``$`...`$`` escape for expressions next to parentheses). GitHub renders this natively, and the published GitHub Pages site renders it via KaTeX (see `_config.yml` and `_includes/head-custom.html`). Other plain viewers need a KaTeX/MathJax previewer.
 - Images are hot-linked from the Mathematics Münster website (© MM/vl) and require an internet connection to display.
 - Web links point to original publications (DOI/arXiv) and encyclopaedic references for each concept.
